@@ -1,15 +1,23 @@
 @font-face {
 	font-family: 'Pensum Regular';
-	font-style: normal;
+	src: url('../fonts/PensumPro-Regular.eot');
+	src: url('../fonts/PensumPro-Regular.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/PensumPro-Regular.woff2') format('woff2'),
+	url('../fonts/PensumPro-Regular.woff') format('woff');
 	font-weight: 400;
-	src: url('../fonts/PensumPro-Regular.otf') format('opentype');
+	font-style: normal;
+	font-stretch: normal;
 }
 
 @font-face {
 	font-family: 'Pensum Regular Italic';
-	font-style: italic;
+	src: url('../fonts/PensumPro-RegularItalic.eot');
+	src: url('../fonts/PensumPro-RegularItalic.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/PensumPro-RegularItalic.woff2') format('woff2'),
+	url('../fonts/PensumPro-RegularItalic.woff') format('woff');
 	font-weight: 400;
-	src: url('../fonts/PensumPro-RegularItalic.otf') format('opentype');
+	font-style: italic;
+	font-stretch: normal;
 }
 
 body {
