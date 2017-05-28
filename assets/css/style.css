@@ -13,7 +13,7 @@
 }
 
 body {
-	background-color: #DDD1D1;
+	background-color: #E8DFDF;
 	/*background-color: #FFFFFF;*/
 	font-family: 'Pensum Regular', Georgia, serif;
 	-webkit-font-smoothing: antialiased;
@@ -271,13 +271,21 @@ tbody tr:hover {
 	top: 0;
 	bottom: 0;
 	margin: auto;
-	height: 5em;
+	height: 9em;
 }
 
 .contact ul {
 	margin: 0 auto;
 	padding: 0;
 	list-style: none;
+	display: block;
+	font-size: 0.667em;
+	line-height: 0.75em;
+}
+
+.contact li {
+	display: inline-block;
+	padding-right: 1em;
 }
 
 /*Footer-----------------*/
@@ -348,6 +356,9 @@ footer {
 	}
 	.description h3{
 		margin: 1em 0 0 0;
+	}
+	.contact {
+		font-size: 1em; line-height: 1.2em; position: relative; width:100%; margin-top: 2em; height: auto;
 	}
 }
 
