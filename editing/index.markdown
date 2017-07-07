@@ -94,7 +94,7 @@ layout: editing
 
 <div class="item">
 	<div class="cover">
-		<img src="../assets/img/Head.png">
+		<img src="../assets/img/head.png">
 	</div>
 	<div class="description">
 		<h3>Mo-Leeza Roberts, HEAD</h3>
