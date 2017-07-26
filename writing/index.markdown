@@ -100,7 +100,7 @@ layout: writing
 <div class="sw-row">
 	<a href="/docs/Thesentencethatidles.pdf">
 	<div class="sw-title">The sentence that idles, South London Gallery and Slow Art Day</div>
-	<div class="sw-publication">Self</div>
+	<div class="sw-publication">South London Gallery </div>
 	<div class="sw-year">2013</div>
 	</a>
 </div>
