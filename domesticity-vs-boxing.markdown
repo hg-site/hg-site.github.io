@@ -28,8 +28,10 @@ These sculptures speak of everyday bondage, and not only the materials, but the 
 
 Wounded Door1 has an awkward frame, a single wheel, not quite enough to roll away. The steel’s bent limbs are structurally defenceless, sort-of failing, asymmetric misfits. The crippled portal leads to a kind of community, that advocated by JD and by Agamben as a “co-belonging of singularities,”***** wedged in a precarious reality. The labour of making metal sculpture contains a realism too: the forms produced are representational not in terms of a visual likeness to reality, but in the sense of working hard to stand for something – whatever that may be.
 
-*McKenzie Wark reading Jodi Dean on Agamben, ‘Communicative Capitalism’. 
-** http://zinelibrary.info/files/comingcommunity.pdf 
+*McKenzie Wark reading Jodi Dean on Agamben, ‘Communicative Capitalism’.
+
+** http://zinelibrary.info/files/comingcommunity.pdf
+
 ***Darling in interview with Giampaolo Bianconi in Rhizome.
-****Darling on The Kitson Road Living Project in Dazed. ‘A lesson in living together’; JD tweet paraphrase. 
-*****Catherine Mills, The Philosophy of Agamben (Oxford: Routledge, 2014), 130.
+
+****Darling on The Kitson Road Living Project in Dazed. ‘A lesson in living together’; JD tweet paraphrase.*****Catherine Mills, The Philosophy of Agamben (Oxford: Routledge, 2014), 130.
