@@ -5,7 +5,7 @@ layout: editing
 ---
 
 <div class="item">
-<a href="">
+<a href="http://cargocollective.com/aorist/No-2">
 	<div class="cover">
 		<img src="../assets/img/aorist-2.jpg">
 	</div>
@@ -18,6 +18,7 @@ layout: editing
 </div>
 
 <div class="item">
+<a href="http://cargocollective.com/aorist/No-1">
 	<div class="cover">
 		<img src="../assets/img/aorist-1.jpg">
 	</div>
@@ -26,6 +27,7 @@ layout: editing
 		<p class="publisher">Eros Press, London</p>
 		<p class="role">Co-editor</p>
 	</div>
+</a>
 </div>
 
 <div class="item">
@@ -40,6 +42,7 @@ layout: editing
 </div>
 
 <div class="item">
+<a href="http://www.ibraaz.org/usr/admin/records/documents/161129_strn_futureimperfect_content_2.pdf">
 	<div class="cover">
 		<img src="../assets/img/Future-Imperfect.jpg">
 	</div>
@@ -48,9 +51,11 @@ layout: editing
 		<p class="publisher">Ibraaz / Sternberg Press</p>
 		<p class="role">Copy-editing, proofreading</p>
 	</div>
+</a>
 </div>
 
 <div class="item">
+<a href="http://www.sternberg-press.com/?pageId=1655">
 	<div class="cover">
 		<img src="../assets/img/Transparenzen_Transparencies.jpg">
 	</div>
@@ -59,9 +64,11 @@ layout: editing
 		<p class="publisher">Sternberg Press / Bielefelder Kunstverein &amp; Kunstverein Nürnberg</p>
 		<p class="role">Copy-editing, proofreading</p>
 	</div>
+</a>
 </div>
 
 <div class="item">
+<a href="http://www.sternberg-press.com/index.php?pageId=1637&bookId=530&l=en">
 	<div class="cover">
 		<img src="../assets/img/Eliasson_Baroque-Baroque.jpg">
 	</div>
@@ -70,9 +77,11 @@ layout: editing
 		<p class="publisher">Sternberg Press / Thyssen Bornemisza Art Contemporary, Berlin &amp; Vienna</p>
 		<p class="role">Copy-editing</p>
 	</div>
+</a>
 </div>
 
 <div class="item">
+<a href="http://www.cornerhousepublications.org/publications/leiko-ikemura-all-about-girls-and-tigers/">
 	<div class="cover">
 		<img src="../assets/img/leiko-ikemura-all-about-girls-and-tigers.jpg">
 	</div>
@@ -81,9 +90,11 @@ layout: editing
 		<p class="publisher">Walter Koenig Verlag / Museum for East Asian Art Cologne</p>
 		<p class="role">Copy-editing, proofreading</p>
 	</div>
+</a>
 </div>
 
 <div class="item">
+<a href="http://www.sternberg-press.com/index.php?pageId=1582&l=en&bookId=476&sort=">
 	<div class="cover">
 		<img src="../assets/img/Kanwar_Sovereign_Forest.jpg">
 	</div>
@@ -92,9 +103,11 @@ layout: editing
 		<p class="publisher">Sternberg Press / Thyssen Bornemisza Art Contemporary</p>
 		<p class="role">Editing</p>
 	</div>
+</a>
 </div>
 
 <div class="item">
+<a href="https://www.bookworks.org.uk/node/1872">
 	<div class="cover">
 		<img src="../assets/img/head.png">
 	</div>
@@ -103,9 +116,11 @@ layout: editing
 		<p class="publisher">Book Works, London</p>
 		<p class="role">Copy-editing</p>
 	</div>
+</a>
 </div>
 
 <div class="item">
+<a href="https://fitzcarraldoeditions.com/">
 	<div class="cover">
 		<img src="../assets/img/fitzcaraldo.png">
 	</div>
@@ -114,9 +129,11 @@ layout: editing
 		<p class="publisher">Fitzcarraldo Editions, London</p>
 		<p class="role">Proofreading</p>
 	</div>
+</a>
 </div>
 
 <div class="item">
+<a href="http://cargocollective.com/public_domain">
 	<div class="cover">
 		<img src="../assets/img/public_domain.png">
 	</div>
@@ -125,9 +142,11 @@ layout: editing
 		<p class="publisher">Andrea Caputo Architecture Studio, Milan</p>
 		<p class="role">Co-editor</p>
 	</div>
+</a>
 </div>
 
 <div class="item">
+<a href="https://books.google.de/books?id=XRhJYgEACAAJ&dq=Man+Ray:+portraits+:+Paris,+Hollywood,+Paris&hl=en&sa=X&ved=0ahUKEwiGs9STzfzUAhWKIMAKHRduATsQ6AEIJDAA">
 	<div class="cover">
 		<img src="../assets/img/man_ray.jpg">
 	</div>
@@ -136,4 +155,5 @@ layout: editing
 		<p class="publisher">Centre Pompidou, Paris</p>
 		<p class="role">Research, Translation </p>
 	</div>
+</a>
 </div>
