@@ -31,6 +31,19 @@ layout: editing
 </div>
 
 <div class="item">
+<a href="http://www.documenta14.de/en/publications/15730/documenta-14-daybook">
+	<div class="cover">
+		<img src="../assets/img/daybook.jpg">
+	</div>
+	<div class="description">
+		<h3>documenta 14, Daybook</h3>
+		<p class="publisher">Kassel / Athens, 2017</p>
+		<p class="role">Copy-editing, proofreading</p>
+	</div>
+</a>
+</div>
+
+<div class="item">
 	<div class="cover">
 		<img src="../assets/img/born-digital.jpg">
 	</div>
