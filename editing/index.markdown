@@ -5,6 +5,7 @@ layout: editing
 ---
 
 <div class="item">
+<a href="">
 	<div class="cover">
 		<img src="../assets/img/aorist-2.jpg">
 	</div>
@@ -13,6 +14,7 @@ layout: editing
 		<p class="publisher">Eros Press, London</p>
 		<p class="role">Co-editor</p>
 	</div>
+</a>
 </div>
 
 <div class="item">
