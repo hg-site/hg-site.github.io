@@ -77,7 +77,7 @@ layout: writing
 	</a>
 </div>
 <div class="sw-row">
-	<a href="http://hannah-gregory.tumblr.com/post/138982020206/domesticity-vs-boxing">
+	<a href="../domesticity-vs-boxing.html">
 	<div class="sw-title">Domesticity vs. Boxing, Jesse Darling, The Conch at the South London Gallery</div>
 	<div class="sw-publication">Self</div>
 	<div class="sw-year">2015</div>
