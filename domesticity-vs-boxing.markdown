@@ -9,7 +9,7 @@ layout: page
 <figcaption>Jesse Darling & Takeshi Shiomitsu, Spirit Level, 2015, photo by Tom Clark.</figcaption>
 </figure>
 
-*A text on Jesse Darling’s sculptures, written for The Conch at the South London Gallery last Spring.*
+*A text on [Jesse Darling](http://bravenewwhatever.tumblr.com/)’s sculptures, written for [The Conch](http://theconchatslg.tumblr.com/post/124560033340/part-ix-22nd-april-2015-hannah-gregory-jesse) at the South London Gallery last Spring.*
 
 Whatever is something for Jesse Darling’s work. Isn’t work opposed to whatever? Whatever is supposed to be lazy, don’t care, not full of laboursome love. Jesse writes of art as love practice writing as love practice… Jesse also welds, steel, in a serious studio in the arches. JD’s website is called the ‘Brave New Whatever’, which has something of crossing the frontier about it.
 
@@ -33,12 +33,12 @@ These sculptures speak of everyday bondage, and not only the materials, but the 
 
 Wounded Door1 has an awkward frame, a single wheel, not quite enough to roll away. The steel’s bent limbs are structurally defenceless, sort-of failing, asymmetric misfits. The crippled portal leads to a kind of community, that advocated by JD and by Agamben as a “co-belonging of singularities,”^^^^^ wedged in a precarious reality. The labour of making metal sculpture contains a realism too: the forms produced are representational not in terms of a visual likeness to reality, but in the sense of working hard to stand for something – whatever that may be.
 
-^ McKenzie Wark reading Jodi Dean on Agamben, ‘Communicative Capitalism’.
+^ McKenzie Wark reading Jodi Dean on Agamben, ‘[Communicative Capitalism](http://www.publicseminar.org/2015/03/communicative-capitalism/#.VTDzrJSUeQw)’.
 
 ^^ http://zinelibrary.info/files/comingcommunity.pdf
 
-^^^ Darling in interview with Giampaolo Bianconi in Rhizome.
+^^^ Darling in interview with Giampaolo Bianconi in [Rhizome](http://rhizome.org/editorial/2012/nov/5/artist-profile-jesse-darling/).
 
-^^^^ Darling on The Kitson Road Living Project in Dazed. ‘A lesson in living together’; JD tweet paraphrase.
+^^^^ Darling on The Kitson Road Living Project in Dazed. ‘[A lesson in living together](http://www.dazeddigital.com/artsandculture/article/24302/1/kitson-road-living-project)’; JD tweet paraphrase.
 
 ^^^^^ Catherine Mills, The Philosophy of Agamben (Oxford: Routledge, 2014), 130.
