@@ -70,7 +70,7 @@ layout: writing
 	</a>
 </div>
 <div class="sw-row">
-	<a href="http://hannah-gregory.tumblr.com/post/137347649281/self-resolution">
+	<a href="http://hannah-gregory.net/self-resolution.html">
 	<div class="sw-title">Self Resolution</div>
 	<div class="sw-publication">Self</div>
 	<div class="sw-year">2016</div>
