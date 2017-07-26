@@ -34,4 +34,6 @@ Wounded Door1 has an awkward frame, a single wheel, not quite enough to roll awa
 
 ***Darling in interview with Giampaolo Bianconi in Rhizome.
 
-****Darling on The Kitson Road Living Project in Dazed. ‘A lesson in living together’; JD tweet paraphrase.*****Catherine Mills, The Philosophy of Agamben (Oxford: Routledge, 2014), 130.
+****Darling on The Kitson Road Living Project in Dazed. ‘A lesson in living together’; JD tweet paraphrase.
+
+*****Catherine Mills, The Philosophy of Agamben (Oxford: Routledge, 2014), 130.
