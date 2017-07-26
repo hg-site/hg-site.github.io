@@ -11,7 +11,7 @@ Teachers often remind students of yoga that practice is not about exterior body,
 <figure>
 <img src="/uploads/hannah%20black%201.png">
 <figcaption>Still from Hannah Black, My Bodies, 2014.</figcaption>
-<figure>
+</figure>
 
 The outside body is at times easier to make comply than the mind, and corporeal demands to sculpt and turn hard are as much about self-image as the exertion of control. With experience, you learn of deeply stretching the fasciae, which the dictionary defines as ‘bands of fibrous connective tissue enveloping, separating, or binding together muscles, organs, and other soft structures of the body.’ Helixes of inner bondage, pulled taut with potential before being released, blood flow restricted then flooding forth: this is how to stretch feeling, or this is how stretching feels.
 
@@ -24,4 +24,4 @@ Every practice comes with its own intention (not only for the new year). Each pr
 <figure>
 <img src="/uploads/hannah%20black%202.png">
 <figcaption>Still from Hannah Black, My Bodies, 2014.</figcaption>
-<figure>
+</figure>
