@@ -44,6 +44,19 @@ layout: editing
 </div>
 
 <div class="item">
+<a href="http://www.ibraaz.org/publications/146">
+	<div class="cover">
+		<img src="../assets/img/hiwa.jpg">
+	</div>
+	<div class="description">
+		<h3>Don’t Shrink Me to the Size of a Bullet: Hiwa K</h3>
+		<p class="publisher">Ibraaz / KW Institute for Contemporary Art, Berlin / Walther Koenig Verlag, 2017</p>
+		<p class="role">Editing</p>
+	</div>
+</a>
+</div>
+
+<div class="item">
 	<div class="cover">
 		<img src="../assets/img/born-digital.jpg">
 	</div>
