@@ -1,6 +1,7 @@
 ---
 title: Domesticity vs. Boxing
 date: 2017-07-26 12:39:00 Z
+layout: page
 ---
 
 A text on Jesse Darling’s sculptures, written for The Conch at the South London Gallery last Spring.
