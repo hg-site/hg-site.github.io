@@ -6,6 +6,11 @@ layout: page
 
 A text on Jesse Darling’s sculptures, written for The Conch at the South London Gallery last Spring.
 
+<figure>
+<img src="/uploads/Spirit-Level.jpg">
+<figcaption>Jesse Darling & Takeshi Shiomitsu, Spirit Level, 2015, photo by Tom Clark.</figcaption>
+</figure>
+
 Whatever is something for Jesse Darling’s work. Isn’t work opposed to whatever? Whatever is supposed to be lazy, don’t care, not full of laboursome love. Jesse writes of art as love practice writing as love practice… Jesse also welds, steel, in a serious studio in the arches. JD’s website is called the ‘Brave New Whatever’, which has something of crossing the frontier about it.
 
 Whatever is a horizon of possibilities. Giorgio Agamben said this. Whatever could seem antithetical to theorizing, so I’m not going to do too much of it, apart from to say – on the fly – that Agamben, in his suggestion of “whatever being” – “other ways of belonging” outside of conventional identity – has something for JD, despite and because of this whatever.^ 
