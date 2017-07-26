@@ -32,7 +32,7 @@ body {
 	margin: 0;
 }
 
-i, em, blockquote {
+i, em, blockquote, figure {
 	font-family: 'Pensum Regular Italic';
 }
 
@@ -304,6 +304,7 @@ tbody tr:hover {
 
 .page h3 {
 	font-size: 2em;
+	line-height: 1em;
 	font-weight: normal;
 	text-align: center;
 	padding: 0;
@@ -319,8 +320,14 @@ article {
 .page img {
 	display: block;
 	margin: auto;
-	text-align: center;
 	max-width: 75%;
+}
+
+figure {
+	margin: 0 auto;
+	padding: 1em 0;
+	text-align: center;
+	font-size: 0.8em;
 }
 
 /*Footer-----------------*/
