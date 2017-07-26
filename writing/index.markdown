@@ -48,7 +48,7 @@ layout: writing
 </div>
 
 <div class="sw-row">
-	<a href="/docs/LETTER-FROM-ATHENS.docx">
+	<a href="/docs/LETTER-FROM-ATHENS.pdf">
 	<div class="sw-title">Letter From Athens</div>
 	<div class="sw-publication">Art Monthly</div>
 	<div class="sw-year">2016</div>
@@ -150,7 +150,7 @@ layout: writing
 	</a>
 </div>
 <div class="sw-row">
-	<a href="/docs/Black-Mountainreview.docx">
+	<a href="/docs/Black-Mountainreview.pdf">
 	<div class="sw-title">Black Mountain College: An Interdisciplinary Experiment at Hamburger Bahnhof, Berlin</div>
 	<div class="sw-publication">ICON</div>
 	<div class="sw-year">2015</div>
@@ -171,7 +171,7 @@ layout: writing
 	</a>
 </div>
 <div class="sw-row">
-	<a href="/docs/EncountersLyotardMonory.docx">
+	<a href="/docs/EncountersLyotardMonory.pdf">
 	<div class="sw-title">Encounters: Lyotard &amp; Monory</div>
 	<div class="sw-publication">frieze</div>
 	<div class="sw-year">2013</div>
@@ -213,7 +213,7 @@ layout: writing
 	</a>
 </div>
 <div class="sw-row">
-	<a href="/docs/PostcardfromVarese.docx">
+	<a href="/docs/PostcardfromVarese.pdf">
 	<div class="sw-title">Postcard from Varese</div>
 	<div class="sw-publication">frieze</div>
 	<div class="sw-year">2014</div>
