@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Self Resolution
+layout: page
 ---
 
 _Written in response to a brief on image and resolution._
