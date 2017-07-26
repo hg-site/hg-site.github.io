@@ -9,7 +9,7 @@ layout: page
 Teachers often remind students of yoga that practice is not about exterior body, but how it feels inside. Image is secondary to sensation; being present each session is more about invisible effects than perfection of form. This is the opposite to ballet, where the insistence on supple arch and sinewy shape topples intuitive physical limits, to the detriment of ligaments and bones. Every practice comes with its own intention, and turning attention to care within, ignoring what society pressures for the out, is a tall order.
 
 <figure>
-<img src="/uploads/test.png">
+<img src="/uploads/hannah%20black%201.png">
 <figcaption>Still from Hannah Black, My Bodies, 2014.</figcaption>
 <figure>
 
@@ -20,3 +20,8 @@ Sometimes during class I internally hear a fragment of artist Hannah Black’s v
 In such studios, there are mirrors, which are distracting. The drishti (gaze) isn’t meant to see much of the world during movement, it settles softly without seeking to bring back a focused picture. In paradox, this inwards observation of usually steely eyes may sharpen a ‘sense of self’, a heightened inner picture that is no image at all. The self, imprecisely, is not highly defined; it is a shifting process re-formed by what visions, what events, it encounters; the binds of body and mind as they meet and entwine with other bodies and minds.
 
 Every practice comes with its own intention (not only for the new year). Each practice, each intention is set around this dynamic of control and release, inside and out. It works to save scattered stimuli and collect fractured impressions, to forgo image in the search for self-definition.
+
+<figure>
+<img src="/uploads/hannah%20black%202.png">
+<figcaption>Still from Hannah Black, My Bodies, 2014.</figcaption>
+<figure>
