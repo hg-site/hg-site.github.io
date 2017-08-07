@@ -142,10 +142,10 @@ layout: archive
 	<td class="year">2015</td>
 </tr>
 <tr data-href="https://thenewinquiry.com/trans-historical-narratives/">
-	<td class="title">Trans-Historical Narratives</td>
-	<td class="publisher"></td>
-	<td class="type"></td>
-	<td class="subject"></td>
+	<td class="title">Trans-Historical Narratives, an interview with Juliet Jacques</td>
+	<td class="publisher">The New Inquiry</td>
+	<td class="type">Interview</td>
+	<td class="subject">Literature</td>
 	<td class="year">2015</td>
 </tr>
 <tr data-href="http://cargocollective.com/aorist">
@@ -188,13 +188,6 @@ layout: archive
 	<td class="publisher">ICON</td>
 	<td class="type">Review</td>
 	<td class="subject">Art</td>
-	<td class="year">2015</td>
-</tr>
-<tr data-href="">
-	<td class="title"></td>
-	<td class="publisher"></td>
-	<td class="type"></td>
-	<td class="subject"></td>
 	<td class="year">2015</td>
 </tr>
 <tr data-href="https://newhumanist.org.uk/articles/4915/bodies-and-antibodies">
