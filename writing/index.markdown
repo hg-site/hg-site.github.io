@@ -7,6 +7,7 @@ layout: writing
 <div class="sw-row">
 	<div class="sw-heading">Essays</div>
 </div>
+
 <div class="sw-row">
 	<a href="http://www.doggerland.info/doggershop">
 	<div class="sw-title">HG &times; JD</div>
@@ -14,6 +15,7 @@ layout: writing
 	<div class="sw-year">2017</div>
 	</a>
 </div>
+
 <div class="sw-row">
 	<a href="/docs/period-piece.pdf">
 	<div class="sw-title">Period Piece</div>
@@ -21,6 +23,7 @@ layout: writing
 	<div class="sw-year">2016</div>
 	</a>
 </div>
+
 <div class="sw-row">
 	<a href="/docs/BeingandDoing_LesRevenants.pdf">
 	<div class="sw-title">Being and Doing, on Moyra Davey’s exhibition ‘The Revenants’</div>
@@ -28,6 +31,7 @@ layout: writing
 	<div class="sw-year">2015</div>
 	</a>
 </div>
+
 <div class="sw-row">
 	<a href="/docs/Francesca-Woodmans-Precarious-Architectures.pdf">
 	<div class="sw-title">Francesca Woodman’s Precarious Architectures</div>
@@ -35,6 +39,7 @@ layout: writing
 	<div class="sw-year">2015</div>
 	</a>
 </div>
+
 <div class="sw-row">
 	<a href="/docs/SeeingThroughEROS.pdf">
 	<div class="sw-title">Seeing Through, on Agnes Martin</div>
@@ -54,6 +59,7 @@ layout: writing
 	<div class="sw-year">2016</div>
 	</a>
 </div>
+
 <div class="sw-row">
 	<a href="http://journal.hkw.de/en/fehlende-teile-im-kollektiven-gedaechtnis/">
 	<div class="sw-title">The Missing Parts of Collective Memory, Kader Attia and Françoise Vergès</div>
@@ -61,6 +67,7 @@ layout: writing
 	<div class="sw-year">2016</div>
 	</a>
 </div>
+
 <div class="sw-row">
 	<a href="http://www.postmatter.com/articles/oct-dec-2016/sidsel-meineche-hansen/">
 	<div class="sw-title">Hacking the Pornographic Body, Sidsel Meineche Hansen
@@ -69,6 +76,7 @@ layout: writing
 	<div class="sw-year">2016</div>
 	</a>
 </div>
+
 <div class="sw-row">
 	<a href="../self-resolution.html">
 	<div class="sw-title">Self Resolution</div>
@@ -76,6 +84,7 @@ layout: writing
 	<div class="sw-year">2016</div>
 	</a>
 </div>
+
 <div class="sw-row">
 	<a href="../domesticity-vs-boxing.html">
 	<div class="sw-title">Domesticity vs. Boxing, Jesse Darling, The Conch at the South London Gallery</div>
@@ -83,6 +92,7 @@ layout: writing
 	<div class="sw-year">2015</div>
 	</a>
 </div>
+
 <div class="sw-row">
 	<a href="https://thephotographersgalleryblog.org.uk/2015/01/12/creature-film-joao-maria-gusmao-and-pedro-paiva/">
 	<div class="sw-title">Creature-Film, João Maria Gusmão and Pedro Paiva</div>
@@ -90,6 +100,7 @@ layout: writing
 	<div class="sw-year">2015</div>
 	</a>
 </div>
+
 <div class="sw-row">
 	<a href="/docs/you-get-around-a-bit.pdf">
 	<div class="sw-title">You Get Around a Bit Then, co-written with Edwina Attlee</div>
@@ -97,6 +108,7 @@ layout: writing
 	<div class="sw-year">2013</div>
 	</a>
 </div>
+
 <div class="sw-row">
 	<a href="/docs/Thesentencethatidles.pdf">
 	<div class="sw-title">The sentence that idles, South London Gallery and Slow Art Day</div>
@@ -116,6 +128,7 @@ layout: writing
 	<div class="sw-year">2017</div>
 	</a>
 </div>
+
 <div class="sw-row">
 	<a href="https://www.apollo-magazine.com/archival-impulse-an-interview-with-kader-attia/">
 	<div class="sw-title">Kader Attia, Archival Impulse</div>
@@ -123,6 +136,7 @@ layout: writing
 	<div class="sw-year">2015</div>
 	</a>
 </div>
+
 <div class="sw-row">
 	<a href="http://www.thewhitereview.org/interviews/interview-with-moyra-davey/">
 	<div class="sw-title">Moyra Davey</div>
@@ -130,6 +144,7 @@ layout: writing
 	<div class="sw-year">2015</div>
 	</a>
 </div>
+
 <div class="sw-row">
 	<a href="http://thenewinquiry.com/features/trans-historical-narratives/">
 	<div class="sw-title">Juliet Jacques, Trans-Historical Narratives</div>
@@ -149,6 +164,7 @@ layout: writing
 	<div class="sw-year">2016</div>
 	</a>
 </div>
+
 <div class="sw-row">
 	<a href="/docs/Black-Mountainreview.pdf">
 	<div class="sw-title">Black Mountain College: An Interdisciplinary Experiment at Hamburger Bahnhof, Berlin</div>
@@ -156,6 +172,7 @@ layout: writing
 	<div class="sw-year">2015</div>
 	</a>
 </div>
+
 <div class="sw-row">
 	<a href="http://londonreviewofbreakfasts.blogspot.gr/2013/07/special-dispatch-breakfast-in-naples.html">
 	<div class="sw-title">Breakfast in Naples</div>
@@ -163,6 +180,7 @@ layout: writing
 	<div class="sw-year">2013</div>
 	</a>
 </div>
+
 <div class="sw-row">
 	<a href="https://www.iconeye.com/opinion/review/item/11985-channa-horwitz-counting-in-eight-moving-in-colour">
 	<div class="sw-title">Channa Horwitz, Counting in Eight, Moving in Colour at KW Institute for Contemporary Art, Berlin</div>
@@ -170,6 +188,7 @@ layout: writing
 	<div class="sw-year">2015</div>
 	</a>
 </div>
+
 <div class="sw-row">
 	<a href="/docs/EncountersLyotardMonory.pdf">
 	<div class="sw-title">Encounters: Lyotard &amp; Monory</div>
@@ -177,6 +196,7 @@ layout: writing
 	<div class="sw-year">2013</div>
 	</a>
 </div>
+
 <div class="sw-row">
 	<a href="https://www.ft.com/content/c2e7ec00-efb8-11e6-ba01-119a44939bb6">
 	<div class="sw-title">Everyday End-times, Black Wave by Michelle Tea</div>
@@ -184,6 +204,7 @@ layout: writing
 	<div class="sw-year">2017</div>
 	</a>
 </div>
+
 <div class="sw-row">
 	<a href="http://thequietus.com/articles/11096-after-pornified-levitate-the-primate-feminist-porn">
 	<div class="sw-title">Feminist Porn and the Impossible Subject</div>
@@ -191,6 +212,7 @@ layout: writing
 	<div class="sw-year">2013</div>
 	</a>
 </div>
+
 <div class="sw-row">
 	<a href="https://newhumanist.org.uk/articles/4915/bodies-and-antibodies">
 	<div class="sw-title">On Immunity by Eula Biss</div>
@@ -198,6 +220,7 @@ layout: writing
 	<div class="sw-year">2015</div>
 	</a>
 </div>
+
 <div class="sw-row">
 	<a href="http://www.domusweb.it/en/architecture/2013/08/28/an_atlas_of_modernlandscapes.html">
 	<div class="sw-title">Le Corbusier, An Atlas of Modern Landscapes at MoMA</div>
@@ -205,6 +228,7 @@ layout: writing
 	<div class="sw-year">2013</div>
 	</a>
 </div>
+
 <div class="sw-row">
 	<a href="https://www.ft.com/content/e4581a20-e60b-11e5-a09b-1f8b0d268c39">
 	<div class="sw-title">The Lonely City: Adventures in the Art of Being Alone by Olivia Laing</div>
@@ -212,6 +236,7 @@ layout: writing
 	<div class="sw-year">2013</div>
 	</a>
 </div>
+
 <div class="sw-row">
 	<a href="/docs/PostcardfromVarese.pdf">
 	<div class="sw-title">Postcard from Varese</div>
@@ -219,6 +244,7 @@ layout: writing
 	<div class="sw-year">2014</div>
 	</a>
 </div>
+
 <div class="sw-row">
 	<a href="/docs/Air-Conditioning.pdf">
 	<div class="sw-title">Review in Retrospect – Art & Language’s Air-Conditioning Show</div>
@@ -226,6 +252,7 @@ layout: writing
 	<div class="sw-year">2016</div>
 	</a>
 </div>
+
 <div class="sw-row">
 	<a href="http://hannah-gregory.tumblr.com/post/32116709274/virtuoso-listening">
 	<div class="sw-title">Virtuoso Listening, Eliane Radigue</div>
