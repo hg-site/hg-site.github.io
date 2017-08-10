@@ -173,7 +173,7 @@ layout: writing
 	</a>
 </div>
 
-</div><div class="sw-row">
+<div class="sw-row">
 	<a href="/docs/Black-Mountainreview.pdf">
 	<div class="sw-title">Black Mountain College: An Interdisciplinary Experiment at Hamburger Bahnhof, Berlin</div>
 	<div class="sw-publication">ICON</div>
