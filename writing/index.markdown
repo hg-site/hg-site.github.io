@@ -43,7 +43,7 @@ layout: writing
 <div class="sw-row">
 	<a href="/docs/SeeingThroughEROS.pdf">
 	<div class="sw-title">Seeing Through, on Agnes Martin</div>
-	<div class="sw-publication">E.R.O.S., The Interior</div>
+	<div class="sw-publication">Eros, 'The Interior'</div>
 	<div class="sw-year">2015</div>
 	</a>
 </div>
@@ -54,7 +54,7 @@ layout: writing
 
 <div class="sw-row">
 	<a href="/docs/LETTER-FROM-ATHENS.pdf">
-	<div class="sw-title">Letter From Athens</div>
+	<div class="sw-title">Letter from Athens</div>
 	<div class="sw-publication">Art Monthly</div>
 	<div class="sw-year">2016</div>
 	</a>
@@ -87,8 +87,8 @@ layout: writing
 
 <div class="sw-row">
 	<a href="../domesticity-vs-boxing.html">
-	<div class="sw-title">Domesticity vs. Boxing, Jesse Darling, The Conch at the South London Gallery</div>
-	<div class="sw-publication">Self</div>
+	<div class="sw-title">Domesticity vs. Boxing, Jesse Darling</div>
+	<div class="sw-publication">South London Gallery</div>
 	<div class="sw-year">2015</div>
 	</a>
 </div>
@@ -103,7 +103,7 @@ layout: writing
 
 <div class="sw-row">
 	<a href="/docs/you-get-around-a-bit.pdf">
-	<div class="sw-title">You Get Around a Bit Then, co-written with Edwina Attlee</div>
+	<div class="sw-title">You get around a bit then, co-written with Ed Attlee</div>
 	<div class="sw-publication">StepAway Magazine</div>
 	<div class="sw-year">2013</div>
 	</a>
@@ -111,7 +111,7 @@ layout: writing
 
 <div class="sw-row">
 	<a href="/docs/Thesentencethatidles.pdf">
-	<div class="sw-title">The sentence that idles, South London Gallery and Slow Art Day</div>
+	<div class="sw-title">The sentence that idles</div>
 	<div class="sw-publication">South London Gallery </div>
 	<div class="sw-year">2013</div>
 	</a>
@@ -158,14 +158,21 @@ layout: writing
 </div>
 
 <div class="sw-row">
-	<a href="http://www.aqnb.com/2016/04/19/and-no-animal-is-without-enemy-cubitt-gallery-reviewed/">
-	<div class="sw-title">And No Animal Is Without Enemy, performance-reading at Cubitt London</div>
-	<div class="sw-publication">AQNB</div>
-	<div class="sw-year">2016</div>
+	<a href="http://bravenewwhat.tumblr.com/post/163209586997/art-monthly-review-of-mene-mene-tekel-parsin-by">
+	<div class="Mene Mene Tekel Parsin, Wysing Arts Centre">TITLE</div>
+	<div class="Art Monthly">PUBLICATION</div>
+	<div class="2017">YEAR</div>
 	</a>
 </div>
 
 <div class="sw-row">
+	<a href="https://frieze.com/article/gcc">
+	<div class="Gestures, GCC, Berlin">TITLE</div>
+	<div class="frieze">PUBLICATION</div>
+	<div class="2017">YEAR</div>
+	</a>
+
+</div><div class="sw-row">
 	<a href="/docs/Black-Mountainreview.pdf">
 	<div class="sw-title">Black Mountain College: An Interdisciplinary Experiment at Hamburger Bahnhof, Berlin</div>
 	<div class="sw-publication">ICON</div>
