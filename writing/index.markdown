@@ -43,7 +43,7 @@ layout: writing
 <div class="sw-row">
 	<a href="/docs/SeeingThroughEROS.pdf">
 	<div class="sw-title">Seeing Through, on Agnes Martin</div>
-	<div class="sw-publication">Eros, 'The Interior'</div>
+	<div class="sw-publication">Eros, The Interior</div>
 	<div class="sw-year">2015</div>
 	</a>
 </div>
@@ -159,18 +159,19 @@ layout: writing
 
 <div class="sw-row">
 	<a href="http://bravenewwhat.tumblr.com/post/163209586997/art-monthly-review-of-mene-mene-tekel-parsin-by">
-	<div class="Mene Mene Tekel Parsin, Wysing Arts Centre">TITLE</div>
-	<div class="Art Monthly">PUBLICATION</div>
-	<div class="2017">YEAR</div>
+	<div class="sw-title">Mene Mene Tekel Parsin, Wysing Arts Centre</div>
+	<div class="sw-publication">Art Monthly</div>
+	<div class="sw-year">2017</div>
 	</a>
 </div>
 
 <div class="sw-row">
 	<a href="https://frieze.com/article/gcc">
-	<div class="Gestures, GCC, Berlin">TITLE</div>
-	<div class="frieze">PUBLICATION</div>
-	<div class="2017">YEAR</div>
+	<div class="sw-title">Gestures, GCC, Berlin</div>
+	<div class="sw-publication">frieze</div>
+	<div class="sw-year">2017</div>
 	</a>
+</div>
 
 </div><div class="sw-row">
 	<a href="/docs/Black-Mountainreview.pdf">
