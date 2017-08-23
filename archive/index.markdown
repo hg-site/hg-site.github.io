@@ -329,7 +329,7 @@ layout: archive
 </tr>
 
 <tr data-href="https://www.iconeye.com/news/news/icon-128-mexico/">
-	<td class="title">‘Memory Palace’, Victoria & Albert Museum</td>
+	<td class="title">‘Memory Palace’, Victoria & Albert Museum, London</td>
 	<td class="publisher">ICON</td>
 	<td class="type">Review</td>
 	<td class="subject">Art</td>
@@ -345,7 +345,8 @@ layout: archive
 </tr>
 
 <tr data-href="www.domusweb.it/en/architecture/2013/10/17/zaha_hadid_serpentinesackler.html">
-	<td class="title">Zaha Hadid, Serpentine Sackler Gallery</td>
+	<td class="title">Zaha Hadid, Serpentine Sackler Gallery,
+ London</td>
 	<td class="publisher">Domus</td>
 	<td class="type">Review</td>
 	<td class="subject">Architecture</td>
@@ -393,7 +394,7 @@ layout: archive
 </tr>
 
 <tr data-href="http://www.domusweb.it/en/art/2013/07/18/101_spring_streetdonaldjudd.html">
-	<td class="title">Donald Judd’s 101 Spring St</td>
+	<td class="title">Donald Judd’s 101 Spring St, New York City</td>
 	<td class="publisher">Domus</td>
 	<td class="type">Feature</td>
 	<td class="subject">Art</td>
@@ -473,7 +474,8 @@ layout: archive
 </tr>
 
 <tr data-href="http://hannah-gregory.tumblr.com/post/30587578103/a-city-in-the-mind">
-	<td class="title">Peter Fraser, ‘A City in the Mind’</td>
+	<td class="title">Peter Fraser, ‘A City in the Mind’,
+ London</td>
 	<td class="publisher">ICON</td>
 	<td class="type">Review</td>
 	<td class="subject">Art</td>
@@ -481,7 +483,7 @@ layout: archive
 </tr>
 
 <tr data-href="http://hannah-gregory.tumblr.com/post/32039384633/flowers-of-grass">
-	<td class="title">Takehiko Fukunaga, Flowers of Grass</td>
+	<td class="title">Flowers of Grass by Takehiko Fukunaga</td>
 	<td class="publisher">TLS</td>
 	<td class="type">Review</td>
 	<td class="subject">Literature</td>
@@ -506,7 +508,7 @@ layout: archive
 </tr>
 
 <tr data-href="http://thequietus.com/film">
-	<td class="title">LUX/ICA Biennial of Moving Images</td>
+	<td class="title">LUX/ICA Biennial of Moving Images, London</td>
 	<td class="publisher">The Quietus Film</td>
 	<td class="type">Review</td>
 	<td class="subject">Film</td>
@@ -554,7 +556,8 @@ layout: archive
 </tr>
 
 <tr data-href="https://www.iconeye.com/news/reviews-2012/review-british-design-1948-2012">
-	<td class="title">British Design 1948 - 2012</td>
+	<td class="title">‘British Design 1948—2012’, Victoria &
+ Albert Museum</td>
 	<td class="publisher">ICON</td>
 	<td class="type">Review</td>
 	<td class="subject">Design</td>
@@ -570,7 +573,7 @@ layout: archive
 </tr>
 
 <tr data-href="http://www.ink-live.com/emagazines/eurostar-metropolitan/1005/february-2012/#/3/zoomed,">
-	<td class="title">The Paris High-Line Travel Feature</td>
+	<td class="title">The Paris High-Line</td>
 	<td class="publisher">Metropolitan Magazine</td>
 	<td class="type">Feature</td>
 	<td class="subject">Travel</td>
@@ -578,7 +581,7 @@ layout: archive
 </tr>
 
 <tr data-href="http://thequietus.com/articles/06658-claire-denis-interview">
-	<td class="title">I Look at People: Interview with Claire Denis</td>
+	<td class="title">I Look at People, interview with Claire Denis</td>
 	<td class="publisher">The Quietus Film</td>
 	<td class="type">Interview</td>
 	<td class="subject">Film</td>
@@ -594,7 +597,7 @@ layout: archive
 </tr>
 
 <tr data-href="http://www.stylus.com/">
-	<td class="title">London Architecture Festival Report, The Playful City</td>
+	<td class="title">London Architecture Festival,‘The Playful City’</td>
 	<td class="publisher">Stylus</td>
 	<td class="type">Report</td>
 	<td class="subject">Architecture</td>
@@ -610,7 +613,8 @@ layout: archive
 </tr>
 
 <tr data-href="http://dossierjournal.com/style/fashion/yves-saint-laurent-at-petit-palais/">
-	<td class="title">Yves Saint Laurent at Le Petit Palais</td>
+	<td class="title">Yves Saint Laurent at Le Petit Palais,
+ Paris</td>
 	<td class="publisher">Dossier</td>
 	<td class="type">Review</td>
 	<td class="subject">Film</td>
@@ -626,7 +630,7 @@ layout: archive
 </tr>
 
 <tr data-href="http://www.bizarremag.com/news-and-videos/latest-features/8554/taxidermy_fire.html.">
-	<td class="title">Touched by Fire</td>
+	<td class="title">Touched by Fire, Martin d'Orgeval</td>
 	<td class="publisher">Bizarre Magazine</td>
 	<td class="type">Feature</td>
 	<td class="subject">Art</td>
@@ -642,7 +646,7 @@ layout: archive
 </tr>
 
 <tr data-href="http://www.newstatesman.com/books/2009/11/catherine-jealousy-life-sex">
-	<td class="title">Jealousy, The Other Life of Catherine M</td>
+	<td class="title">Jealousy, The Other Life of Catherine M by Catherine Millet</td>
 	<td class="publisher">New Statesman</td>
 	<td class="type">Review</td>
 	<td class="subject">Literature</td>
@@ -650,10 +654,10 @@ layout: archive
 </tr>
 
 <tr data-href="https://en.wikipedia.org/wiki/Plan_B_(magazine)">
-	<td class="title">Virginie Despentes interview</td>
+	<td class="title">Virginie Despentes</td>
 	<td class="publisher">Plan B</td>
 	<td class="type">Interview</td>
-	<td class="subject">Film</td>
+	<td class="subject">Feminism</td>
 	<td class="year">2009</td>
 </tr>
 
@@ -666,10 +670,10 @@ layout: archive
 </tr>
 
 <tr data-href="">
-	<td class="title">Interview with Faiza Guène</td>
+	<td class="title">Faiza Guène</td>
 	<td class="publisher">Venus Magazine</td>
 	<td class="type">Interview</td>
-	<td class="subject">Art</td>
+	<td class="subject">Literature</td>
 	<td class="year">2009</td>
 </tr>
 </tbody>
