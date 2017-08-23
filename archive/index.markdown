@@ -17,7 +17,8 @@ layout: archive
 <tbody class="list">
 
 <tr data-href="https://frieze.com/article/teresa-burga-0">
-	<td class="title">Teresa Burga, Galerie Barbara Thumm</td>
+	<td class="title">Teresa Burga, Galerie Barbara Thumm,
+ Berlin</td>
 	<td class="publisher">Frieze</td>
 	<td class="type">Review</td>
 	<td class="subject">Art</td>
@@ -25,7 +26,7 @@ layout: archive
 </tr>
 
 <tr data-href="http://www.artmonthly.co.uk/magazine/site/issue/jul-aug-2017">
-	<td class="title">‘Mene Mene Tekel Parsin’, Wysing Arts Centre</td>
+	<td class="title">‘Mene Mene Tekel Parsin’, Wysing Arts Centre, UK</td>
 	<td class="publisher">Art Monthly</td>
 	<td class="type">Review</td>
 	<td class="subject">Art</td>
@@ -49,7 +50,7 @@ layout: archive
 </tr>
 
 <tr data-href="https://frieze.com/article/gcc">
-	<td class="title">GCC, ‘Gestures’ at Kraupa-Tuskany Zeidler</td>
+	<td class="title">GCC, ‘Gestures’ at Kraupa-Tuskany Zeidler, Berlin</td>
 	<td class="publisher">Frieze</td>
 	<td class="type">Review</td>
 	<td class="subject">Art</td>
@@ -113,7 +114,7 @@ layout: archive
 </tr>
 
 <tr data-href="http://www.aqnb.com/2016/04/19/and-no-animal-is-without-enemy-cubitt-gallery-reviewed/">
-	<td class="title">And No Animal Is Without An Enemy, Cubitt Gallery</td>
+	<td class="title">And No Animal Is Without Enemy, Cubitt Gallery, London</td>
 	<td class="publisher">aqnb</td>
 	<td class="type">Review</td>
 	<td class="subject">Art</td>
@@ -145,7 +146,7 @@ layout: archive
 </tr>
 
 <tr data-href="http://postmatter.com/#/currents/musical-objects">
-	<td class="title">Musical Objects, 3hd Festival</td>
+	<td class="title">Musical Objects, 3hd Festival, Berlin</td>
 	<td class="publisher">POSTMatter</td>
 	<td class="type">Review</td>
 	<td class="subject">Music</td>
@@ -160,7 +161,7 @@ layout: archive
 	<td class="year">2015</td>
 </tr>
 <tr data-href="http://postmatter.com/articles/archive-2012-2016/2015/21-porn-to-pizza/">
-	<td class="title">Porn to Pizza – Domestic Clichés, at DAM</td>
+	<td class="title">Porn to Pizza – Domestic Clichés, at DAM, Berlin</td>
 	<td class="publisher">POSTMatter</td>
 	<td class="type">Review</td>
 	<td class="subject">Art</td>
@@ -256,7 +257,7 @@ layout: archive
 </tr>
 
 <tr data-href="http://postmatter.com/#/currents/capture-all-transmediale">
-	<td class="title">Capture All, Transmediale</td>
+	<td class="title">Capture All, Transmediale, Berlin</td>
 	<td class="publisher">POSTMatter</td>
 	<td class="type">Review</td>
 	<td class="subject">Art</td>
@@ -272,7 +273,7 @@ layout: archive
 </tr>
 
 <tr data-href="https://www.thewire.co.uk/issues/371">
-	<td class="title">The Mechanical Garden and Other Long Encores</td>
+	<td class="title">‘The Mechanical Garden and Other Long Encores’, London</td>
 	<td class="publisher">The Wire</td>
 	<td class="type">Review</td>
 	<td class="subject">Art</td>
@@ -280,7 +281,7 @@ layout: archive
 </tr>
 
 <tr data-href="https://www.iconeye.com/opinion/review/item/11303-seroxat-smirnoff-thc-laura-oldfield-ford">
-	<td class="title">Seroxat, Smirnoff, THC, Laura Oldfield Ford in the suburbs</td>
+	<td class="title">‘Seroxat, Smirnoff, THC’, Laura Oldfield Ford in the suburbs</td>
 	<td class="publisher">ICON</td>
 	<td class="type">Review</td>
 	<td class="subject">Art</td>
@@ -458,7 +459,7 @@ layout: archive
 <tr data-href="http://thequietus.com/articles/11096-after-pornified-levitate-the-primate-feminist-porn">
 	<td class="title">Feminist Porn and The Impossible Subject</td>
 	<td class="publisher">The Quietus Books</td>
-	<td class="type">Review</td>
+	<td class="type">Essay</td>
 	<td class="subject">Literature</td>
 	<td class="year">2013</td>
 </tr>
@@ -472,7 +473,7 @@ layout: archive
 </tr>
 
 <tr data-href="http://hannah-gregory.tumblr.com/post/30587578103/a-city-in-the-mind">
-	<td class="title">Peter Fraser, A City in the Mind</td>
+	<td class="title">Peter Fraser, ‘A City in the Mind’</td>
 	<td class="publisher">ICON</td>
 	<td class="type">Review</td>
 	<td class="subject">Art</td>
@@ -488,31 +489,32 @@ layout: archive
 </tr>
 
 <tr data-href="http://hannah-gregory.tumblr.com/post/31924615386/model-home-shanghai">
-	<td class="title">’Model Home’, Rock Bund Art Museum</td>
+	<td class="title">‘Model Home’, Rock Bund Art Museum,
+ Shanghai</td>
 	<td class="publisher">Blueprint</td>
 	<td class="type">Review</td>
-	<td class="subject">Art</td>
+	<td class="subject">Architecture</td>
 	<td class="year">2012</td>
 </tr>
 
 <tr data-href="http://www.cntraveller.com/recommended/cities/budapest-design-hotspots">
-	<td class="title">Budapest Design Hotspots</td>
-	<td class="publisher">Conde Nast Traveller</td>
-	<td class="type">Review</td>
+	<td class="title">The Buzz in Budapest</td>
+	<td class="publisher">Condé Nast Traveller</td>
+	<td class="type">Feature</td>
 	<td class="subject">Design</td>
 	<td class="year">2012</td>
 </tr>
 
 <tr data-href="http://thequietus.com/film">
-	<td class="title">LUX/ICA Biennial of Moving Images Report</td>
+	<td class="title">LUX/ICA Biennial of Moving Images</td>
 	<td class="publisher">The Quietus Film</td>
 	<td class="type">Review</td>
-	<td class="subject">Art</td>
+	<td class="subject">Film</td>
 	<td class="year">2012</td>
 </tr>
 
 <tr data-href="http://viewer.zmags.co.uk/publication/cdb7aa78#/cdb7aa78/60,">
-	<td class="title">Budapest Food Feature</td>
+	<td class="title">Budapest Food</td>
 	<td class="publisher">Evening Standard Food Quarterly</td>
 	<td class="type">Feature</td>
 	<td class="subject">Food</td>
@@ -523,7 +525,7 @@ layout: archive
 	<td class="title">Sarah Harvey, ‘Opus Pericardium’</td>
 	<td class="publisher">The Wire</td>
 	<td class="type">Review</td>
-	<td class="subject">Music</td>
+	<td class="subject">Art</td>
 	<td class="year">2012</td>
 </tr>
 
@@ -544,7 +546,7 @@ layout: archive
 </tr>
 
 <tr data-href="https://frieze.com/shows/review/boy-a-contemporary-portrait/">
-	<td class="title">Boy: A Contemporary Portrait</td>
+	<td class="title">‘Boy: A Contemporary Portrait’, Leo Xu Projects, Shanghai</td>
 	<td class="publisher">Frieze</td>
 	<td class="type">Review</td>
 	<td class="subject">Art</td>
