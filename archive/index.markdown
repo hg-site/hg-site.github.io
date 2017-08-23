@@ -328,7 +328,7 @@ layout: archive
 </tr>
 
 <tr data-href="https://www.iconeye.com/news/news/icon-128-mexico/">
-	<td class="title">Memory Palace</td>
+	<td class="title">‘Memory Palace’, Victoria & Albert Museum</td>
 	<td class="publisher">ICON</td>
 	<td class="type">Review</td>
 	<td class="subject">Art</td>
@@ -336,7 +336,7 @@ layout: archive
 </tr>
 
 <tr data-href="">
-	<td class="title">Elmgreen &amp; Dragset ’Tomorrow’</td>
+	<td class="title">Elmgreen &amp; Dragset, ‘Tomorrow’ at Victoria & Albert Museum</td>
 	<td class="publisher">Domus</td>
 	<td class="type">Review</td>
 	<td class="subject">Art</td>
