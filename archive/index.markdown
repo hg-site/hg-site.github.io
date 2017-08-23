@@ -113,7 +113,7 @@ layout: archive
 </tr>
 
 <tr data-href="http://www.aqnb.com/2016/04/19/and-no-animal-is-without-enemy-cubitt-gallery-reviewed/">
-	<td class="title">And No Animal Is Without An Enemy, at Cubitt Gallery</td>
+	<td class="title">And No Animal Is Without An Enemy, Cubitt Gallery</td>
 	<td class="publisher">aqnb</td>
 	<td class="type">Review</td>
 	<td class="subject">Art</td>
@@ -176,7 +176,7 @@ layout: archive
 </tr>
 
 <tr data-href="http://cargocollective.com/aorist">
-	<td class="title">Review in Retrospect – Art &amp; Language’s Air-Conditioning Show</td>
+	<td class="title">Review in Retrospect – Art &amp; Language’s ‘The Air-Conditioning Show’</td>
 	<td class="publisher">Aorist</td>
 	<td class="type">Review</td>
 	<td class="subject">Art</td>
@@ -199,7 +199,7 @@ layout: archive
 	<td class="year">2015</td>
 </tr>
 
-<tr data-href="http://www.thewhitereview.org/online-issue/june-2015/">
+<tr data-href="http://www.thewhitereview.org/interviews/interview-with-moyra-davey/">
 	<td class="title">Interview with Moyra Davey</td>
 	<td class="publisher">The White Review</td>
 	<td class="type">Interview</td>
@@ -208,7 +208,7 @@ layout: archive
 </tr>
 
 <tr data-href="https://www.iconeye.com/opinion/review/item/11985-channa-horwitz-counting-in-eight-moving-in-colour">
-	<td class="title">Counting in Eight, Moving in Colour</td>
+	<td class="title">Channa Horwitz, ‘Counting in Eight, Moving in Colour’</td>
 	<td class="publisher">ICON</td>
 	<td class="type">Review</td>
 	<td class="subject">Art</td>
@@ -216,7 +216,7 @@ layout: archive
 </tr>
 
 <tr data-href="https://newhumanist.org.uk/articles/4915/bodies-and-antibodies">
-	<td class="title">Bodies and antibodies</td>
+	<td class="title">On Immunity by Eula Biss</td>
 	<td class="publisher">New Humanist</td>
 	<td class="type">Review</td>
 	<td class="subject">Literature</td>
@@ -224,15 +224,15 @@ layout: archive
 </tr>
 
 <tr data-href="http://theconchatslg.tumblr.com/post/124560033340/part-ix-22nd-april-2015-hannah-gregory-jesse">
-	<td class="title">Domesticity vs. Boxing</td>
-	<td class="publisher">The Conch</td>
+	<td class="title">Domesticity vs. Boxing, Jesse Darling</td>
+	<td class="publisher">South London Gallery</td>
 	<td class="type">Art text</td>
 	<td class="subject">Art</td>
 	<td class="year">2015</td>
 </tr>
 
 <tr data-href="http://postmatter.com/?s=hannah+gregory#/currents/viral-compositions">
-	<td class="title">Viral Compositions</td>
+	<td class="title">Viral Compositions, James Hoff</td>
 	<td class="publisher">POSTMatter</td>
 	<td class="type">Profile</td>
 	<td class="subject">Art</td>
@@ -248,7 +248,7 @@ layout: archive
 </tr>
 
 <tr data-href="https://www.dropbox.com/s/abeuyhsxyzphive/BeingandDoing_LesRevenants.pdf?dl=0">
-	<td class="title">’Being and Doing’, an essay on Moyra Davey and Jean Genet</td>
+	<td class="title">‘Being and Doing’, on Moyra Davey and Jean Genet</td>
 	<td class="publisher">Wilfried Lentz</td>
 	<td class="type">Essay</td>
 	<td class="subject">Art</td>
@@ -256,7 +256,7 @@ layout: archive
 </tr>
 
 <tr data-href="http://postmatter.com/#/currents/capture-all-transmediale">
-	<td class="title">’Capture All’ transmediale art highlights</td>
+	<td class="title">Capture All, Transmediale</td>
 	<td class="publisher">POSTMatter</td>
 	<td class="type">Review</td>
 	<td class="subject">Art</td>
@@ -288,17 +288,17 @@ layout: archive
 </tr>
 
 <tr data-href="https://www.iconeye.com/opinion/review/item/11197-the-promise">
-	<td class="title">The Promise</td>
+	<td class="title">‘The Promise’, Bristol Arnolfini </td>
 	<td class="publisher">ICON</td>
 	<td class="type">Review</td>
-	<td class="subject">Art</td>
+	<td class="subject">Architecture</td>
 	<td class="year">2014</td>
 </tr>
 
 <tr data-href="http://blog.frieze.com/postcard-from-varese/">
 	<td class="title">Postcard from Varese</td>
 	<td class="publisher">Frieze</td>
-	<td class="type">Essay</td>
+	<td class="type">Letter</td>
 	<td class="subject">Art</td>
 	<td class="year">2014</td>
 </tr>
@@ -314,8 +314,8 @@ layout: archive
 <tr data-href="https://www.disegnodaily.com/features/nathalie-du-pasquier-in-her-studio">
 	<td class="title">Nathalie du Pasquier</td>
 	<td class="publisher">Disegno</td>
-	<td class="type">Profile</td>
-	<td class="subject">Art</td>
+	<td class="type">Feature</td>
+	<td class="subject">Design</td>
 	<td class="year">2014</td>
 </tr>
 
