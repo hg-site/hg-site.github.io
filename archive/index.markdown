@@ -384,7 +384,7 @@ layout: archive
 </tr>
 
 <tr data-href="http://www.domusweb.it/en/art/2013/07/3/james_turrell_ateinreign.html">
-	<td class="title">James Turrell ‘Aten Reign’</td>
+	<td class="title">James Turrell, ‘Aten Reign’ at The Guggenheim</td>
 	<td class="publisher">Domus</td>
 	<td class="type">Review</td>
 	<td class="subject">Art</td>
@@ -400,7 +400,7 @@ layout: archive
 </tr>
 
 <tr data-href="http://www.domusweb.it/en/architecture/2013/08/28/an_atlas_of_modernlandscapes.html">
-	<td class="title">Le Corbusier, An Atlas of Modern Landscapes</td>
+	<td class="title">Le Corbusier, ‘An Atlas of Modern Landscapes’ at MoMA</td>
 	<td class="publisher">Domus</td>
 	<td class="type">Review</td>
 	<td class="subject">Architecture</td>
@@ -415,8 +415,8 @@ layout: archive
 	<td class="year">2013</td>
 </tr>
 
-<tr data-href="www.domusweb.it/en/interviews/2013/08/05/networked_devicesandpublicspace.html">
-	<td class="title">Networked Devices and Urban Space</td>
+<tr data-href="http://www.domusweb.it/en/interviews/2013/08/05/networked_devicesandpublicspace.html">
+	<td class="title">Networked Devices and Urban Space, interview with Adam Greenfield</td>
 	<td class="publisher">Domus</td>
 	<td class="type">Interview</td>
 	<td class="subject">Design</td>
