@@ -670,7 +670,7 @@ layout: archive
 </tr>
 
 <tr data-href="">
-	<td class="title">Faiza Guène</td>
+	<td class="title">Faïza Guène</td>
 	<td class="publisher">Venus Magazine</td>
 	<td class="type">Interview</td>
 	<td class="subject">Literature</td>
