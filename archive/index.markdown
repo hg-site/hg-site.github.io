@@ -91,7 +91,7 @@ layout: archive
 <tr data-href="http://postmatter.com/articles/oct-dec-2016/sidsel-meineche-hansen/">
 	<td class="title">Sidsel Meineche Hansen, Hacking the Pornographic Body</td>
 	<td class="publisher">POSTMatter</td>
-	<td class="type">Review</td>
+	<td class="type">Feature</td>
 	<td class="subject">Art</td>
 	<td class="year">2016</td>
 </tr>
@@ -113,7 +113,7 @@ layout: archive
 </tr>
 
 <tr data-href="http://www.aqnb.com/2016/04/19/and-no-animal-is-without-enemy-cubitt-gallery-reviewed/">
-	<td class="title">And No Animal Is Without An Enemy</td>
+	<td class="title">And No Animal Is Without An Enemy, at Cubitt Gallery</td>
 	<td class="publisher">aqnb</td>
 	<td class="type">Review</td>
 	<td class="subject">Art</td>
@@ -132,20 +132,20 @@ layout: archive
 	<td class="title">The Lonely City: Adventures in the Art of Being Alone by Olivia Laing</td>
 	<td class="publisher">FT Life &amp; Arts</td>
 	<td class="type">Review</td>
-	<td class="subject">Books</td>
+	<td class="subject">Literature</td>
 	<td class="year">2016</td>
 </tr>
 
 <tr data-href="http://postmatter.com/#/currents/just-unreal-enough">
-	<td class="title">Just Unreal Enough – on Japanese virtual popstar Hatsune Miku</td>
+	<td class="title">Just Unreal Enough, on Japanese virtual popstar Hatsune Miku</td>
 	<td class="publisher">POSTMatter</td>
-	<td class="type">Interview</td>
+	<td class="type">Feature</td>
 	<td class="subject">Music</td>
 	<td class="year">2016</td>
 </tr>
 
 <tr data-href="http://postmatter.com/#/currents/musical-objects">
-	<td class="title">Musical Objects</td>
+	<td class="title">Musical Objects, 3hd Festival</td>
 	<td class="publisher">POSTMatter</td>
 	<td class="type">Review</td>
 	<td class="subject">Music</td>
@@ -153,14 +153,14 @@ layout: archive
 </tr>
 
 <tr data-href="http://erosjournal.tictail.com/product/eros-issue-7">
-	<td class="title">Seeing Through</td>
+	<td class="title">Seeing Through, on Agnes Martin</td>
 	<td class="publisher">Eros Journal</td>
 	<td class="type">Essay</td>
 	<td class="subject">Art</td>
 	<td class="year">2015</td>
 </tr>
 <tr data-href="http://postmatter.com/articles/archive-2012-2016/2015/21-porn-to-pizza/">
-	<td class="title">Porn to Pizza – Domestic Clichés</td>
+	<td class="title">Porn to Pizza – Domestic Clichés, at DAM</td>
 	<td class="publisher">POSTMatter</td>
 	<td class="type">Review</td>
 	<td class="subject">Art</td>
@@ -178,7 +178,7 @@ layout: archive
 <tr data-href="http://cargocollective.com/aorist">
 	<td class="title">Review in Retrospect – Art &amp; Language’s Air-Conditioning Show</td>
 	<td class="publisher">Aorist</td>
-	<td class="type">Essay</td>
+	<td class="type">Review</td>
 	<td class="subject">Art</td>
 	<td class="year">2015</td>
 </tr>
@@ -186,7 +186,7 @@ layout: archive
 <tr data-href="http://cargocollective.com/aorist">
 	<td class="title">Francesca Woodman’s Precarious Architectures</td>
 	<td class="publisher">Aorist</td>
-	<td class="type">Review</td>
+	<td class="type">Essay</td>
 	<td class="subject">Art</td>
 	<td class="year">2015</td>
 </tr>
@@ -199,13 +199,6 @@ layout: archive
 	<td class="year">2015</td>
 </tr>
 
-<tr data-href="http://postmatter.com/#/currents/open-source-interventions">
-	<td class="title">Open-Source Interventions: Conversation with Paolo Cirio</td>
-	<td class="publisher">POSTMatter</td>
-	<td class="type">Interview</td>
-	<td class="subject">Art</td>
-	<td class="year">2015</td>
-</tr>
 <tr data-href="http://www.thewhitereview.org/online-issue/june-2015/">
 	<td class="title">Interview with Moyra Davey</td>
 	<td class="publisher">The White Review</td>
