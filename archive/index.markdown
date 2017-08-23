@@ -344,7 +344,7 @@ layout: archive
 </tr>
 
 <tr data-href="www.domusweb.it/en/architecture/2013/10/17/zaha_hadid_serpentinesackler.html">
-	<td class="title">Zaha Hadid: Serpentine Sackler Gallery</td>
+	<td class="title">Zaha Hadid, Serpentine Sackler Gallery</td>
 	<td class="publisher">Domus</td>
 	<td class="type">Review</td>
 	<td class="subject">Architecture</td>
@@ -360,34 +360,26 @@ layout: archive
 </tr>
 
 <tr data-href="http://hannah-gregory.tumblr.com/post/65432189028/you-get-around-a-bit-then">
-	<td class="title">You Get Around a Bit Then</td>
+	<td class="title">You get around a bit then</td>
 	<td class="publisher">StepAway</td>
 	<td class="type">Poetry</td>
 	<td class="subject">Literature</td>
 	<td class="year">2013</td>
 </tr>
 
-<tr data-href="www.domusweb.it/en/design/2013/10/14/ldf_2013_food.html">
-	<td class="title">Culinary Playground</td>
+<tr data-href="http://www.domusweb.it/en/design/2013/09/13/ferran_adria_andtheartoffood.html">
+	<td class="title">Culinary Playground, Ferran Adrià and the Art of Food</td>
 	<td class="publisher">Domus</td>
 	<td class="type">Review</td>
-	<td class="subject">Design</td>
+	<td class="subject">Food</td>
 	<td class="year">2013</td>
 </tr>
 
-<tr data-href="www.domusweb.it/en/design/2013/10/08/ldf_2013_benjaminhubert.html">
-	<td class="title">Interview with Benjamin Hubert</td>
+<tr data-href="http://www.domusweb.it/en/design/2013/10/08/ldf_2013_benjaminhubert.html">
+	<td class="title">LDF 2013: Benjamin Hubert</td>
 	<td class="publisher">Domus</td>
-	<td class="type">Interview</td>
+	<td class="type">Feature</td>
 	<td class="subject">Design</td>
-	<td class="year">2013</td>
-</tr>
-
-<tr data-href="www.domusweb.it/en/design/2013/09/13/ferran_adria_andtheartoffood.html">
-	<td class="title">Ferran Adrià and The Art of Food</td>
-	<td class="publisher">Domus</td>
-	<td class="type">Review</td>
-	<td class="subject">Art</td>
 	<td class="year">2013</td>
 </tr>
 
