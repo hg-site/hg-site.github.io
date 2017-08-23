@@ -17,7 +17,7 @@ layout: archive
 <tbody class="list">
 
 <tr data-href="https://frieze.com/article/teresa-burga-0">
-	<td class="title">Teresa Burga</td>
+	<td class="title">Teresa Burga, Galerie Barbara Thumm</td>
 	<td class="publisher">Frieze</td>
 	<td class="type">Review</td>
 	<td class="subject">Art</td>
@@ -25,7 +25,7 @@ layout: archive
 </tr>
 
 <tr data-href="http://www.artmonthly.co.uk/magazine/site/issue/jul-aug-2017">
-	<td class="title">'Mene Mene Tekel Parsin', Wysing Arts Centre</td>
+	<td class="title">‘Mene Mene Tekel Parsin’, Wysing Arts Centre</td>
 	<td class="publisher">Art Monthly</td>
 	<td class="type">Review</td>
 	<td class="subject">Art</td>
@@ -49,7 +49,7 @@ layout: archive
 </tr>
 
 <tr data-href="https://frieze.com/article/gcc">
-	<td class="title">GCC, 'Gestures' at Kraupa-Tuskany Zeidler</td>
+	<td class="title">GCC, ‘Gestures’ at Kraupa-Tuskany Zeidler</td>
 	<td class="publisher">Frieze</td>
 	<td class="type">Review</td>
 	<td class="subject">Art</td>
@@ -60,7 +60,7 @@ layout: archive
 	<td class="title">Everyday End-times, review of Black Wave by Michelle Tea</td>
 	<td class="publisher">FT Life &amp; Arts</td>
 	<td class="type">Review</td>
-	<td class="subject">Art</td>
+	<td class="subject">Literature</td>
 	<td class="year">2017</td>
 </tr>
 
@@ -68,7 +68,7 @@ layout: archive
 	<td class="title">Dark Matters, conversation with Morehshin Allahyari</td>
 	<td class="publisher">Ibraaz</td>
 	<td class="type">Interview</td>
-	<td class="subject">Feminism</td>
+	<td class="subject">Art</td>
 	<td class="year">2017</td>
 </tr>
 
@@ -82,16 +82,16 @@ layout: archive
 
 <tr data-href="http://journal.hkw.de/en/fehlende-teile-im-kollektiven-gedaechtnis/">
 	<td class="title">The Missing Parts of Collective Memory, on Kader Attia and Françoise Vergès</td>
-	<td class="publisher">100 Years of Now Journal</td>
+	<td class="publisher">HKW, 100 Years of Now Journal</td>
 	<td class="type">Essay</td>
-	<td class="subject">Architecture</td>
+	<td class="subject">Art</td>
 	<td class="year">2016</td>
 </tr>
 
 <tr data-href="http://postmatter.com/articles/oct-dec-2016/sidsel-meineche-hansen/">
 	<td class="title">Sidsel Meineche Hansen, Hacking the Pornographic Body</td>
 	<td class="publisher">POSTMatter</td>
-	<td class="type">Essay</td>
+	<td class="type">Review</td>
 	<td class="subject">Art</td>
 	<td class="year">2016</td>
 </tr>
@@ -100,14 +100,14 @@ layout: archive
 	<td class="title">Period Piece</td>
 	<td class="publisher">Aorist</td>
 	<td class="type">Essay</td>
-	<td class="subject">Feminism</td>
+	<td class="subject">Art</td>
 	<td class="year">2016</td>
 </tr>
 
 <tr data-href="http://www.artmonthly.co.uk/magazine/site/issue/june-2016">
 	<td class="title">Letter From Athens</td>
 	<td class="publisher">Art Monthly</td>
-	<td class="type">Correspondence</td>
+	<td class="type">Letter</td>
 	<td class="subject">Art</td>
 	<td class="year">2016</td>
 </tr>
