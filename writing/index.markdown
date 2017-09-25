@@ -149,14 +149,6 @@ layout: writing
 </div>
 
 <div class="sw-row">
-	<a href="https://frieze.com/article/gcc">
-	<div class="sw-title">Gestures, GCC, Berlin</div>
-	<div class="sw-publication">frieze</div>
-	<div class="sw-year">2017</div>
-	</a>
-</div>
-
-<div class="sw-row">
 	<a href="/docs/Black-Mountainreview.pdf">
 	<div class="sw-title">Black Mountain College: An Interdisciplinary Experiment at Hamburger Bahnhof, Berlin</div>
 	<div class="sw-publication">ICON</div>
@@ -201,6 +193,14 @@ layout: writing
 	<div class="sw-title">Feminist Porn and the Impossible Subject</div>
 	<div class="sw-publication">The Quietus</div>
 	<div class="sw-year">2013</div>
+	</a>
+</div>
+
+<div class="sw-row">
+	<a href="https://frieze.com/article/gcc">
+	<div class="sw-title">Gestures, GCC, Berlin</div>
+	<div class="sw-publication">frieze</div>
+	<div class="sw-year">2017</div>
 	</a>
 </div>
 
