@@ -175,7 +175,7 @@ layout: writing
 <div class="sw-row">
 	<a href="/docs/EncountersLyotardMonory.pdf">
 	<div class="sw-title">Encounters: Lyotard &amp; Monory</div>
-	<div class="sw-publication">frieze</div>
+	<div class="sw-publication">Frieze</div>
 	<div class="sw-year">2013</div>
 	</a>
 </div>
@@ -199,7 +199,7 @@ layout: writing
 <div class="sw-row">
 	<a href="https://frieze.com/article/gcc">
 	<div class="sw-title">Gestures, GCC, Berlin</div>
-	<div class="sw-publication">frieze</div>
+	<div class="sw-publication">Frieze</div>
 	<div class="sw-year">2017</div>
 	</a>
 </div>
@@ -239,7 +239,7 @@ layout: writing
 <div class="sw-row">
 	<a href="/docs/PostcardfromVarese.pdf">
 	<div class="sw-title">Postcard from Varese</div>
-	<div class="sw-publication">frieze</div>
+	<div class="sw-publication">Frieze</div>
 	<div class="sw-year">2014</div>
 	</a>
 </div>
