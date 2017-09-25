@@ -213,14 +213,6 @@ layout: writing
 </div>
 
 <div class="sw-row">
-	<a href="http://www.domusweb.it/en/architecture/2013/08/28/an_atlas_of_modernlandscapes.html">
-	<div class="sw-title">Le Corbusier, An Atlas of Modern Landscapes at MoMA</div>
-	<div class="sw-publication">Domus</div>
-	<div class="sw-year">2013</div>
-	</a>
-</div>
-
-<div class="sw-row">
 	<a href="https://www.ft.com/content/e4581a20-e60b-11e5-a09b-1f8b0d268c39">
 	<div class="sw-title">The Lonely City: Adventures in the Art of Being Alone by Olivia Laing</div>
 	<div class="sw-publication">FT Life & Arts</div>
