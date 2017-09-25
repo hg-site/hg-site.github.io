@@ -150,7 +150,7 @@ layout: writing
 
 <div class="sw-row">
 	<a href="/docs/Black-Mountainreview.pdf">
-	<div class="sw-title">Black Mountain College: An Interdisciplinary Experiment at Hamburger Bahnhof, Berlin</div>
+	<div class="sw-title">‘Black Mountain College: An Interdisciplinary Experiment’ at Hamburger Bahnhof, Berlin</div>
 	<div class="sw-publication">ICON</div>
 	<div class="sw-year">2015</div>
 	</a>
@@ -166,7 +166,7 @@ layout: writing
 
 <div class="sw-row">
 	<a href="https://www.iconeye.com/opinion/review/item/11985-channa-horwitz-counting-in-eight-moving-in-colour">
-	<div class="sw-title">Channa Horwitz, Counting in Eight, Moving in Colour at KW Institute for Contemporary Art, Berlin</div>
+	<div class="sw-title">Channa Horwitz, ‘Counting in Eight, Moving in Colour’ at KW Institute for Contemporary Art, Berlin</div>
 	<div class="sw-publication">ICON</div>
 	<div class="sw-year">2015</div>
 	</a>
@@ -198,7 +198,7 @@ layout: writing
 
 <div class="sw-row">
 	<a href="https://frieze.com/article/gcc">
-	<div class="sw-title">Gestures, GCC, Berlin</div>
+	<div class="sw-title">‘Gestures’, GCC, Berlin</div>
 	<div class="sw-publication">Frieze</div>
 	<div class="sw-year">2017</div>
 	</a>
@@ -222,7 +222,7 @@ layout: writing
 
 <div class="sw-row">
 	<a href="http://bravenewwhat.tumblr.com/post/163209586997/art-monthly-review-of-mene-mene-tekel-parsin-by">
-	<div class="sw-title">Mene Mene Tekel Parsin, Wysing Arts Centre</div>
+	<div class="sw-title">‘Mene Mene Tekel Parsin’, Wysing Arts Centre</div>
 	<div class="sw-publication">Art Monthly</div>
 	<div class="sw-year">2017</div>
 	</a>
@@ -238,7 +238,7 @@ layout: writing
 
 <div class="sw-row">
 	<a href="/docs/Air-Conditioning.pdf">
-	<div class="sw-title">Review in Retrospect – Art & Language’s Air-Conditioning Show</div>
+	<div class="sw-title">Review in Retrospect – Art & Language’s ‘Air-Conditioning Show’</div>
 	<div class="sw-publication">A-or-ist #1</div>
 	<div class="sw-year">2016</div>
 	</a>
