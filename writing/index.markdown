@@ -140,7 +140,7 @@ layout: writing
 	<a href="http://thenewinquiry.com/features/trans-historical-narratives/">
 	<div class="sw-title">Juliet Jacques, Trans-Historical Narratives</div>
 	<div class="sw-publication">The New Inquiry</div>
-	<div class="sw-year">2016</div>
+	<div class="sw-year">2015</div>
 	</a>
 </div>
 
