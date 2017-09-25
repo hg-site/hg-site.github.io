@@ -69,15 +69,6 @@ layout: writing
 </div>
 
 <div class="sw-row">
-	<a href="http://www.postmatter.com/articles/oct-dec-2016/sidsel-meineche-hansen/">
-	<div class="sw-title">Hacking the Pornographic Body, Sidsel Meineche Hansen
-	</div>
-	<div class="sw-publication">POSTMatter</div>
-	<div class="sw-year">2016</div>
-	</a>
-</div>
-
-<div class="sw-row">
 	<a href="../self-resolution.html">
 	<div class="sw-title">Self Resolution</div>
 	<div class="sw-publication">Self</div>
