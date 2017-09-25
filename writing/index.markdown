@@ -149,14 +149,6 @@ layout: writing
 </div>
 
 <div class="sw-row">
-	<a href="http://bravenewwhat.tumblr.com/post/163209586997/art-monthly-review-of-mene-mene-tekel-parsin-by">
-	<div class="sw-title">Mene Mene Tekel Parsin, Wysing Arts Centre</div>
-	<div class="sw-publication">Art Monthly</div>
-	<div class="sw-year">2017</div>
-	</a>
-</div>
-
-<div class="sw-row">
 	<a href="https://frieze.com/article/gcc">
 	<div class="sw-title">Gestures, GCC, Berlin</div>
 	<div class="sw-publication">frieze</div>
@@ -233,6 +225,14 @@ layout: writing
 	<div class="sw-title">The Lonely City: Adventures in the Art of Being Alone by Olivia Laing</div>
 	<div class="sw-publication">FT Life & Arts</div>
 	<div class="sw-year">2013</div>
+	</a>
+</div>
+
+<div class="sw-row">
+	<a href="http://bravenewwhat.tumblr.com/post/163209586997/art-monthly-review-of-mene-mene-tekel-parsin-by">
+	<div class="sw-title">Mene Mene Tekel Parsin, Wysing Arts Centre</div>
+	<div class="sw-publication">Art Monthly</div>
+	<div class="sw-year">2017</div>
 	</a>
 </div>
 
