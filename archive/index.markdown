@@ -105,7 +105,7 @@ layout: archive
 	<td class="year">2016</td>
 </tr>
 
-<tr data-href="/docs/LETTER-FROM-ATHENS.pdf>
+<tr data-href="/docs/LETTER-FROM-ATHENS.pdf">
 	<td class="title">Letter From Athens</td>
 	<td class="publisher">Art Monthly</td>
 	<td class="type">Letter</td>
@@ -114,7 +114,7 @@ layout: archive
 </tr>
 
 <tr data-href="http://www.aqnb.com/2016/04/19/and-no-animal-is-without-enemy-cubitt-gallery-reviewed/">
-	<td class="title">And No Animal Is Without Enemy, Cubitt Gallery, London</td>
+	<td class="title">‘And No Animal Is Without Enemy’, Cubitt Gallery, London</td>
 	<td class="publisher">aqnb</td>
 	<td class="type">Review</td>
 	<td class="subject">Art</td>
