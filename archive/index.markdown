@@ -105,7 +105,7 @@ layout: archive
 	<td class="year">2016</td>
 </tr>
 
-<tr data-href="docs/LETTER-FROM-ATHENS.pdf>
+<tr data-href="/docs/LETTER-FROM-ATHENS.pdf>
 	<td class="title">Letter From Athens</td>
 	<td class="publisher">Art Monthly</td>
 	<td class="type">Letter</td>
