@@ -9,7 +9,7 @@ layout: writing
 </div>
 
 <div class="sw-row">
-	<a href="/docs/.pdf">
+	<a href="/docs/HGxJD.pdf">
 	<div class="sw-title">HG &times; JD</div>
 	<div class="sw-publication">Doggerland</div>
 	<div class="sw-year">2017</div>
