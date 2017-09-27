@@ -25,7 +25,7 @@ layout: archive
 	<td class="year">2017</td>
 </tr>
 
-<tr data-href="http://www.artmonthly.co.uk/magazine/site/issue/jul-aug-2017">
+<tr data-href="http://bravenewwhat.tumblr.com/post/163209586997/art-monthly-review-of-mene-mene-tekel-parsin-by">
 	<td class="title">‘Mene Mene Tekel Parsin’, Wysing Arts Centre, UK</td>
 	<td class="publisher">Art Monthly</td>
 	<td class="type">Review</td>
