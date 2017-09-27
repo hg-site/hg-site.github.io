@@ -184,7 +184,7 @@ layout: archive
 	<td class="year">2015</td>
 </tr>
 
-<tr data-href="http://cargocollective.com/aorist">
+<tr data-href="/docs/Francesca-Woodmans-Precarious-Architectures.pdf">
 	<td class="title">Francesca Woodman’s Precarious Architectures</td>
 	<td class="publisher">Aorist</td>
 	<td class="type">Essay</td>
