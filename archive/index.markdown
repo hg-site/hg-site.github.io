@@ -138,7 +138,7 @@ layout: archive
 </tr>
 
 <tr data-href="http://postmatter.com/#/currents/just-unreal-enough">
-	<td class="title">Just Unreal Enough, on Japanese virtual popstar Hatsune Miku</td>
+	<td class="title">Just Unreal Enough, Hatsune Miku</td>
 	<td class="publisher">POSTMatter</td>
 	<td class="type">Feature</td>
 	<td class="subject">Music</td>
@@ -161,7 +161,7 @@ layout: archive
 	<td class="year">2015</td>
 </tr>
 <tr data-href="http://postmatter.com/articles/archive-2012-2016/2015/21-porn-to-pizza/">
-	<td class="title">Porn to Pizza – Domestic Clichés, at DAM, Berlin</td>
+	<td class="title">‘Porn to Pizza – Domestic Clichés’, DAM, Berlin</td>
 	<td class="publisher">POSTMatter</td>
 	<td class="type">Review</td>
 	<td class="subject">Art</td>
