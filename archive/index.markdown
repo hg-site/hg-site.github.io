@@ -296,7 +296,7 @@ layout: archive
 	<td class="year">2014</td>
 </tr>
 
-<tr data-href="http://blog.frieze.com/postcard-from-varese/">
+<tr data-href="/docs/PostcardfromVarese.pdf">
 	<td class="title">Postcard from Varese</td>
 	<td class="publisher">Frieze</td>
 	<td class="type">Letter</td>
