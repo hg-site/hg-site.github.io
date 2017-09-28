@@ -26,7 +26,8 @@ layout: writing
 
 <div class="sw-row">
 	<a href="/docs/BeingandDoing_LesRevenants.pdf">
-	<div class="sw-title">Being and Doing, on Moyra Davey’s exhibition ‘The Revenants’</div>
+	<div class="sw-title">Being and Doing, on Moyra Davey’s
+ ‘The Revenants’</div>
 	<div class="sw-publication">Wilfried Lentz Gallery</div>
 	<div class="sw-year">2015</div>
 	</a>
