@@ -249,7 +249,7 @@ layout: archive
 </tr>
 
 <tr data-href="https://www.dropbox.com/s/abeuyhsxyzphive/BeingandDoing_LesRevenants.pdf?dl=0">
-	<td class="title">‘Being and Doing’, on Moyra Davey and Jean Genet</td>
+	<td class="title">Being and Doing, on Moyra Davey and Jean Genet</td>
 	<td class="publisher">Wilfried Lentz</td>
 	<td class="type">Essay</td>
 	<td class="subject">Art</td>
