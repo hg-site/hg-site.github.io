@@ -224,7 +224,7 @@ layout: archive
 	<td class="year">2015</td>
 </tr>
 
-<tr data-href="http://theconchatslg.tumblr.com/post/124560033340/part-ix-22nd-april-2015-hannah-gregory-jesse">
+<tr data-href="../domesticity-vs-boxing.html">
 	<td class="title">Domesticity vs. Boxing, Jesse Darling</td>
 	<td class="publisher">South London Gallery</td>
 	<td class="type">Art text</td>
