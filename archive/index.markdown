@@ -193,7 +193,7 @@ layout: archive
 </tr>
 
 <tr data-href="https://www.iconeye.com/opinion/comment/item/12133-icon-147-sins">
-	<td class="title">Black Mountain College, An Interdisciplinary Experiment</td>
+	<td class="title">Black Mountain College, Hamburger Bahnhof, Berlin</td>
 	<td class="publisher">ICON</td>
 	<td class="type">Review</td>
 	<td class="subject">Art</td>
@@ -209,7 +209,7 @@ layout: archive
 </tr>
 
 <tr data-href="https://www.iconeye.com/opinion/review/item/11985-channa-horwitz-counting-in-eight-moving-in-colour">
-	<td class="title">Channa Horwitz, ‘Counting in Eight, Moving in Colour’</td>
+	<td class="title">Channa Horwitz, KW, Berlin</td>
 	<td class="publisher">ICON</td>
 	<td class="type">Review</td>
 	<td class="subject">Art</td>
