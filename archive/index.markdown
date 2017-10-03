@@ -318,7 +318,6 @@ layout: archive
 	<td class="type">Feature</td>
 	<td class="subject">Design</td>
 	<td class="year">2014</td>
-</tr>
 
 	<td class="title">Where You Are by Visual Editions</td>
 	<td class="publisher">ICON</td>
