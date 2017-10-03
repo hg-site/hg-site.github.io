@@ -321,7 +321,7 @@ layout: archive
 </tr>
 
 <tr data-href>
-	<td class="title">Where You Are by Visual Editions</td>
+	<td class="title">Where You Are, Visual Editions</td>
 	<td class="publisher">ICON</td>
 	<td class="type">Review</td>
 	<td class="subject">Literature</td>
