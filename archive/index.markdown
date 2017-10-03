@@ -313,14 +313,13 @@ layout: archive
 </tr>
 
 <tr data-href="https://www.disegnodaily.com/features/nathalie-du-pasquier-in-her-studio">
-	<td class="title">Nathalie du Pasquier</td>
+	<td class="title">Nathalie Du Pasquier</td>
 	<td class="publisher">Disegno</td>
 	<td class="type">Feature</td>
 	<td class="subject">Design</td>
 	<td class="year">2014</td>
 </tr>
 
-<tr data-href="https://www.iconeye.com/news/reviews-2013/review-where-you-are">
 	<td class="title">Where You Are by Visual Editions</td>
 	<td class="publisher">ICON</td>
 	<td class="type">Review</td>
