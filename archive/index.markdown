@@ -67,7 +67,7 @@ layout: archive
 </tr>
 
 <tr data-href="https://www.ft.com/content/c2e7ec00-efb8-11e6-ba01-119a44939bb6">
-	<td class="title">Everyday End-times, review of Black Wave by Michelle Tea</td>
+	<td class="title">Everyday End-times, Black Wave by Michelle Tea</td>
 	<td class="publisher">FT Life &amp; Arts</td>
 	<td class="type">Review</td>
 	<td class="subject">Literature</td>
