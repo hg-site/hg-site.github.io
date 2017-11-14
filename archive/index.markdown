@@ -16,6 +16,15 @@ layout: archive
 </thead>
 <tbody class="list">
 
+<tr data-href="https://www.ft.com/content/fed0a28c-a8fb-11e7-ab66-21cc87a2edde">
+	<td class="title">Audre Lorde, Your Silence Will Not Protect You</td>
+	<td class="publisher">FT Life & Arts</td>
+	<td class="type">Review</td>
+	<td class="subject">Literature</td>
+	<td class="year">2017</td>
+</tr>
+
+
 <tr data-href="https://frieze.com/article/teresa-burga-0">
 	<td class="title">Teresa Burga, Galerie Barbara Thumm,
  Berlin</td>
