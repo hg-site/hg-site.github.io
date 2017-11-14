@@ -150,6 +150,14 @@ layout: writing
 </div>
 
 <div class="sw-row">
+	<a href="https://www.ft.com/content/fed0a28c-a8fb-11e7-ab66-21cc87a2edde">
+	<div class="sw-title">Audre Lorde, Your Silence Will Not Protect You</div>
+	<div class="sw-publication">FT Life & Arts</div>
+	<div class="sw-year">2017</div>
+	</a>
+</div> 
+
+<div class="sw-row">
 	<a href="/docs/Black-Mountainreview.pdf">
 	<div class="sw-title">‘Black Mountain College: An Interdisciplinary Experiment’ at Hamburger Bahnhof, Berlin</div>
 	<div class="sw-publication">ICON</div>
