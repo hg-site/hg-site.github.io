@@ -11,7 +11,7 @@ layout: editing
 	</div>
 	<div class="description">
 		<h3>A-or-ist #2</h3>
-		<p class="publisher">Eros Press, London</p>
+		<p class="publisher">Eros Press, London, 2016</p>
 		<p class="role">Co-editor</p>
 	</div>
 </a>
@@ -24,7 +24,7 @@ layout: editing
 	</div>
 	<div class="description">
 		<h3>A-or-ist #1</h3>
-		<p class="publisher">Self</p>
+		<p class="publisher">Self-published, 2015</p>
 		<p class="role">Co-editor</p>
 	</div>
 </a>
@@ -37,7 +37,7 @@ layout: editing
 		</div>
 		<div class="description">
 			<h3>South Magazine Issue #9</h3>
-			<p class="publisher">Documenta 14</p>
+			<p class="publisher">Documenta 14, 2017</p>
 			<p class="role">Copy-editing</p>
 		</div>
 	</a>
@@ -87,7 +87,8 @@ layout: editing
 	</div>
 	<div class="description">
 		<h3>Future Imperfect, Contemporary Art Practices and Cultural Institutions in the Middle East</h3>
-		<p class="publisher">Ibraaz / Sternberg Press</p>
+		<p class="publisher">Ibraaz / Sternberg Press,
+ 2016</p>
 		<p class="role">Copy-editing, proofreading</p>
 	</div>
 </a>
@@ -100,7 +101,7 @@ layout: editing
 	</div>
 	<div class="description">
 		<h3>Transparencies, The Ambivalence of a New Visibility</h3>
-		<p class="publisher">Sternberg Press / Bielefelder Kunstverein &amp; Kunstverein Nürnberg</p>
+		<p class="publisher">Sternberg Press / Bielefelder Kunstverein &amp; Kunstverein Nürnberg, 2016</p>
 		<p class="role">Copy-editing, proofreading</p>
 	</div>
 </a>
@@ -113,7 +114,7 @@ layout: editing
 	</div>
 	<div class="description">
 		<h3>Olafur Eliasson, Baroque, Baroque</h3>
-		<p class="publisher">Sternberg Press / Thyssen Bornemisza Art Contemporary, Berlin &amp; Vienna</p>
+		<p class="publisher">Sternberg Press / Thyssen Bornemisza Art Contemporary, Berlin &amp; Vienna, 2015</p>
 		<p class="role">Copy-editing</p>
 	</div>
 </a>
@@ -126,7 +127,7 @@ layout: editing
 	</div>
 	<div class="description">
 		<h3>Leiko Ikemura, All About Girls &amp; Tigers</h3>
-		<p class="publisher">Walter Koenig Verlag / Museum for East Asian Art Cologne</p>
+		<p class="publisher">Walter Koenig Verlag / Museum for East Asian Art Cologne, 2016</p>
 		<p class="role">Copy-editing, proofreading</p>
 	</div>
 </a>
@@ -139,7 +140,7 @@ layout: editing
 	</div>
 	<div class="description">
 		<h3>Amar Kanwar, The Sovereign Forest</h3>
-		<p class="publisher">Sternberg Press / Thyssen Bornemisza Art Contemporary</p>
+		<p class="publisher">Sternberg Press / Thyssen Bornemisza Art Contemporary, 2015</p>
 		<p class="role">Editing</p>
 	</div>
 </a>
@@ -152,7 +153,7 @@ layout: editing
 	</div>
 	<div class="description">
 		<h3>Mo-Leeza Roberts, HEAD</h3>
-		<p class="publisher">Book Works, London</p>
+		<p class="publisher">Book Works, London, 2015</p>
 		<p class="role">Copy-editing</p>
 	</div>
 </a>
@@ -178,7 +179,7 @@ layout: editing
 	</div>
 	<div class="description">
 		<h3>Public Domain, The Tunnel Issue</h3>
-		<p class="publisher">Andrea Caputo Architecture Studio, Milan</p>
+		<p class="publisher">Andrea Caputo Architecture Studio, Milan, 2014</p>
 		<p class="role">Co-editor</p>
 	</div>
 </a>
@@ -191,7 +192,7 @@ layout: editing
 	</div>
 	<div class="description">
 		<h3>Quentin Bajac &amp; Clement Cheroux, Man Ray, Portraits, Paris – Hollywood – Paris</h3>
-		<p class="publisher">Centre Pompidou, Paris</p>
+		<p class="publisher">Centre Pompidou, Paris, 2011</p>
 		<p class="role">Research, Translation </p>
 	</div>
 </a>
