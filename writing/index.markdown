@@ -174,6 +174,14 @@ layout: writing
 </div>
 
 <div class="sw-row">
+	<a href="https://www.apollo-magazine.com/the-defiant-jokes-of-jimmie-durham/">
+	<div class="sw-title">The defiant jokes of Jimmie Durham</div>
+	<div class="sw-publication">Apollo</div>
+	<div class="sw-year">2017</div>
+	</a>
+</div> 
+
+<div class="sw-row">
 	<a href="https://www.iconeye.com/opinion/review/item/11985-channa-horwitz-counting-in-eight-moving-in-colour">
 	<div class="sw-title">Channa Horwitz, ‘Counting in Eight, Moving in Colour’ at KW Institute for Contemporary Art, Berlin</div>
 	<div class="sw-publication">ICON</div>
