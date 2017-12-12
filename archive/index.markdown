@@ -468,7 +468,7 @@ layout: archive
 </tr>
 
 <tr data-href="http://thequietus.com/articles/11096-after-pornified-levitate-the-primate-feminist-porn">
-	<td class="title">Feminist Porn and The Impossible Subject</td>
+	<td class="title">Feminist Porn and the Impossible Subject</td>
 	<td class="publisher">The Quietus Books</td>
 	<td class="type">Essay</td>
 	<td class="subject">Literature</td>
@@ -513,7 +513,7 @@ layout: archive
 	<td class="title">The Buzz in Budapest</td>
 	<td class="publisher">Condé Nast Traveller</td>
 	<td class="type">Feature</td>
-	<td class="subject">Design</td>
+	<td class="subject">Travel</td>
 	<td class="year">2012</td>
 </tr>
 
