@@ -607,7 +607,7 @@ layout: archive
 </tr>
 
 <tr data-href="http://www.stylus.com/">
-	<td class="title">London Architecture Festival,‘The Playful City’</td>
+	<td class="title">London Architecture Festival, ‘The Playful City’</td>
 	<td class="publisher">Stylus</td>
 	<td class="type">Report</td>
 	<td class="subject">Architecture</td>
@@ -622,8 +622,8 @@ layout: archive
 	<td class="year">2010</td>
 </tr>
 
-<tr data-href="http://dossierjournal.com/style/fashion/yves-saint-laurent-at-petit-palais/">
-	<td class="title">Yves Saint Laurent at Le Petit Palais,
+<tr data-href>
+	<td class="title">Yves Saint Laurent, Le Petit Palais,
  Paris</td>
 	<td class="publisher">Dossier</td>
 	<td class="type">Review</td>
@@ -631,7 +631,7 @@ layout: archive
 	<td class="year">2010</td>
 </tr>
 
-<tr data-href="http://dossierjournal.com/style/fashion/deconstructing-maison-martin-margiela/">
+<tr data-href>
 	<td class="title">Deconstructing Maison Martin Margiela</td>
 	<td class="publisher">Dossier</td>
 	<td class="type">Essay</td>
@@ -639,7 +639,7 @@ layout: archive
 	<td class="year">2010</td>
 </tr>
 
-<tr data-href="http://www.bizarremag.com/news-and-videos/latest-features/8554/taxidermy_fire.html.">
+<tr data-href>
 	<td class="title">Touched by Fire, Martin d'Orgeval</td>
 	<td class="publisher">Bizarre Magazine</td>
 	<td class="type">Feature</td>
@@ -656,7 +656,7 @@ layout: archive
 </tr>
 
 <tr data-href="http://www.newstatesman.com/books/2009/11/catherine-jealousy-life-sex">
-	<td class="title">Jealousy, The Other Life of Catherine M by Catherine Millet</td>
+	<td class="title">Jealousy, The Other Life of Catherine M, Catherine Millet</td>
 	<td class="publisher">New Statesman</td>
 	<td class="type">Review</td>
 	<td class="subject">Literature</td>
@@ -666,7 +666,7 @@ layout: archive
 <tr data-href="https://en.wikipedia.org/wiki/Plan_B_(magazine)">
 	<td class="title">Virginie Despentes</td>
 	<td class="publisher">Plan B</td>
-	<td class="type">Interview</td>
+	<td class="type">Feature</td>
 	<td class="subject">Feminism</td>
 	<td class="year">2009</td>
 </tr>
@@ -679,7 +679,7 @@ layout: archive
 	<td class="year">2009</td>
 </tr>
 
-<tr data-href="">
+<tr data-href>
 	<td class="title">Faïza Guène</td>
 	<td class="publisher">Venus Magazine</td>
 	<td class="type">Interview</td>
