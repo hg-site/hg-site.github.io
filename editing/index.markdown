@@ -24,10 +24,23 @@ layout: editing
 	</div>
 	<div class="description">
 		<h3>A-or-ist #1</h3>
-		<p class="publisher">Eros Press, London</p>
+		<p class="publisher">Self</p>
 		<p class="role">Co-editor</p>
 	</div>
 </a>
+</div>
+
+<div class="item">
+	<a href="http://www.documenta14.de/en/south/">
+		<div class="cover">
+			<img src="http://images.documenta14.de/Cover_South4.jpg,1440">
+		</div>
+		<div class="description">
+			<h3>South Magazine Issue #9</h3>
+			<p class="documenta 14">PUBLISHERS NAME</p>
+			<p class="role">Copy-editing</p>
+		</div>
+	</a>
 </div>
 
 <div class="item">
