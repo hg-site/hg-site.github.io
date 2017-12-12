@@ -513,7 +513,7 @@ layout: archive
 	<td class="title">The Buzz in Budapest</td>
 	<td class="publisher">Condé Nast Traveller</td>
 	<td class="type">Feature</td>
-	<td class="subject">Design</td>
+	<td class="subject">Travel</td>
 	<td class="year">2012</td>
 </tr>
 
