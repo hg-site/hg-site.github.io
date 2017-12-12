@@ -387,19 +387,11 @@ layout: archive
 	<td class="year">2013</td>
 </tr>
 
-<tr data-href="http://www.domusweb.it/en/design/2013/09/13/ferran_adria_andtheartoffood.html">
+<tr data-href>
 	<td class="title">Culinary Playground, Ferran Adrià and the Art of Food</td>
 	<td class="publisher">Domus</td>
 	<td class="type">Review</td>
 	<td class="subject">Food</td>
-	<td class="year">2013</td>
-</tr>
-
-<tr data-href="http://www.domusweb.it/en/design/2013/10/08/ldf_2013_benjaminhubert.html">
-	<td class="title">LDF 2013: Benjamin Hubert</td>
-	<td class="publisher">Domus</td>
-	<td class="type">Feature</td>
-	<td class="subject">Design</td>
 	<td class="year">2013</td>
 </tr>
 
