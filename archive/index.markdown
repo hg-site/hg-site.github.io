@@ -395,8 +395,8 @@ layout: archive
 	<td class="year">2013</td>
 </tr>
 
-<tr data-href="http://www.domusweb.it/en/art/2013/07/3/james_turrell_ateinreign.html">
-	<td class="title">James Turrell, ‘Aten Reign’ at The Guggenheim</td>
+<tr data-href>
+	<td class="title">James Turrell, ‘Aten Reign’, The Guggenheim, NYC</td>
 	<td class="publisher">Domus</td>
 	<td class="type">Review</td>
 	<td class="subject">Art</td>
@@ -404,7 +404,7 @@ layout: archive
 </tr>
 
 <tr data-href="http://www.domusweb.it/en/art/2013/07/18/101_spring_streetdonaldjudd.html">
-	<td class="title">Donald Judd’s 101 Spring St, New York City</td>
+	<td class="title">Donald Judd’s 101 Spring St, NYC</td>
 	<td class="publisher">Domus</td>
 	<td class="type">Feature</td>
 	<td class="subject">Art</td>
@@ -412,7 +412,7 @@ layout: archive
 </tr>
 
 <tr data-href="http://www.domusweb.it/en/architecture/2013/08/28/an_atlas_of_modernlandscapes.html">
-	<td class="title">Le Corbusier, ‘An Atlas of Modern Landscapes’ at MoMA</td>
+	<td class="title">Le Corbusier, ‘An Atlas of Modern Landscapes’, MoMA</td>
 	<td class="publisher">Domus</td>
 	<td class="type">Review</td>
 	<td class="subject">Architecture</td>
@@ -468,7 +468,7 @@ layout: archive
 </tr>
 
 <tr data-href="http://thequietus.com/articles/11096-after-pornified-levitate-the-primate-feminist-porn">
-	<td class="title">Feminist Porn and The Impossible Subject</td>
+	<td class="title">Feminist Porn and the Impossible Subject</td>
 	<td class="publisher">The Quietus Books</td>
 	<td class="type">Essay</td>
 	<td class="subject">Literature</td>
