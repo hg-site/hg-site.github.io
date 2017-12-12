@@ -16,6 +16,23 @@ layout: archive
 </thead>
 <tbody class="list">
 
+<tr data-href="LINK ADDRESS TO WEBPAGE">
+	<td class="Aria Dean, American Medium, NYC">TITLE</td>
+	<td class="Flash Art">PUBLISHER</td>
+	<td class="type">Review</td>
+	<td class="subject">Art</td>
+	<td class="year">2017</td>
+</tr>
+
+<tr data-href="https://www.apollo-magazine.com/the-defiant-jokes-of-jimmie-durham/">
+	<td class="title">The defiant jokes of Jimmie Durham</td>
+	<td class="publisher">Apollo</td>
+	<td class="type">Review</td>
+	<td class="subject">Art</td>
+	<td class="year">2017</td>
+</tr>
+
+
 <tr data-href="https://www.ft.com/content/fed0a28c-a8fb-11e7-ab66-21cc87a2edde">
 	<td class="title">Audre Lorde, Your Silence Will Not Protect You</td>
 	<td class="publisher">FT Life & Arts</td>
