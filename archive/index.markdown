@@ -120,7 +120,6 @@ layout: archive
 	<td class="type">Essay</td>
 	<td class="subject">Art</td>
 	<td class="year">2016</td>
-</tr>
 
 <tr data-href="/docs/LETTER-FROM-ATHENS.pdf">
 	<td class="title">Letter From Athens</td>
