@@ -155,7 +155,7 @@ layout: archive
 	<td class="year">2016</td>
 </tr>
 
-<tr data-href="http://postmatter.com/#/currents/just-unreal-enough">
+<tr data-href>
 	<td class="title">Just Unreal Enough, Hatsune Miku</td>
 	<td class="publisher">POSTMatter</td>
 	<td class="type">Feature</td>
@@ -163,8 +163,7 @@ layout: archive
 	<td class="year">2016</td>
 </tr>
 
-<tr data-href="http://postmatter.com/#/currents/musical-objects">
-	<td class="title">Musical Objects, 3hd Festival, Berlin</td>
+<tr data-href>
 	<td class="publisher">POSTMatter</td>
 	<td class="type">Review</td>
 	<td class="subject">Music</td>
@@ -178,7 +177,7 @@ layout: archive
 	<td class="subject">Art</td>
 	<td class="year">2015</td>
 </tr>
-<tr data-href="http://postmatter.com/articles/archive-2012-2016/2015/21-porn-to-pizza/">
+<tr data-href>
 	<td class="title">‘Porn to Pizza – Domestic Clichés’, DAM, Berlin</td>
 	<td class="publisher">POSTMatter</td>
 	<td class="type">Review</td>
@@ -250,7 +249,7 @@ layout: archive
 	<td class="year">2015</td>
 </tr>
 
-<tr data-href="http://postmatter.com/?s=hannah+gregory#/currents/viral-compositions">
+<tr data-href>
 	<td class="title">Viral Compositions, James Hoff</td>
 	<td class="publisher">POSTMatter</td>
 	<td class="type">Profile</td>
@@ -274,7 +273,7 @@ layout: archive
 	<td class="year">2015</td>
 </tr>
 
-<tr data-href="http://postmatter.com/#/currents/capture-all-transmediale">
+<tr data-href>
 	<td class="title">Capture All, Transmediale, Berlin</td>
 	<td class="publisher">POSTMatter</td>
 	<td class="type">Review</td>
