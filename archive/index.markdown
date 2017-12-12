@@ -387,7 +387,7 @@ layout: archive
 	<td class="year">2013</td>
 </tr>
 
-<tr data-href="http://www.domusweb.it/en/design/2013/09/13/ferran_adria_andtheartoffood.html">
+<tr data-href>
 	<td class="title">Culinary Playground, Ferran Adrià and the Art of Food</td>
 	<td class="publisher">Domus</td>
 	<td class="type">Review</td>
@@ -395,16 +395,8 @@ layout: archive
 	<td class="year">2013</td>
 </tr>
 
-<tr data-href="http://www.domusweb.it/en/design/2013/10/08/ldf_2013_benjaminhubert.html">
-	<td class="title">LDF 2013: Benjamin Hubert</td>
-	<td class="publisher">Domus</td>
-	<td class="type">Feature</td>
-	<td class="subject">Design</td>
-	<td class="year">2013</td>
-</tr>
-
-<tr data-href="http://www.domusweb.it/en/art/2013/07/3/james_turrell_ateinreign.html">
-	<td class="title">James Turrell, ‘Aten Reign’ at The Guggenheim</td>
+<tr data-href>
+	<td class="title">James Turrell, ‘Aten Reign’, The Guggenheim, NYC</td>
 	<td class="publisher">Domus</td>
 	<td class="type">Review</td>
 	<td class="subject">Art</td>
@@ -412,7 +404,7 @@ layout: archive
 </tr>
 
 <tr data-href="http://www.domusweb.it/en/art/2013/07/18/101_spring_streetdonaldjudd.html">
-	<td class="title">Donald Judd’s 101 Spring St, New York City</td>
+	<td class="title">Donald Judd’s 101 Spring St, NYC</td>
 	<td class="publisher">Domus</td>
 	<td class="type">Feature</td>
 	<td class="subject">Art</td>
@@ -420,7 +412,7 @@ layout: archive
 </tr>
 
 <tr data-href="http://www.domusweb.it/en/architecture/2013/08/28/an_atlas_of_modernlandscapes.html">
-	<td class="title">Le Corbusier, ‘An Atlas of Modern Landscapes’ at MoMA</td>
+	<td class="title">Le Corbusier, ‘An Atlas of Modern Landscapes’, MoMA, NYC</td>
 	<td class="publisher">Domus</td>
 	<td class="type">Review</td>
 	<td class="subject">Architecture</td>
