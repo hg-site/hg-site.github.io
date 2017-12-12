@@ -164,10 +164,11 @@ layout: archive
 </tr>
 
 <tr data-href>
+	<td class="title">Musical Objects, 3hd festival, Berlin</td>
 	<td class="publisher">POSTMatter</td>
 	<td class="type">Review</td>
 	<td class="subject">Music</td>
-	<td class="year">2015</td>
+	<td class="year">2016</td>
 </tr>
 
 <tr data-href="http://erosjournal.tictail.com/product/eros-issue-7">
