@@ -107,7 +107,7 @@ layout: archive
 	<td class="year">2016</td>
 </tr>
 
-<tr data-href>
+<tr data-href="http://postmatter.com/articles/oct-dec-2016/sidsel-meineche-hansen/">
 	<td class="title">Sidsel Meineche Hansen, Hacking the Pornographic Body</td>
 	<td class="publisher">POSTMatter</td>
 	<td class="type">Feature</td>
@@ -155,7 +155,7 @@ layout: archive
 	<td class="year">2016</td>
 </tr>
 
-<tr data-href>
+<tr data-href="http://postmatter.com/#/currents/just-unreal-enough">
 	<td class="title">Just Unreal Enough, Hatsune Miku</td>
 	<td class="publisher">POSTMatter</td>
 	<td class="type">Feature</td>
@@ -163,12 +163,12 @@ layout: archive
 	<td class="year">2016</td>
 </tr>
 
-<tr data-href>
-	<td class="title">Musical Objects, 3hd festival, Berlin</td>
+<tr data-href="http://postmatter.com/#/currents/musical-objects">
+	<td class="title">Musical Objects, 3hd Festival, Berlin</td>
 	<td class="publisher">POSTMatter</td>
 	<td class="type">Review</td>
 	<td class="subject">Music</td>
-	<td class="year">2016</td>
+	<td class="year">2015</td>
 </tr>
 
 <tr data-href="http://erosjournal.tictail.com/product/eros-issue-7">
@@ -178,7 +178,7 @@ layout: archive
 	<td class="subject">Art</td>
 	<td class="year">2015</td>
 </tr>
-<tr data-href>
+<tr data-href="http://postmatter.com/articles/archive-2012-2016/2015/21-porn-to-pizza/">
 	<td class="title">‘Porn to Pizza – Domestic Clichés’, DAM, Berlin</td>
 	<td class="publisher">POSTMatter</td>
 	<td class="type">Review</td>
@@ -250,7 +250,7 @@ layout: archive
 	<td class="year">2015</td>
 </tr>
 
-<tr data-href>
+<tr data-href="http://postmatter.com/?s=hannah+gregory#/currents/viral-compositions">
 	<td class="title">Viral Compositions, James Hoff</td>
 	<td class="publisher">POSTMatter</td>
 	<td class="type">Profile</td>
@@ -274,7 +274,7 @@ layout: archive
 	<td class="year">2015</td>
 </tr>
 
-<tr data-href>
+<tr data-href="http://postmatter.com/#/currents/capture-all-transmediale">
 	<td class="title">Capture All, Transmediale, Berlin</td>
 	<td class="publisher">POSTMatter</td>
 	<td class="type">Review</td>
@@ -346,7 +346,7 @@ layout: archive
 	<td class="year">2014</td>
 </tr>
 
-<tr data-href>
+<tr data-href="https://www.iconeye.com/news/news/icon-128-mexico/">
 	<td class="title">‘Memory Palace’, Victoria & Albert Museum, London</td>
 	<td class="publisher">ICON</td>
 	<td class="type">Review</td>
@@ -354,15 +354,15 @@ layout: archive
 	<td class="year">2014</td>
 </tr>
 
-<tr data-href>
-	<td class="title">Elmgreen &amp; Dragset, ‘Tomorrow’, Victoria & Albert Museum, London</td>
+<tr data-href="">
+	<td class="title">Elmgreen &amp; Dragset, ‘Tomorrow’ at Victoria & Albert Museum</td>
 	<td class="publisher">Domus</td>
 	<td class="type">Review</td>
 	<td class="subject">Art</td>
 	<td class="year">2014</td>
 </tr>
 
-<tr data-href>
+<tr data-href="www.domusweb.it/en/architecture/2013/10/17/zaha_hadid_serpentinesackler.html">
 	<td class="title">Zaha Hadid, Serpentine Sackler Gallery,
  London</td>
 	<td class="publisher">Domus</td>
@@ -387,7 +387,7 @@ layout: archive
 	<td class="year">2013</td>
 </tr>
 
-<tr data-href>
+<tr data-href="http://www.domusweb.it/en/design/2013/09/13/ferran_adria_andtheartoffood.html">
 	<td class="title">Culinary Playground, Ferran Adrià and the Art of Food</td>
 	<td class="publisher">Domus</td>
 	<td class="type">Review</td>
@@ -395,8 +395,16 @@ layout: archive
 	<td class="year">2013</td>
 </tr>
 
-<tr data-href>
-	<td class="title">James Turrell, ‘Aten Reign’, The Guggenheim, NYC</td>
+<tr data-href="http://www.domusweb.it/en/design/2013/10/08/ldf_2013_benjaminhubert.html">
+	<td class="title">LDF 2013: Benjamin Hubert</td>
+	<td class="publisher">Domus</td>
+	<td class="type">Feature</td>
+	<td class="subject">Design</td>
+	<td class="year">2013</td>
+</tr>
+
+<tr data-href="http://www.domusweb.it/en/art/2013/07/3/james_turrell_ateinreign.html">
+	<td class="title">James Turrell, ‘Aten Reign’ at The Guggenheim</td>
 	<td class="publisher">Domus</td>
 	<td class="type">Review</td>
 	<td class="subject">Art</td>
@@ -404,7 +412,7 @@ layout: archive
 </tr>
 
 <tr data-href="http://www.domusweb.it/en/art/2013/07/18/101_spring_streetdonaldjudd.html">
-	<td class="title">Donald Judd’s 101 Spring St, NYC</td>
+	<td class="title">Donald Judd’s 101 Spring St, New York City</td>
 	<td class="publisher">Domus</td>
 	<td class="type">Feature</td>
 	<td class="subject">Art</td>
@@ -412,7 +420,7 @@ layout: archive
 </tr>
 
 <tr data-href="http://www.domusweb.it/en/architecture/2013/08/28/an_atlas_of_modernlandscapes.html">
-	<td class="title">Le Corbusier, ‘An Atlas of Modern Landscapes’, MoMA, NYC</td>
+	<td class="title">Le Corbusier, ‘An Atlas of Modern Landscapes’ at MoMA</td>
 	<td class="publisher">Domus</td>
 	<td class="type">Review</td>
 	<td class="subject">Architecture</td>
@@ -468,7 +476,7 @@ layout: archive
 </tr>
 
 <tr data-href="http://thequietus.com/articles/11096-after-pornified-levitate-the-primate-feminist-porn">
-	<td class="title">Feminist Porn and the Impossible Subject</td>
+	<td class="title">Feminist Porn and The Impossible Subject</td>
 	<td class="publisher">The Quietus Books</td>
 	<td class="type">Essay</td>
 	<td class="subject">Literature</td>
@@ -513,11 +521,11 @@ layout: archive
 	<td class="title">The Buzz in Budapest</td>
 	<td class="publisher">Condé Nast Traveller</td>
 	<td class="type">Feature</td>
-	<td class="subject">Travel</td>
+	<td class="subject">Design</td>
 	<td class="year">2012</td>
 </tr>
 
-<tr data-href="http://thequietus.com/film">
+<tr data-href="http://thequietus.com/articles/09027-lux-ica-biennial-2012-report">
 	<td class="title">LUX/ICA Biennial of Moving Images, London</td>
 	<td class="publisher">The Quietus Film</td>
 	<td class="type">Review</td>
@@ -525,16 +533,8 @@ layout: archive
 	<td class="year">2012</td>
 </tr>
 
-<tr data-href="http://viewer.zmags.co.uk/publication/cdb7aa78#/cdb7aa78/60,">
-	<td class="title">Budapest Food</td>
-	<td class="publisher">Evening Standard Food Quarterly</td>
-	<td class="type">Feature</td>
-	<td class="subject">Food</td>
-	<td class="year">2012</td>
-</tr>
-
 <tr data-href="https://www.thewire.co.uk/">
-	<td class="title">Sarah Harvey, ‘Opus Pericardium’</td>
+	<td class="title">Sarah Harvey, ‘Opus Pericardium’, London</td>
 	<td class="publisher">The Wire</td>
 	<td class="type">Review</td>
 	<td class="subject">Art</td>
@@ -565,7 +565,7 @@ layout: archive
 	<td class="year">2012</td>
 </tr>
 
-<tr data-href="https://www.iconeye.com/news/reviews-2012/review-british-design-1948-2012">
+<tr data-href>
 	<td class="title">‘British Design 1948—2012’, Victoria &
  Albert Museum</td>
 	<td class="publisher">ICON</td>
