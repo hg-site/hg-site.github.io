@@ -107,7 +107,7 @@ layout: archive
 	<td class="year">2016</td>
 </tr>
 
-<tr data-href="http://postmatter.com/articles/oct-dec-2016/sidsel-meineche-hansen/">
+<tr data-href>
 	<td class="title">Sidsel Meineche Hansen, Hacking the Pornographic Body</td>
 	<td class="publisher">POSTMatter</td>
 	<td class="type">Feature</td>
