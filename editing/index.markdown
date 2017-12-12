@@ -37,7 +37,7 @@ layout: editing
 		</div>
 		<div class="description">
 			<h3>South Magazine Issue #9</h3>
-			<p class="documenta 14">PUBLISHERS NAME</p>
+			<p class="publisher">Documenta 14</p>
 			<p class="role">Copy-editing</p>
 		</div>
 	</a>
