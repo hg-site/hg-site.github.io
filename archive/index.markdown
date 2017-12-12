@@ -107,6 +107,7 @@ layout: archive
 	<td class="year">2016</td>
 </tr>
 
+<tr data-href="http://postmatter.com/articles/oct-dec-2016/sidsel-meineche-hansen/">
 	<td class="title">Sidsel Meineche Hansen, Hacking the Pornographic Body</td>
 	<td class="publisher">POSTMatter</td>
 	<td class="type">Feature</td>
@@ -120,6 +121,7 @@ layout: archive
 	<td class="type">Essay</td>
 	<td class="subject">Art</td>
 	<td class="year">2016</td>
+</tr>
 
 <tr data-href="/docs/LETTER-FROM-ATHENS.pdf">
 	<td class="title">Letter From Athens</td>
