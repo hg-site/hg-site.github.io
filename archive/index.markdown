@@ -346,7 +346,7 @@ layout: archive
 	<td class="year">2014</td>
 </tr>
 
-<tr data-href="https://www.iconeye.com/news/news/icon-128-mexico/">
+<tr data-href>
 	<td class="title">‘Memory Palace’, Victoria & Albert Museum, London</td>
 	<td class="publisher">ICON</td>
 	<td class="type">Review</td>
@@ -355,14 +355,14 @@ layout: archive
 </tr>
 
 <tr data-href="">
-	<td class="title">Elmgreen &amp; Dragset, ‘Tomorrow’ at Victoria & Albert Museum</td>
+	<td class="title">Elmgreen &amp; Dragset, ‘Tomorrow’, Victoria & Albert Museum, London</td>
 	<td class="publisher">Domus</td>
 	<td class="type">Review</td>
 	<td class="subject">Art</td>
 	<td class="year">2014</td>
 </tr>
 
-<tr data-href="www.domusweb.it/en/architecture/2013/10/17/zaha_hadid_serpentinesackler.html">
+<tr data-href>
 	<td class="title">Zaha Hadid, Serpentine Sackler Gallery,
  London</td>
 	<td class="publisher">Domus</td>
@@ -566,7 +566,7 @@ layout: archive
 </tr>
 
 <tr data-href>
-	<td class="title">‘British Design 1948—2012’, Victoria &
+	<td class="title">‘British Design 1948–2012’, Victoria &
  Albert Museum</td>
 	<td class="publisher">ICON</td>
 	<td class="type">Review</td>
