@@ -443,7 +443,7 @@ layout: archive
 	<td class="year">2013</td>
 </tr>
 
-<tr data-href="http://blog.frieze.com/encounters-lyotard-monory/">
+<tr data-href="docs/EncountersLyotardMonory.pdf">
 	<td class="title">Encounters: Lyotard &amp; Monory</td>
 	<td class="publisher">Frieze</td>
 	<td class="type">Review</td>
