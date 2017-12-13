@@ -194,7 +194,7 @@ layout: archive
 	<td class="year">2015</td>
 </tr>
 
-<tr data-href="http://cargocollective.com/aorist/No-1">
+<tr data-href="/docs/Air-Conditioning.pdf">
 	<td class="title">Review in Retrospect – Art &amp; Language’s ‘The Air-Conditioning Show’</td>
 	<td class="publisher">Aorist</td>
 	<td class="type">Review</td>
