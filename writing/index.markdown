@@ -182,14 +182,6 @@ layout: writing
 </div>
 
 <div class="sw-row">
-	<a href="/docs/EncountersLyotardMonory.pdf">
-	<div class="sw-title">Encounters: Lyotard &amp; Monory</div>
-	<div class="sw-publication">Frieze</div>
-	<div class="sw-year">2013</div>
-	</a>
-</div>
-
-<div class="sw-row">
 	<a href="https://www.ft.com/content/c2e7ec00-efb8-11e6-ba01-119a44939bb6">
 	<div class="sw-title">Everyday End-times, Black Wave by Michelle Tea</div>
 	<div class="sw-publication">FT Life & Arts</div>
