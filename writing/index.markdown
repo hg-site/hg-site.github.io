@@ -150,7 +150,7 @@ layout: writing
 </div>
 
 <div class="sw-row">
-	<a href="https://www.ft.com/content/fed0a28c-a8fb-11e7-ab66-21cc87a2edde">
+	<a href="/docs/AUDRE LORDE Long.pdf">
 	<div class="sw-title">Audre Lorde, Your Silence Will Not Protect You</div>
 	<div class="sw-publication">FT Life & Arts</div>
 	<div class="sw-year">2017</div>
