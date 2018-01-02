@@ -190,14 +190,6 @@ layout: writing
 </div>
 
 <div class="sw-row">
-	<a href="http://thequietus.com/articles/11096-after-pornified-levitate-the-primate-feminist-porn">
-	<div class="sw-title">Feminist Porn and the Impossible Subject</div>
-	<div class="sw-publication">The Quietus</div>
-	<div class="sw-year">2013</div>
-	</a>
-</div>
-
-<div class="sw-row">
 	<a href="https://frieze.com/article/gcc">
 	<div class="sw-title">‘Gestures’, GCC, Berlin</div>
 	<div class="sw-publication">Frieze</div>
