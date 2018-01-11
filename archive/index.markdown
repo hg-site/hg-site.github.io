@@ -16,6 +16,14 @@ layout: archive
 </thead>
 <tbody class="list">
 
+<tr data-href="https://www.flashartonline.com/issue/318-january-february-2018/">
+	<td class="title">Aria Dean, American Medium</td>
+	<td class="publisher">Flash Art</td>
+	<td class="type">Review</td>
+	<td class="subject">Art</td>
+	<td class="year">2018</td>
+</tr>
+
 <tr data-href="https://www.apollo-magazine.com/the-defiant-jokes-of-jimmie-durham/">
 	<td class="title">The defiant jokes of Jimmie Durham</td>
 	<td class="publisher">Apollo</td>
