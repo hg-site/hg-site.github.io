@@ -33,7 +33,7 @@ layout: editing
 <div class="item">
 	<a href="http://www.documenta14.de/en/south/">
 		<div class="cover">
-			<img src="http://images.documenta14.de/Cover_South4.jpg,1440">
+			<img src="WrGhMkGQYNzQtd2k2n(i">
 		</div>
 		<div class="description">
 			<h3>South Magazine Issue #9</h3>

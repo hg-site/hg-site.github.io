@@ -24,6 +24,7 @@ layout: archive
 	<td class="year">2018</td>
 </tr>
 
+
 <tr data-href="https://www.apollo-magazine.com/the-defiant-jokes-of-jimmie-durham/">
 	<td class="title">The defiant jokes of Jimmie Durham</td>
 	<td class="publisher">Apollo</td>
