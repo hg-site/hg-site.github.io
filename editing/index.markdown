@@ -36,8 +36,7 @@ layout: editing
 			<img src="http://www.sternberg-press.com/files/book/709/Jahresring64_Tillmans_What-Is-Different364.jpg">
 		</div>
 		<div class="description">
-			<h3>What Is Different? Jahresring 64,
- Wolfgang Tillmans</h3>
+			<h3>What Is Different? Wolfgang Tillmans</h3>
 			<p class="publisher">Sternberg Press, 2018</p>
 			<p class="role">Editing</p>
 		</div>
