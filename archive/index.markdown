@@ -28,7 +28,7 @@ layout: archive
 	<td class="title">What remains?</td>
 	<td class="publisher">patten: 3049</td>
 	<td class="type">Essay</td>
-	<td class=Life></td>
+	<td class="subject">Life</td>
 	<td class="year">2018</td>
 </tr>
 
