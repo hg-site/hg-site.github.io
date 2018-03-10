@@ -31,6 +31,33 @@ layout: editing
 </div>
 
 <div class="item">
+	<a href="https://transmediale.de/resource/journal">
+		<div class="cover">
+			<img src="https://transmediale.de/sites/default/files/public/styles/6col/public/node/festival/field_festival_image/fid/60532/Image%20uploaded%20from%20iOS%20%282%29.jpg?itok=Rif3hx8G">
+		</div>
+		<div class="description">
+			<h3>transmediale face value journal</h3>
+			<p class="publisher">transmediale, 2018</p>
+			<p class="role">Copy-editing>
+		</div>
+	</a>
+</div>
+
+<div class="item">
+	<a href="http://www.sternberg-press.com/index.php?pageId=1816&bookId=709&l=en">
+		<div class="cover">
+			<img src="http://www.sternberg-press.com/files/book/709/Jahresring64_Tillmans_What-Is-Different364.jpg">
+		</div>
+		<div class="description">
+			<h3>What Is Different? Jahresring 64,
+ Wolfgang Tillmans</h3>
+			<p class="publisher">Sternberg Press, 2018</p>
+			<p class="role">Editing</p>
+		</div>
+	</a>
+</div>
+
+<div class="item">
 	<a href="http://www.documenta14.de/en/south/">
 		<div class="cover">
 			<img src="http://www.biennialfoundation.org/wp-content/uploads/2016/11/SSOM.jpg">
