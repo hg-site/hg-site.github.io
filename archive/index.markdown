@@ -16,6 +16,22 @@ layout: archive
 </thead>
 <tbody class="list">
 
+<tr data-href="https://www.thewire.co.uk/issues/409">
+	<td class="title">From Ear to Ear to Eye, Nottingham Contemporary</td>
+	<td class="publisher">The Wire</td>
+	<td class="type">Review</td>
+	<td class="subject">Art</td>
+	<td class="year">2018</td>
+</tr>
+
+<tr data-href="https://issuu.com/555-5555/docs/patten-3049">
+	<td class="title">What remains?</td>
+	<td class="publisher">patten, 3049</td>
+	<td class="type">Essay</td>
+	<td class=Life></td>
+	<td class="year">2018</td>
+</tr>
+
 <tr data-href="https://www.flashartonline.com/issue/318-january-february-2018/">
 	<td class="title">Aria Dean, American Medium</td>
 	<td class="publisher">Flash Art</td>
