@@ -26,7 +26,7 @@ layout: archive
 
 <tr data-href="https://issuu.com/555-5555/docs/patten-3049">
 	<td class="title">What remains?</td>
-	<td class="publisher">patten, 3049</td>
+	<td class="publisher">patten: 3049</td>
 	<td class="type">Essay</td>
 	<td class=Life></td>
 	<td class="year">2018</td>
