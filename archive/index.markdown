@@ -16,6 +16,14 @@ layout: archive
 </thead>
 <tbody class="list">
 
+<tr data-href="https://elephant.art/an-alternative-guide-to-hong-kongs-unique-art-spaces/">
+	<td class="title">Hong Kong's Hidden Art Spaces</td>
+	<td class="publisher">Elephant</td>
+	<td class="type">Letter</td>
+	<td class="subject">Art</td>
+	<td class="year">2018</td>
+</tr>
+
 <tr data-href="https://www.thewire.co.uk/issues/409">
 	<td class="title">From Ear to Ear to Eye, Nottingham Contemporary</td>
 	<td class="publisher">The Wire</td>
