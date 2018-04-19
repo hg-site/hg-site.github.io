@@ -17,7 +17,7 @@ layout: archive
 <tbody class="list">
 
 <tr data-href="https://elephant.art/an-alternative-guide-to-hong-kongs-unique-art-spaces/">
-	<td class="title">Hong Kong's Hidden Art Spaces</td>
+	<td class="title">Hong Kong’s Hidden Art Spaces</td>
 	<td class="publisher">Elephant</td>
 	<td class="type">Letter</td>
 	<td class="subject">Art</td>
