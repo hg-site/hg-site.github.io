@@ -33,12 +33,12 @@ layout: editing
 <div class="item">
 	<a href="http://southasastateofmind.com/">
 		<div class="cover">
-			<img src="WEB ADDRESS OF THE IMAGE">
+			<img src="/uploads/South2.jpg">
 		</div>
 		<div class="description">
-			<h3>PUBLICATION TITLE</h3>
-			<p class="publisher">PUBLISHERS NAME</p>
-			<p class="role">YOUR ROLE</p>
+			<h3>South Magazine, 'Maintenance'</h3>
+			<p class="publisher">South as a State of Mind</p>
+			<p class="role">Editing</p>
 		</div>
 	</a>
 </div>
