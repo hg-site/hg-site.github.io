@@ -33,7 +33,7 @@ layout: editing
 <div class="item">
 	<a href="http://southasastateofmind.com/">
 		<div class="cover">
-			<img src="/uploads/South2.jpg">
+			<img src="/uploads/South.jpg">
 		</div>
 		<div class="description">
 			<h3>South Magazine, 'Maintenance', #10</h3>
