@@ -31,6 +31,19 @@ layout: editing
 </div>
 
 <div class="item">
+	<a href="http://southasastateofmind.com/">
+		<div class="cover">
+			<img src="WEB ADDRESS OF THE IMAGE">
+		</div>
+		<div class="description">
+			<h3>PUBLICATION TITLE</h3>
+			<p class="publisher">PUBLISHERS NAME</p>
+			<p class="role">YOUR ROLE</p>
+		</div>
+	</a>
+</div>
+
+<div class="item">
 	<a href="https://transmediale.de/content/transmedialejournal-face-value-edition-is-out-now">
 		<div class="cover">
 			<img src="/uploads/transm.jpeg">
