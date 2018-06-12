@@ -33,7 +33,7 @@ layout: editing
 <div class="item">
 	<a href="https://transmediale.de/content/transmedialejournal-face-value-edition-is-out-now">
 		<div class="cover">
-			<img src="https://transmediale.de/sites/default/files/public/styles/6col/public/node/festival/field_festival_image/fid/60532/Image%20uploaded%20from%20iOS%20%282%29.jpg?itok=Rif3hx8G">
+			<img src="/uploads/transm.jpeg">
 		</div>
 		<div class="description">
 			<h3>Transmediale Journal, Face Value</h3>
