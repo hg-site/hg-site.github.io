@@ -16,6 +16,14 @@ layout: archive
 </thead>
 <tbody class="list">
 
+<tr data-href="https://www.afterall.org/journal/issue.46/time-torn">
+	<td class="title">Time Torn</td>
+	<td class="publisher">Afterall</td>
+	<td class="type">Essay</td>
+	<td class="subject">Art</td>
+	<td class="year">2018</td>
+</tr>
+
 <tr data-href="https://elephant.art/an-alternative-guide-to-hong-kongs-unique-art-spaces/">
 	<td class="title">Hong Kong’s Hidden Art Spaces</td>
 	<td class="publisher">Elephant</td>
