@@ -9,6 +9,15 @@ layout: writing
 </div>
 
 <div class="sw-row">
+	<a href="https://www.afterall.org/journal/issue.46/time-torn">
+	<div class="sw-title">Time Torn</div>
+	<div class="sw-publication">Afterall</div>
+	<div class="sw-year">2018</div>
+	</a>
+</div> 
+
+
+<div class="sw-row">
 	<a href="https://issuu.com/555-5555/docs/patten-3049">
 	<div class="sw-title">What remains?</div>
 	<div class="sw-publication">patten: 3049</div>
