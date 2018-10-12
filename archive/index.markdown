@@ -17,7 +17,7 @@ layout: archive
 <tbody class="list">
 
 <tr data-href="https://www.afterall.org/journal/issue.46/time-torn">
-	<td class="title">Time Torn</td>
+	<td class="title">Time Torn, Kader Attia</td>
 	<td class="publisher">Afterall</td>
 	<td class="type">Essay</td>
 	<td class="subject">Art</td>
