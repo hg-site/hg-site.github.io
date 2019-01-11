@@ -30,7 +30,18 @@ layout: editing
 </a>
 </div>
 
-
+<div class="item">
+	<a href="https://ignota.org/products/spells">
+		<div class="cover">
+			<img src="https://cdn.shopify.com/s/files/1/0035/0889/5813/products/SPELLS_COVER_JPG_720x.jpg?v=1539010250">
+		</div>
+		<div class="description">
+			<h3>Spells, 21st-Century Occult Poetry</h3>
+			<p class="publisher">Ignota Books, London, 2018</p>
+			<p class="role">Copy-editing</p>
+		</div>
+	</a>
+</div>
 
 <div class="item">
 	<a href="http://nomegallery.com/wp-content/uploads/2018/09/AGENCY.pdf">
@@ -65,7 +76,7 @@ layout: editing
 		</div>
 		<div class="description">
 			<h3>Transmediale Journal, Face Value</h3>
-			<p class="publisher">Transmediale, 2018</p>
+			<p class="publisher">Transmediale, Berlin, 2018</p>
 			<p class="role">Copy-editing</p>
 		</div>
 	</a>
