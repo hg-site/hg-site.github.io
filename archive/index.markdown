@@ -16,7 +16,7 @@ layout: archive
 </thead>
 <tbody class="list">
 
-<tr data-href="LINK ADDRESS TO WEBPAGE">
+<tr data-href="/uploads/TheAnnotatedReaderBhanu.pdf">
 	<td class="title">The Annotated Reader</td>
 	<td class="publisher">Ryan Gander’s Studio</td>
 	<td class="type">Art text</td>
