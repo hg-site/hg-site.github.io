@@ -33,13 +33,13 @@ layout: editing
 
 
 <div class="item">
-	<a href="http://nomegallery.com/exhibitions/agency/">
+	<a href="http://nomegallery.com/wp-content/uploads/2018/09/AGENCY.pdf">
 		<div class="cover">
 			<img src="/uploads/Screen%20Shot%202019-01-11%20at%2013.52.09.png">
 		</div>
 		<div class="description">
 			<h3>NOME exhibition catalogues, 2015–2019</h3>
-			<p class="publisher">NOME</p>
+			<p class="publisher">NOME Gallery, Berlin</p>
 			<p class="role">Editor</p>
 		</div>
 	</a>
