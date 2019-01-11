@@ -36,7 +36,7 @@ layout: editing
 			<img src="/uploads/South2.jpg">
 		</div>
 		<div class="description">
-			<h3>South Magazine, Maintenance, Issue #10</h3>
+			<h3>South Magazine, Maintenance, Issue #10, 2018</h3>
 			<p class="publisher">South as a State of Mind</p>
 			<p class="role">Editing</p>
 		</div>
