@@ -17,7 +17,7 @@ layout: archive
 <tbody class="list">
 
 <tr data-href="/uploads/TheAnnotatedReaderBhanu.pdf">
-	<td class="title">The Annotated Reader</td>
+	<td class="title">The Annotated Reader, Bhanu Kapil</td>
 	<td class="publisher">Ryan Gander’s Studio</td>
 	<td class="type">Art text</td>
 	<td class="subject">Literature</td>
