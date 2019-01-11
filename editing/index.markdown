@@ -36,9 +36,9 @@ layout: editing
 			<img src="WEB ADDRESS OF THE IMAGE">
 		</div>
 		<div class="description">
-			<h3>PUBLICATION TITLE</h3>
-			<p class="publisher">PUBLISHERS NAME</p>
-			<p class="role">YOUR ROLE</p>
+			<h3>NOME exhibition catalogues, 2015–2019</h3>
+			<p class="publisher">NOME</p>
+			<p class="role">Editor</p>
 		</div>
 	</a>
 </div>
