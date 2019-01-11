@@ -33,7 +33,7 @@ layout: editing
 <div class="item">
 	<a href="LINK ADDRESS TO WEBPAGE FOR PUBLICATION">
 		<div class="cover">
-			<img src="WEB ADDRESS OF THE IMAGE">
+			<img src="/uploads/Screen%20Shot%202019-01-11%20at%2013.52.09.png">
 		</div>
 		<div class="description">
 			<h3>NOME exhibition catalogues, 2015–2019</h3>
@@ -44,7 +44,7 @@ layout: editing
 </div>
 
 <div class="item">
-	<a href="/uploads/2SOUTHI10-2018.jpg">
+	<a href="http://southasastateofmind.com/current-issue/">
 		<div class="cover">
 			<img src="/uploads/2SOUTHI10-2018.jpg">
 		</div>
