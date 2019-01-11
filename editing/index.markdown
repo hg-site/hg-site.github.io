@@ -31,7 +31,7 @@ layout: editing
 </div>
 
 <div class="item">
-	<a href="http://southasastateofmind.com/">
+	<a href="/uploads/2SOUTHI10-2018.jpg">
 		<div class="cover">
 			<img src="/uploads/South2.jpg">
 		</div>
