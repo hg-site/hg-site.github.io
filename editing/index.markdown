@@ -31,9 +31,22 @@ layout: editing
 </div>
 
 <div class="item">
+	<a href="LINK ADDRESS TO WEBPAGE FOR PUBLICATION">
+		<div class="cover">
+			<img src="WEB ADDRESS OF THE IMAGE">
+		</div>
+		<div class="description">
+			<h3>PUBLICATION TITLE</h3>
+			<p class="publisher">PUBLISHERS NAME</p>
+			<p class="role">YOUR ROLE</p>
+		</div>
+	</a>
+</div>
+
+<div class="item">
 	<a href="/uploads/2SOUTHI10-2018.jpg">
 		<div class="cover">
-			<img src="/uploads/South2.jpg">
+			<img src="/uploads/2SOUTHI10-2018.jpg">
 		</div>
 		<div class="description">
 			<h3>South Magazine, Maintenance, Issue #10, 2018</h3>
