@@ -16,6 +16,14 @@ layout: archive
 </thead>
 <tbody class="list">
 
+<tr data-href="LINK ADDRESS TO WEBPAGE">
+	<td class="title">The Annotated Reader</td>
+	<td class="publisher">Ryan Gander’s Studio</td>
+	<td class="type">Art text</td>
+	<td class="subject">Literature</td>
+	<td class="year">2018</td>
+</tr>
+
 <tr data-href="https://www.afterall.org/journal/issue.46/time-torn">
 	<td class="title">Time Torn, Kader Attia</td>
 	<td class="publisher">Afterall</td>
