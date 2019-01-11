@@ -31,7 +31,7 @@ layout: editing
 </div>
 
 <div class="item">
-	<a href="LINK ADDRESS TO WEBPAGE FOR PUBLICATION">
+	<a href="http://nomegallery.com/wp-content/uploads/2018/09/AGENCY.pdf">
 		<div class="cover">
 			<img src="/uploads/Screen%20Shot%202019-01-11%20at%2013.52.09.png">
 		</div>
