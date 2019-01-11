@@ -46,7 +46,7 @@ layout: editing
 <div class="item">
 	<a href="http://southasastateofmind.com/current-issue/">
 		<div class="cover">
-			<img src="/uploads/2SOUTHI10-2018.jpg">
+			<img src="/uploads/South2.jpg">
 		</div>
 		<div class="description">
 			<h3>South Magazine, Maintenance, Issue #10, 2018</h3>
