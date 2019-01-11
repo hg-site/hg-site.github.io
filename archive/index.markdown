@@ -16,6 +16,14 @@ layout: archive
 </thead>
 <tbody class="list">
 
+<tr data-href="https://elephant.art/looking-back-standout-exhibitions-2018/">
+	<td class="title">Exhibitions of the Year</td>
+	<td class="publisher">Elephant</td>
+	<td class="type">Review</td>
+	<td class="subject">Art</td>
+	<td class="year">2018</td>
+</tr>
+
 <tr data-href="/uploads/TheAnnotatedReaderBhanu.pdf">
 	<td class="title">The Annotated Reader, Bhanu Kapil</td>
 	<td class="publisher">Ryan Gander’s Studio</td>
