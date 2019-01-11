@@ -9,6 +9,14 @@ layout: writing
 </div>
 
 <div class="sw-row">
+	<a href="https://www.architectural-review.com/magazines/the-ar-december-2018/january-2019-book-issue/10038331.article?blocktitle=Latest-issue&contentID=17899">
+	<div class="sw-title">Volumes of Words</div>
+	<div class="sw-publication">The Architectural Review</div>
+	<div class="sw-year">2018</div>
+	</a>
+</div> 
+
+<div class="sw-row">
 	<a href="https://www.afterall.org/journal/issue.46/time-torn">
 	<div class="sw-title">Time Torn</div>
 	<div class="sw-publication">Afterall</div>
@@ -105,7 +113,7 @@ layout: writing
 <div class="sw-row">
 	<a href="https://thephotographersgalleryblog.org.uk/2015/01/12/creature-film-joao-maria-gusmao-and-pedro-paiva/">
 	<div class="sw-title">Creature-Film, João Maria Gusmão and Pedro Paiva</div>
-	<div class="sw-publication">The Photographer's Gallery</div>
+	<div class="sw-publication">The Photographer’s Gallery</div>
 	<div class="sw-year">2015</div>
 	</a>
 </div>
