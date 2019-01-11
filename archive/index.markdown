@@ -16,6 +16,14 @@ layout: archive
 </thead>
 <tbody class="list">
 
+<tr data-href="https://www.architectural-review.com/magazines/the-ar-december-2018/january-2019-book-issue/10038331.article?blocktitle=Latest-issue&contentID=17899">
+	<td class="title">Volumes of Words</td>
+	<td class="publisher">The Architectural Review</td>
+	<td class="type">Essay</td>
+	<td class="subject">Literature</td>
+	<td class="year">2018</td>
+</tr>
+
 <tr data-href="https://elephant.art/looking-back-standout-exhibitions-2018/">
 	<td class="title">Exhibitions of the Year</td>
 	<td class="publisher">Elephant</td>
