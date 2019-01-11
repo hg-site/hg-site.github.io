@@ -30,8 +30,10 @@ layout: editing
 </a>
 </div>
 
+
+
 <div class="item">
-	<a href="http://nomegallery.com/wp-content/uploads/2018/09/AGENCY.pdf">
+	<a href="http://nomegallery.com/exhibitions/agency/">
 		<div class="cover">
 			<img src="/uploads/Screen%20Shot%202019-01-11%20at%2013.52.09.png">
 		</div>
