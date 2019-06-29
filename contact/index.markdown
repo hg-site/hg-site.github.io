@@ -9,6 +9,6 @@ Write to me at hannah.gregory@gmail.com
 <ul>
 	<li><a href="mailto:hannah.gregory@gmail.com" target="_blank">Email</a></li>
 	<li><a href="https://twitter.com/hnnh_g" target="_blank">Twitter</a></li>
-	<li><a href="http://tinyletter.com/hannah_e_gregory" target="_blank">TinyLetter</a></li>
+	<li><a href="http://tinyletter.com/hnnh_g" target="_blank">TinyLetter</a></li>
 	<li><a href="http://hannah-gregory.tumblr.com/" target="_blank">Tumblr</a></li>
 </ul>
