@@ -9,6 +9,14 @@ layout: writing
 </div>
 
 <div class="sw-row">
+	<a href="http://nomegallery.com/chapter/be-in-touch/?exh=2444&order=0&fbclid=IwAR2QN5v4raWqVgeE-aDUYPn-RhFJSer4jSGR8NXeU2o8dPZOB3WaN-jY8f0">
+	<div class="sw-title">Be in touch</div>
+	<div class="sw-publication">NOME Gallery</div>
+	<div class="sw-year">2019</div>
+	</a>
+</div> 
+
+<div class="sw-row">
 	<a href="https://www.architectural-review.com/magazines/the-ar-december-2018/january-2019-book-issue/10038331.article?blocktitle=Latest-issue&contentID=17899">
 	<div class="sw-title">Volumes of Words</div>
 	<div class="sw-publication">The Architectural Review</div>
@@ -229,6 +237,14 @@ layout: writing
 	<div class="sw-year">2015</div>
 	</a>
 </div>
+
+<div class="sw-row">
+	<a href="https://www.artpapers.org/jesse-darling-the-ballad-of-saint-jerome/">
+	<div class="sw-title">Jesse Darling, The Ballad of Saint Jerome</div>
+	<div class="sw-publication">Art Papers</div>
+	<div class="sw-year">2019</div>
+	</a>
+</div> 
 
 <div class="sw-row">
 	<a href="https://www.apollo-magazine.com/the-defiant-jokes-of-jimmie-durham/">
