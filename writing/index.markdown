@@ -247,7 +247,7 @@ layout: writing
 
 <div class="sw-row">
 	<a href="https://www.artpapers.org/jesse-darling-the-ballad-of-saint-jerome/">
-	<div class="sw-title">Jesse Darling, The Ballad of Saint Jerome</div>
+	<div class="sw-title">Jesse Darling, ‘The Ballad of Saint Jerome’</div>
 	<div class="sw-publication">Art Papers</div>
 	<div class="sw-year">2019</div>
 	</a>
