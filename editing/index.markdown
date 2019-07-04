@@ -49,7 +49,7 @@ layout: editing
 			<img src="https://cdn.shopify.com/s/files/1/0035/0889/5813/products/SPELLS_COVER_JPG_720x.jpg?v=1539010250">
 		</div>
 		<div class="description">
-			<h3>Spells, 21st-Century Occult Poetry</h3>
+			<h3>Spells, 21st-Century Occult Poetry, eds. Sarah Shin and Rebecca Tamas</h3>
 			<p class="publisher">Ignota Books, London, 2018</p>
 			<p class="role">Copy-editing</p>
 		</div>
