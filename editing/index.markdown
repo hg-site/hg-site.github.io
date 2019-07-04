@@ -31,6 +31,19 @@ layout: editing
 </div>
 
 <div class="item">
+	<a href="https://www.bookworks.org.uk/node/1981">
+		<div class="cover">
+			<img src="https://www.bookworks.org.uk/sites/default/files/imagecache/archive_item_large/Sad%20Sack_0.jpg">
+		</div>
+		<div class="description">
+			<h3>Sad Sack, Sophia Al-Maria</h3>
+			<p class="Book Works, London, 2019">PUBLISHERS NAME</p>
+			<p class="role">Copy-editing</p>
+		</div>
+	</a>
+</div>
+
+<div class="item">
 	<a href="https://ignota.org/products/spells">
 		<div class="cover">
 			<img src="https://cdn.shopify.com/s/files/1/0035/0889/5813/products/SPELLS_COVER_JPG_720x.jpg?v=1539010250">
@@ -88,7 +101,7 @@ layout: editing
 			<img src="http://www.sternberg-press.com/files/book/709/Jahresring64_Tillmans_What-Is-Different364.jpg">
 		</div>
 		<div class="description">
-			<h3>What Is Different? Wolfgang Tillmans</h3>
+			<h3>Wolfgang Tillmans, What Is Different?</h3>
 			<p class="publisher">Sternberg Press, 2018</p>
 			<p class="role">Editing</p>
 		</div>
