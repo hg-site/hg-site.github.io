@@ -16,6 +16,30 @@ layout: archive
 </thead>
 <tbody class="list">
 
+<tr data-href="http://nomegallery.com/chapter/be-in-touch/?exh=2444&order=0&fbclid=IwAR2QN5v4raWqVgeE-aDUYPn-RhFJSer4jSGR8NXeU2o8dPZOB3WaN-jY8f0">
+	<td class="title">Be in touch</td>
+	<td class="publisher">NOME Gallery</td>
+	<td class="type">Essay</td>
+	<td class="subject">Art</td>
+	<td class="year">2019</td>
+</tr>
+
+<tr data-href="https://www.e-flux.com/announcements/249984/adam-linderfull-service/">
+	<td class="title">Some Proximity, Adam Linder</td>
+	<td class="publisher">MUDAM</td>
+	<td class="type">Live writing</td>
+	<td class="subject">Art</td>
+	<td class="year">2019</td>
+</tr>
+
+<tr data-href="https://www.artpapers.org/jesse-darling-the-ballad-of-saint-jerome/">
+	<td class="title">Jesse Darling, ‘The Ballad of Saint Jerome’</td>
+	<td class="publisher">Art Papers</td>
+	<td class="type">Review</td>
+	<td class="subject">Art</td>
+	<td class="year">2019</td>
+</tr>
+
 <tr data-href="https://www.architectural-review.com/magazines/the-ar-december-2018/january-2019-book-issue/10038331.article?blocktitle=Latest-issue&contentID=17899">
 	<td class="title">Volumes of Words</td>
 	<td class="publisher">The Architectural Review</td>
@@ -57,7 +81,7 @@ layout: archive
 </tr>
 
 <tr data-href="https://www.thewire.co.uk/issues/409">
-	<td class="title">From Ear to Ear to Eye, Nottingham Contemporary</td>
+	<td class="title">‘From Ear to Ear to Eye’, Nottingham Contemporary</td>
 	<td class="publisher">The Wire</td>
 	<td class="type">Review</td>
 	<td class="subject">Art</td>
