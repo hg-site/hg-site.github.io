@@ -37,7 +37,7 @@ layout: editing
 		</div>
 		<div class="description">
 			<h3>Sad Sack, Sophia Al-Maria</h3>
-			<p class="Book Works, London, 2019">PUBLISHERS NAME</p>
+			<p class="publisher">Book Works, London, 2019</p>
 			<p class="role">Copy-editing</p>
 		</div>
 	</a>
