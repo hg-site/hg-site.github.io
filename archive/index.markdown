@@ -24,6 +24,14 @@ layout: archive
 	<td class="year">2019</td>
 </tr>
 
+<tr data-href="https://www.facebook.com/events/2145951792368974/">
+	<td class="title">Fragments on Family</td>
+	<td class="publisher">Lampenfieber</td>
+	<td class="type">Reading</td>
+	<td class="subject">Life</td>
+	<td class="year">2019</td>
+</tr>
+
 <tr data-href="https://www.patreon.com/posts/berlin-isnt-new-28469271">
 	<td class="title">Berlin Isn’t the New Berlin</td>
 	<td class="publisher">Study Hall</td>
