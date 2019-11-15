@@ -17,11 +17,11 @@ layout: archive
 <tbody class="list">
 
 <tr data-href="https://www.patreon.com/posts/berlin-isnt-new-28469271">
-	<td class="Berlin Isn't the New Berlin">TITLE</td>
-	<td class="Study Hall">PUBLISHER</td>
-	<td class="Essay">WORK TYPE</td>
-	<td class="Places">SUBJECT</td>
-	<td class="2019">YEAR</td>
+	<td class="title">Berlin Isn't the New Berlin</td>
+	<td class="publisher">Study Hall</td>
+	<td class="type">Essay</td>
+	<td class="subject">Places</td>
+	<td class="year">2019</td>
 </tr>
 
 <tr data-href="http://nomegallery.com/chapter/be-in-touch/?exh=2444&order=0&fbclid=IwAR2QN5v4raWqVgeE-aDUYPn-RhFJSer4jSGR8NXeU2o8dPZOB3WaN-jY8f0">
