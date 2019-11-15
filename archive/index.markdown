@@ -16,7 +16,7 @@ layout: archive
 </thead>
 <tbody class="list">
 
-<tr data-href="https://www.southbankcentre.co.uk/venues/hayward-gallery/past-exhibitions/kader-attia">
+<tr data-href="/uploads/CP_Jesse%20Darling%20(1).pdf">
 	<td class="title">Selva Oscura, Jesse Darling</td>
 	<td class="publisher">Galerie Sultana</td>
 	<td class="type">Art text</td>
