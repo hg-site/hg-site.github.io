@@ -9,6 +9,14 @@ layout: writing
 </div>
 
 <div class="sw-row">
+	<a href="https://www.patreon.com/posts/berlin-isnt-new-28469271">
+	<div class="Berlin Isn't the New Berlin">TITLE</div>
+	<div class="Study Hall">PUBLICATION</div>
+	<div class="2019">YEAR</div>
+	</a>
+</div> 
+
+<div class="sw-row">
 	<a href="http://nomegallery.com/chapter/be-in-touch/?exh=2444&order=0&fbclid=IwAR2QN5v4raWqVgeE-aDUYPn-RhFJSer4jSGR8NXeU2o8dPZOB3WaN-jY8f0">
 	<div class="sw-title">Be in touch</div>
 	<div class="sw-publication">NOME Gallery</div>
