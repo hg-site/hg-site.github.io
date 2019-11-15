@@ -16,6 +16,14 @@ layout: archive
 </thead>
 <tbody class="list">
 
+<tr data-href="https://www.southbankcentre.co.uk/venues/hayward-gallery/past-exhibitions/kader-attia">
+	<td class="title">Selva Oscura, Jesse Darling</td>
+	<td class="publisher">Galerie Sultana</td>
+	<td class="type">Art text</td>
+	<td class="subject">Art</td>
+	<td class="year">2019</td>
+</tr>
+
 <tr data-href="https://www.patreon.com/posts/berlin-isnt-new-28469271">
 	<td class="title">Berlin Isn’t the New Berlin</td>
 	<td class="publisher">Study Hall</td>
