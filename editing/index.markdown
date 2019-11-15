@@ -31,6 +31,19 @@ layout: editing
 </div>
 
 <div class="item">
+	<a href="LINK ADDRESS TO WEBPAGE FOR PUBLICATION">
+		<div class="cover">
+			<img src="WEB ADDRESS OF THE IMAGE">
+		</div>
+		<div class="description">
+			<h3>PUBLICATION TITLE</h3>
+			<p class="publisher">PUBLISHERS NAME</p>
+			<p class="role">YOUR ROLE</p>
+		</div>
+	</a>
+</div>
+
+<div class="item">
 	<a href="https://www.bookworks.org.uk/node/1981">
 		<div class="cover">
 			<img src="https://www.bookworks.org.uk/sites/default/files/imagecache/archive_item_large/Sad%20Sack_0.jpg">
