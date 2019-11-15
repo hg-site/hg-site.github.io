@@ -10,7 +10,7 @@ layout: writing
 
 <div class="sw-row">
 	<a href="https://www.patreon.com/posts/berlin-isnt-new-28469271">
-	<div class="sw-title">Berlin Isn't the New Berlin</div>
+	<div class="sw-title">Berlin Isn’t the New Berlin</div>
 	<div class="sw-publication">Study Hall</div>
 	<div class="sw-year">2019</div>
 	</a>
