@@ -16,6 +16,14 @@ layout: archive
 </thead>
 <tbody class="list">
 
+<tr data-href="https://www.patreon.com/posts/berlin-isnt-new-28469271">
+	<td class="Berlin Isn't the New Berlin">TITLE</td>
+	<td class="Study Hall">PUBLISHER</td>
+	<td class="Essay">WORK TYPE</td>
+	<td class="Places">SUBJECT</td>
+	<td class="2019">YEAR</td>
+</tr>
+
 <tr data-href="http://nomegallery.com/chapter/be-in-touch/?exh=2444&order=0&fbclid=IwAR2QN5v4raWqVgeE-aDUYPn-RhFJSer4jSGR8NXeU2o8dPZOB3WaN-jY8f0">
 	<td class="title">Be in touch</td>
 	<td class="publisher">NOME Gallery</td>
@@ -602,7 +610,7 @@ layout: archive
 	<td class="title">The Buzz in Budapest</td>
 	<td class="publisher">Condé Nast Traveller</td>
 	<td class="type">Feature</td>
-	<td class="subject">Travel</td>
+	<td class="subject">Places</td>
 	<td class="year">2012</td>
 </tr>
 
@@ -667,7 +675,7 @@ layout: archive
 	<td class="title">The Paris High-Line</td>
 	<td class="publisher">Metropolitan Magazine</td>
 	<td class="type">Feature</td>
-	<td class="subject">Travel</td>
+	<td class="subject">Places</td>
 	<td class="year">2012</td>
 </tr>
 
