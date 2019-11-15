@@ -17,7 +17,7 @@ layout: archive
 <tbody class="list">
 
 <tr data-href="https://www.patreon.com/posts/berlin-isnt-new-28469271">
-	<td class="title">Berlin Isn't the New Berlin</td>
+	<td class="title">Berlin Isn’t the New Berlin</td>
 	<td class="publisher">Study Hall</td>
 	<td class="type">Essay</td>
 	<td class="subject">Places</td>
