@@ -44,6 +44,19 @@ layout: editing
 </div>
 
 <div class="item">
+	<a href="https://ignota.org/products/states-of-the-body-produced-by-love-by-nisha-ramayya">
+		<div class="cover">
+			<img src="/uploads/Ignota_States2_FOIL_720x.jpg">
+		</div>
+		<div class="description">
+			<h3>States of the Body Produced by Love, Nisha Ramayya</h3>
+			<p class="publisher">Ignota, London, 2019</p>
+			<p class="role">Copy-editor</p>
+		</div>
+	</a>
+</div>
+
+<div class="item">
 	<a href="https://www.bookworks.org.uk/node/1981">
 		<div class="cover">
 			<img src="https://www.bookworks.org.uk/sites/default/files/imagecache/archive_item_large/Sad%20Sack_0.jpg">
@@ -51,7 +64,7 @@ layout: editing
 		<div class="description">
 			<h3>Sad Sack, Sophia Al-Maria</h3>
 			<p class="publisher">Book Works, London, 2019</p>
-			<p class="role">Copy-editing</p>
+			<p class="role">Copy-editor</p>
 		</div>
 	</a>
 </div>
@@ -63,7 +76,7 @@ layout: editing
 		</div>
 		<div class="description">
 			<h3>Spells, 21st-Century Occult Poetry, eds. Sarah Shin and Rebecca Tamas</h3>
-			<p class="publisher">Ignota Books, London, 2018</p>
+			<p class="publisher">Ignota, London, 2018</p>
 			<p class="role">Copy-editing</p>
 		</div>
 	</a>
