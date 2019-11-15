@@ -10,9 +10,9 @@ layout: writing
 
 <div class="sw-row">
 	<a href="https://www.patreon.com/posts/berlin-isnt-new-28469271">
-	<div class="Berlin Isn't the New Berlin">TITLE</div>
-	<div class="Study Hall">PUBLICATION</div>
-	<div class="2019">YEAR</div>
+	<div class="title">Berlin Isn't the New Berlin</div>
+	<div class="publication">Study Hall</div>
+	<div class="year">2019</div>
 	</a>
 </div> 
 
