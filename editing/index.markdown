@@ -31,14 +31,14 @@ layout: editing
 </div>
 
 <div class="item">
-	<a href="LINK ADDRESS TO WEBPAGE FOR PUBLICATION">
+	<a href="https://wallach.columbia.edu/publications/waiting-omar-gatlato">
 		<div class="cover">
-			<img src="WEB ADDRESS OF THE IMAGE">
+			<img src="/uploads/waiting_for_omar_publication_cover.jpg">
 		</div>
 		<div class="description">
-			<h3>PUBLICATION TITLE</h3>
-			<p class="publisher">PUBLISHERS NAME</p>
-			<p class="role">YOUR ROLE</p>
+			<h3>Waiting for Omar Gatlato</h3>
+			<p class="publisher">Sternberg Press, 2019</p>
+			<p class="role">Copy-editor</p>
 		</div>
 	</a>
 </div>
