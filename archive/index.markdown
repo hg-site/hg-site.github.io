@@ -32,6 +32,14 @@ layout: archive
 	<td class="year">2019</td>
 </tr>
 
+<tr data-href="https://www.southbankcentre.co.uk/venues/hayward-gallery/past-exhibitions/kader-attia">
+	<td class="title">Kader Attia: Paths of Repair</td>
+	<td class="publisher">Hayward Gallery</td>
+	<td class="type">Tour</td>
+	<td class="subject">Art</td>
+	<td class="year">2019</td>
+</tr>
+
 <tr data-href="https://www.e-flux.com/announcements/249984/adam-linderfull-service/">
 	<td class="title">Some Proximity, Adam Linder</td>
 	<td class="publisher">MUDAM</td>
