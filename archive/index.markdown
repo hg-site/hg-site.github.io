@@ -25,7 +25,7 @@ layout: archive
 </tr>
 
 <tr data-href="https://www.facebook.com/events/2145951792368974/">
-	<td class="title">Fragments on Family</td>
+	<td class="title">Notebook as Score #1, Family</td>
 	<td class="publisher">Lampenfieber</td>
 	<td class="type">Reading</td>
 	<td class="subject">Life</td>
