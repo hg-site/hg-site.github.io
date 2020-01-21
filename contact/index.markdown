@@ -4,7 +4,7 @@ date: 2017-05-28 18:45:00 Z
 layout: contact
 ---
 
-Write to me [here](a href="mailto:hannah.gregory@gmail.com").
+Write to me [here](mailto:hannah.gregory@gmail.com).
 <br/>I am available for writing commissions and editing projects.
 <ul>
 	<li><a href="mailto:hannah.gregory@gmail.com" target="_blank">Email</a></li>
