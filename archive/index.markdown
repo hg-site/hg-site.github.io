@@ -16,6 +16,14 @@ layout: archive
 </thead>
 <tbody class="list">
 
+<tr data-href="https://thenewinquiry.com/faraway-sisters/">
+	<td class="title">Faraway Sisters</td>
+	<td class="publisher">The New Inquiry</td>
+	<td class="type">Essay</td>
+	<td class="subject">Life</td>
+	<td class="year">2020</td>
+</tr>
+
 <tr data-href="/uploads/CP_Jesse%20Darling%20(1).pdf">
 	<td class="title">Selva Oscura, Jesse Darling</td>
 	<td class="publisher">Galerie Sultana</td>
