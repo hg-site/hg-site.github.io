@@ -9,6 +9,14 @@ layout: writing
 </div>
 
 <div class="sw-row">
+	<a href="https://thenewinquiry.com/faraway-sisters/">
+	<div class="sw-title">Faraway Sisters</div>
+	<div class="sw-publication">The New Inquiry</div>
+	<div class="sw-year">2020</div>
+	</a>
+</div> 
+
+<div class="sw-row">
 	<a href="https://www.patreon.com/posts/berlin-isnt-new-28469271">
 	<div class="sw-title">Berlin Isn’t the New Berlin</div>
 	<div class="sw-publication">Study Hall</div>
