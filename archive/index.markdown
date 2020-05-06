@@ -24,6 +24,14 @@ layout: archive
 	<td class="year">2020</td>
 </tr>
 
+<tr data-href="www.flatness.eu">
+	<td class="title">Notebook Score #2: The line of the hand throws the mind out of the body</td>
+	<td class="publisher">Flatness</td>
+	<td class="type">Reading</td>
+	<td class="subject">Life</td>
+	<td class="year">2020</td>
+</tr>
+
 <tr data-href="/uploads/CP_Jesse%20Darling%20(1).pdf">
 	<td class="title">Selva Oscura, Jesse Darling</td>
 	<td class="publisher">Galerie Sultana</td>
@@ -33,7 +41,7 @@ layout: archive
 </tr>
 
 <tr data-href="https://www.facebook.com/events/2145951792368974/">
-	<td class="title">Notebook as Score #1, Family</td>
+	<td class="title">Notebook Score #1: Do you feel like a daughter, still?</td>
 	<td class="publisher">Lampenfieber</td>
 	<td class="type">Reading</td>
 	<td class="subject">Life</td>
