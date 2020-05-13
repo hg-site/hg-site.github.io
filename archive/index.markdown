@@ -24,7 +24,7 @@ layout: archive
 	<td class="year">2020</td>
 </tr>
 
-<tr data-href="www.flatness.eu">
+<tr data-href="https://flatness.eu/contributors/hannah_satz/">
 	<td class="title">Notebook Score #2: The line of the hand throws the mind out of the body</td>
 	<td class="publisher">Flatness</td>
 	<td class="type">Reading</td>
