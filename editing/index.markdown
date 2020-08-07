@@ -31,6 +31,19 @@ layout: editing
 </div>
 
 <div class="item">
+	<a href="https://ignota.org/products/unknown-language">
+		<div class="cover">
+			<img src="/uploads/Ignota_UL_FOIL_720x.jpg">
+		</div>
+		<div class="description">
+			<h3>Unknown Language, Hildegard von Bingen and Huw Lemmey</h3>
+			<p class="publisher">Ignota Books, London, 2020</p>
+			<p class="role">Developmental, stylistic, copy-editing</p>
+		</div>
+	</a>
+</div>
+
+<div class="item">
 	<a href="https://13thgwangjubiennale.org/minds-rising/">
 		<div class="cover">
 			<img src="/uploads/Screen%20Shot%202020-08-07%20at%2015.20.33.png">
