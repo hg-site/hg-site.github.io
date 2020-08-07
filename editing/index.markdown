@@ -46,7 +46,7 @@ layout: editing
 <div class="item">
 	<a href="https://13thgwangjubiennale.org/minds-rising/">
 		<div class="cover">
-			<img src="/uploads/Screen%20Shot%202020-08-07%20at%2016.01.10.png">
+			<img src="/uploads/Screen%20Shot%202020-08-07%20at%2015.56.06.png">
 		</div>
 		<div class="description">
 			<h3>Minds Rising Journal</h3>
