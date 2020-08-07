@@ -31,6 +31,19 @@ layout: editing
 </div>
 
 <div class="item">
+	<a href="https://13thgwangjubiennale.org/minds-rising/">
+		<div class="cover">
+			<img src="/uploads/Screen%20Shot%202020-08-07%20at%2015.20.33.png">
+		</div>
+		<div class="description">
+			<h3>Minds Rising Journal</h3>
+			<p class="publisher">Gwangju Biennale, 2020</p>
+			<p class="role">Copy-editing</p>
+		</div>
+	</a>
+</div>
+
+<div class="item">
 	<a href="https://wallach.columbia.edu/publications/waiting-omar-gatlato">
 		<div class="cover">
 			<img src="/uploads/waiting_for_omar_publication_cover.jpg">
