@@ -124,7 +124,7 @@ layout: editing
 <div class="item">
 	<a href="http://www.sternberg-press.com/index.php?pageId=1816&bookId=709&l=en">
 		<div class="cover">
-			<img src="/uploads/Tillmans-What-Is-Different.jpg">
+			<img src="/uploads/What_is_Different_1400x.jpg">
 		</div>
 		<div class="description">
 			<h3>Wolfgang Tillmans, What Is Different?</h3>
