@@ -31,6 +31,19 @@ layout: editing
 </div>
 
 <div class="item">
+	<a href="https://www.johnhuntpublishing.com/zer0-books/our-books/ethical-portraits">
+		<div class="cover">
+			<img src="/uploads/ethical%20portraits.jpg">
+		</div>
+		<div class="description">
+			<h3>Ethical Portraits, Hatty Nestor</h3>
+			<p class="publisher">Zero Books, London, 2021</p>
+			<p class="role">Early-stage developmental editing</p>
+		</div>
+	</a>
+</div>
+
+<div class="item">
 	<a href="https://ignota.org/products/unknown-language">
 		<div class="cover">
 			<img src="/uploads/Ignota_UL_FOIL_720x.jpg">
