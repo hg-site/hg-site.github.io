@@ -52,7 +52,7 @@ layout: editing
 		</div>
 		<div class="description">
 			<h3>Shame, Andrea Büttner</h3>
-			<p class="publisher">Koenig Books, 2020</p>
+			<p class="publisher">Koenig Books / KW Institute for Contemporary Art, 2020</p>
 			<p class="role">Copy-editor</p>
 		</div>
 	</a>
