@@ -52,7 +52,7 @@ layout: editing
 		</div>
 		<div class="description">
 			<h3>Leonilson Drawn (1975–1993)</h3>
-			<p class="publisher">Hatje Cantz / KW Institute for Contemporary Art</p>
+			<p class="publisher">Hatje Cantz / KW Institute for Contemporary Art, 2020</p>
 			<p class="role">Copy-editor</p>
 		</div>
 	</a>
