@@ -48,7 +48,7 @@ layout: editing
 <div class="item">
 	<a href="https://www.hatjecantz.de/leonilson-7852-1.html">
 		<div class="cover">
-			<img src="WEB ADDRESS OF THE IMAGE">
+			<img src="/uploads/Leonilson.jpg">
 		</div>
 		<div class="description">
 			<h3>Leonilson Drawn (1975–1993)</h3>
