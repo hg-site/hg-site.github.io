@@ -137,9 +137,9 @@ layout: editing
 </div>
 
 <div class="item">
-	<a href="/uploads/Sad-Sack_0.jpg">
+	<a href="https://bookworks.org.uk/publishing/shop/sad-sack/">
 		<div class="cover">
-			<img src="https://www.bookworks.org.uk/sites/default/files/imagecache/archive_item_large/Sad%20Sack_0.jpg">
+			<img src="/uploads/Sad-Sack_0.jpg">
 		</div>
 		<div class="description">
 			<h3>Sad Sack, Sophia Al-Maria</h3>
