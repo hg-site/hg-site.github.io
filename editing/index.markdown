@@ -30,6 +30,8 @@ layout: editing
 </a>
 </div>
 
+
+
 <div class="item">
 	<a href="https://www.johnhuntpublishing.com/zer0-books/our-books/ethical-portraits">
 		<div class="cover">
@@ -39,6 +41,19 @@ layout: editing
 			<h3>Ethical Portraits, Hatty Nestor</h3>
 			<p class="publisher">Zero Books, London, 2021</p>
 			<p class="role">Early-stage developmental editing</p>
+		</div>
+	</a>
+</div>
+
+<div class="item">
+	<a href="https://books.google.de/books/about/Andrea_B%C3%BCttner_Shame.html?id=9XgAzgEACAAJ&redir_esc=y">
+		<div class="cover">
+			<img src="WEB ADDRESS OF THE IMAGE">
+		</div>
+		<div class="description">
+			<h3>Shame, Andrea Büttner</h3>
+			<p class="publisher">Koenig Books, 2020</p>
+			<p class="role">Copy-editor</p>
 		</div>
 	</a>
 </div>
