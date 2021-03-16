@@ -59,6 +59,19 @@ layout: editing
 </div>
 
 <div class="item">
+	<a href="https://books.google.de/books/about/Mercury_Retrograde.html?id=fisMzgEACAAJ&source=kp_book_description&redir_esc=y">
+		<div class="cover">
+			<img src="WEB ADDRESS OF THE IMAGE">
+		</div>
+		<div class="description">
+			<h3>Mercury Retrograde</h3>
+			<p class="publisher">Deluge Books, 2020</p>
+			<p class="role">Editorial feedback</p>
+		</div>
+	</a>
+</div>
+
+<div class="item">
 	<a href="https://ignota.org/products/unknown-language">
 		<div class="cover">
 			<img src="/uploads/Ignota_UL_FOIL_720x.jpg">
