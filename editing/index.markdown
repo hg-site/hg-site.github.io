@@ -46,6 +46,19 @@ layout: editing
 </div>
 
 <div class="item">
+	<a href="https://www.hatjecantz.de/leonilson-7852-1.html">
+		<div class="cover">
+			<img src="WEB ADDRESS OF THE IMAGE">
+		</div>
+		<div class="description">
+			<h3>Leonilson Drawn (1975–1993)</h3>
+			<p class="publisher">Hatje Cantz / KW Institute for Contemporary Art</p>
+			<p class="role">Copy-editor</p>
+		</div>
+	</a>
+</div>
+
+<div class="item">
 	<a href="https://books.google.de/books/about/Andrea_B%C3%BCttner_Shame.html?id=9XgAzgEACAAJ&redir_esc=y">
 		<div class="cover">
 			<img src="/uploads/Buttner%20Shame.jpg">
