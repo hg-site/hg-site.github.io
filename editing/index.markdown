@@ -61,10 +61,10 @@ layout: editing
 <div class="item">
 	<a href="https://books.google.de/books/about/Mercury_Retrograde.html?id=fisMzgEACAAJ&source=kp_book_description&redir_esc=y">
 		<div class="cover">
-			<img src="WEB ADDRESS OF THE IMAGE">
+			<img src="/uploads/mercuryret.jpg">
 		</div>
 		<div class="description">
-			<h3>Mercury Retrograde</h3>
+			<h3>Mercury Retrograde, Emily Segal</h3>
 			<p class="publisher">Deluge Books, 2020</p>
 			<p class="role">Editorial feedback</p>
 		</div>
