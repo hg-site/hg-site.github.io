@@ -111,7 +111,7 @@ layout: editing
 </div>
 
 <div class="item">
-	<a href="https://www.bookworks.org.uk/node/1981">
+	<a href="/uploads/Sad-Sack_0.jpg">
 		<div class="cover">
 			<img src="https://www.bookworks.org.uk/sites/default/files/imagecache/archive_item_large/Sad%20Sack_0.jpg">
 		</div>
