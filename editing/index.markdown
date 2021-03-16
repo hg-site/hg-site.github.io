@@ -48,7 +48,7 @@ layout: editing
 <div class="item">
 	<a href="https://books.google.de/books/about/Andrea_B%C3%BCttner_Shame.html?id=9XgAzgEACAAJ&redir_esc=y">
 		<div class="cover">
-			<img src="WEB ADDRESS OF THE IMAGE">
+			<img src="/uploads/Buttner%20Shame.jpg">
 		</div>
 		<div class="description">
 			<h3>Shame, Andrea Büttner</h3>
