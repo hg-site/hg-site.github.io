@@ -16,6 +16,22 @@ layout: archive
 </thead>
 <tbody class="list">
 
+<tr data-href="https://ignota.org/products/altered-states">
+	<td class="title">After Bewilderment</td>
+	<td class="publisher">Altered States, Ignota</td>
+	<td class="type">Poetry</td>
+	<td class="subject">Literature</td>
+	<td class="year">2021</td>
+</tr>
+
+<tr data-href="https://shop.whitechapelgallery.org/products/documents-of-contemporary-art-magic">
+	<td class="title">Dark Matters: In Conversation with Morehshin Allahyari</td>
+	<td class="publisher">Magic, Documents of Contemporary Art</td>
+	<td class="type">Book Contrib</td>
+	<td class="subject">Art</td>
+	<td class="year">2021</td>
+</tr>
+
 <tr data-href="https://thenewinquiry.com/faraway-sisters/">
 	<td class="title">Faraway Sisters</td>
 	<td class="publisher">The New Inquiry</td>
