@@ -7,7 +7,7 @@ layout: editing
 <div class="item">
 	<a href="https://en.bergenassembly.no/Side-Magazine">
 		<div class="cover">
-			<img src="/uploads/Side1.jpg">
+			<img src="/uploads/Side-Professor-2.jpeg">
 		</div>
 		<div class="description">
 			<h3>Side Magazine, Issues 1–3</h3>
