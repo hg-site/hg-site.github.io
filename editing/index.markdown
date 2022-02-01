@@ -5,6 +5,20 @@ layout: editing
 ---
 
 <div class="item">
+	<a href="https://en.bergenassembly.no/Side-Magazine">
+		<div class="cover">
+			<img src="/uploads/Side1.jpg">
+		</div>
+		<div class="description">
+			<h3>Side Magazine, Issues 1–3</h3>
+			<p class="publisher">Bergen Assembly, Norway, 2021–22</p>
+			<p class="role">Proofreader</p>
+		</div>
+	</a>
+</div>
+
+
+<div class="item">
 	<a href="https://www.bloomsbury.com/uk/strayed-homes-9781350213869/">
 		<div class="cover">
 			<img src="/uploads/strayedhomes.jpeg">
@@ -165,7 +179,7 @@ layout: editing
 			<img src="/uploads/South.jpeg.crdownload">
 		</div>
 		<div class="description">
-			<h3>South Magazine, Maintenance, Issue #10 </h3>
+			<h3>South Magazine, Maintenance, Issue 10 </h3>
 			<p class="publisher">South as a State of Mind, Athens, 2018</p>
 			<p class="role">Editing</p>
 		</div>
@@ -204,7 +218,7 @@ layout: editing
 			<img src="http://www.biennialfoundation.org/wp-content/uploads/2016/11/SSOM.jpg">
 		</div>
 		<div class="description">
-			<h3>South Magazine, Violence, Issue #9</h3>
+			<h3>South Magazine, Violence, Issue 9</h3>
 			<p class="publisher">documenta 14, Kassel / Athens, 2017</p>
 			<p class="role">Copy-editing</p>
 		</div>
