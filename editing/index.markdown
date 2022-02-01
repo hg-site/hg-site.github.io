@@ -24,20 +24,20 @@ layout: editing
 		</div>
 		<div class="description">
 			<h3>Leonilson Drawn (1975–1993)</h3>
-			<p class="publisher">Hatje Cantz / KW Institute for Contemporary Art, 2020</p>
+			<p class="publisher">Hatje Cantz / KW Institute for Contemporary Art, Berlin, 2020</p>
 			<p class="role">Copy-editor</p>
 		</div>
 	</a>
 </div>
 
 <div class="item">
-	<a href="https://books.google.de/books/about/Andrea_B%C3%BCttner_Shame.html?id=9XgAzgEACAAJ&redir_esc=y">
+	<a href="https://www.buchhandlung-walther-koenig.de/koenig2/index.php?mode=details&showcase=1&art=1609566">
 		<div class="cover">
 			<img src="/uploads/Buttner%20Shame.jpg">
 		</div>
 		<div class="description">
 			<h3>Shame, Andrea Büttner</h3>
-			<p class="publisher">Koenig Books / KW Institute for Contemporary Art, 2020</p>
+			<p class="publisher">Koenig Books / KW Institute for Contemporary Art, Berlin, 2020</p>
 			<p class="role">Copy-editor</p>
 		</div>
 	</a>
@@ -153,8 +153,8 @@ layout: editing
 			<img src="/uploads/South.jpeg.crdownload">
 		</div>
 		<div class="description">
-			<h3>South Magazine, Maintenance, Issue #10, 2018</h3>
-			<p class="publisher">South as a State of Mind</p>
+			<h3>South Magazine, Maintenance, Issue #10 </h3>
+			<p class="publisher">South as a State of Mind, 2018</p>
 			<p class="role">Editing</p>
 		</div>
 	</a>
