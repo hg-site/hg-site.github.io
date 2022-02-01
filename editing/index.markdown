@@ -253,19 +253,6 @@ layout: editing
 </div>
 
 <div class="item">
-<a href="http://cargocollective.com/aorist/No-1">
-	<div class="cover">
-		<img src="../assets/img/aorist-1.jpg">
-	</div>
-	<div class="description">
-		<h3>A-or-ist #1</h3>
-		<p class="publisher">Self-published, 2015</p>
-		<p class="role">Co-editor</p>
-	</div>
-</a>
-</div>
-
-<div class="item">
 <a href="http://www.sternberg-press.com/?pageId=1655">
 	<div class="cover">
 		<img src="../assets/img/Transparenzen_Transparencies.jpg">
@@ -287,6 +274,19 @@ layout: editing
 		<h3>Leiko Ikemura, All About Girls &amp; Tigers</h3>
 		<p class="publisher">Walter Koenig Verlag / Museum for East Asian Art Cologne, 2016</p>
 		<p class="role">Copy-editing, proofreading</p>
+	</div>
+</a>
+</div>
+
+<div class="item">
+<a href="http://cargocollective.com/aorist/No-1">
+	<div class="cover">
+		<img src="../assets/img/aorist-1.jpg">
+	</div>
+	<div class="description">
+		<h3>A-or-ist #1</h3>
+		<p class="publisher">Self-published, 2015</p>
+		<p class="role">Co-editor</p>
 	</div>
 </a>
 </div>
