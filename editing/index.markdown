@@ -11,7 +11,7 @@ layout: editing
 		</div>
 		<div class="description">
 			<h3>Side Magazine, Issues 1–3</h3>
-			<p class="publisher">Bergen Assembly, Norway, 2021–22</p>
+			<p class="publisher">Bergen Assembly / Wirklichkeit Books, Berlin, 2021–22</p>
 			<p class="role">Proofreader</p>
 		</div>
 	</a>
