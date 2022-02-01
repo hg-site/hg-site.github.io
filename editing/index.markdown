@@ -219,7 +219,7 @@ layout: editing
 	</div>
 	<div class="description">
 		<h3>Don’t Shrink Me to the Size of a Bullet: Hiwa K</h3>
-		<p class="publisher">Ibraaz / KW Institute for Contemporary Art, Berlin / Walther Koenig Verlag, 2017</p>
+		<p class="publisher">Ibraaz / KW Institute for Contemporary Art / Walther Koenig Verlag, Berlin, 2017</p>
 		<p class="role">Editing</p>
 	</div>
 </a>
