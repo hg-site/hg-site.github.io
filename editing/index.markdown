@@ -232,8 +232,7 @@ layout: editing
 	</div>
 	<div class="description">
 		<h3>Future Imperfect, Contemporary Art Practices and Cultural Institutions in the Middle East</h3>
-		<p class="publisher">Ibraaz / Sternberg Press,
- 2016</p>
+		<p class="publisher">Ibraaz / Sternberg Press, Berlin, 2016</p>
 		<p class="role">Copy-editing, proofreading</p>
 	</div>
 </a>
@@ -285,7 +284,7 @@ layout: editing
 	</div>
 	<div class="description">
 		<h3>A-or-ist #1</h3>
-		<p class="publisher">Self-published, 2015</p>
+		<p class="publisher">Self-published, London, 2015</p>
 		<p class="role">Co-editor</p>
 	</div>
 </a>
