@@ -310,7 +310,7 @@ layout: editing
 	</div>
 	<div class="description">
 		<h3>Amar Kanwar, The Sovereign Forest</h3>
-		<p class="publisher">Sternberg Press / Thyssen Bornemisza Art Contemporary, 2015</p>
+		<p class="publisher">Sternberg Press / Thyssen Bornemisza Art Contemporary, Vienna, 2015</p>
 		<p class="role">Editing</p>
 	</div>
 </a>
