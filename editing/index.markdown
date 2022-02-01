@@ -192,8 +192,8 @@ layout: editing
 			<img src="http://www.biennialfoundation.org/wp-content/uploads/2016/11/SSOM.jpg">
 		</div>
 		<div class="description">
-			<h3>South Magazine Issue #9</h3>
-			<p class="publisher">Documenta 14, 2017</p>
+			<h3>South Magazine, Violence, Issue #9</h3>
+			<p class="publisher">documenta 14, 2017</p>
 			<p class="role">Copy-editing</p>
 		</div>
 	</a>
