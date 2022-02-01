@@ -154,7 +154,7 @@ layout: editing
 		</div>
 		<div class="description">
 			<h3>South Magazine, Maintenance, Issue #10 </h3>
-			<p class="publisher">South as a State of Mind, 2018</p>
+			<p class="publisher">South as a State of Mind, Athens, 2018</p>
 			<p class="role">Editing</p>
 		</div>
 	</a>
@@ -180,7 +180,7 @@ layout: editing
 		</div>
 		<div class="description">
 			<h3>Wolfgang Tillmans, What Is Different?</h3>
-			<p class="publisher">Sternberg Press, 2018</p>
+			<p class="publisher">Sternberg Press, Berlin, 2018</p>
 			<p class="role">Editing</p>
 		</div>
 	</a>
@@ -193,7 +193,7 @@ layout: editing
 		</div>
 		<div class="description">
 			<h3>South Magazine, Violence, Issue #9</h3>
-			<p class="publisher">documenta 14, 2017</p>
+			<p class="publisher">documenta 14, Kassel / Athens, 2017</p>
 			<p class="role">Copy-editing</p>
 		</div>
 	</a>
@@ -205,7 +205,7 @@ layout: editing
 		<img src="../assets/img/daybook.jpg">
 	</div>
 	<div class="description">
-		<h3>documenta 14, Daybook</h3>
+		<h3>Daybook, documenta 14</h3>
 		<p class="publisher">Kassel / Athens, 2017</p>
 		<p class="role">Copy-editing, proofreading</p>
 	</div>
