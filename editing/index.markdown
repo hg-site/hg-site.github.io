@@ -51,7 +51,7 @@ layout: editing
 		<div class="description">
 			<h3>Minds Rising, Spirits Tuning</h3>
 			<p class="publisher">Gwangju Biennale, South Korea, 2020–21</p>
-			<p class="role">Copy-editing</p>
+			<p class="role">Copy-editor</p>
 		</div>
 	</a>
 </div>
@@ -194,7 +194,7 @@ layout: editing
 		<div class="description">
 			<h3>Transmediale Journal, Face Value</h3>
 			<p class="publisher">Transmediale, Berlin, 2018</p>
-			<p class="role">Copy-editing</p>
+			<p class="role">Copy-editor</p>
 		</div>
 	</a>
 </div>
@@ -350,7 +350,7 @@ layout: editing
 	<div class="description">
 		<h3>Mo-Leeza Roberts, HEAD</h3>
 		<p class="publisher">Book Works, London, 2015</p>
-		<p class="role">Copy-editing</p>
+		<p class="role">Copy-editor</p>
 	</div>
 </a>
 </div>
@@ -363,7 +363,7 @@ layout: editing
 	<div class="description">
 		<h3>A Primer for Cadavers<br />Notes on Suicide<br />Street of Thieves<br />Nicotine<br />It’s No Good<br />My Documents</h3>
 		<p class="publisher">Fitzcarraldo Editions, London</p>
-		<p class="role">Proofreading</p>
+		<p class="role">Proofreador</p>
 	</div>
 </a>
 </div>
