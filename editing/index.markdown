@@ -5,19 +5,6 @@ layout: editing
 ---
 
 <div class="item">
-	<a href="https://www.internationaleonline.org/">
-		<div class="cover">
-			<img src="https://edit.internationaleonline.org/staged/assets/1j7tctme29z40coc?key=768">
-		</div>
-		<div class="description">
-			<h3>L'internationale Online</h3>
-			<p class="publisher">L'internationale, 2021–22</p>
-			<p class="role">Editing, copy-editing</p>
-		</div>
-	</a>
-</div>
-
-<div class="item">
 	<a href="https://en.bergenassembly.no/Side-Magazine">
 		<div class="cover">
 			<img src="/uploads/Side-Magazine-01-Professor-2021-07-19-Jacket-RZ.jpeg">
@@ -26,6 +13,19 @@ layout: editing
 			<h3>Side Magazine, Issues 1–3</h3>
 			<p class="publisher">Bergen Assembly / Wirklichkeit Books, Berlin, 2021–22</p>
 			<p class="role">Proofreader</p>
+		</div>
+	</a>
+</div>
+
+<div class="item">
+	<a href="https://www.internationaleonline.org/">
+		<div class="cover">
+			<img src="https://edit.internationaleonline.org/staged/assets/1j7tctme29z40coc?key=768">
+		</div>
+		<div class="description">
+			<h3>L'internationale Online</h3>
+			<p class="publisher">L'internationale, 2021–22</p>
+			<p class="role">Editing, copy-editing</p>
 		</div>
 	</a>
 </div>
