@@ -72,7 +72,7 @@ layout: editing
 <div class="item">
 	<a href="https://13thgwangjubiennale.org/minds-rising/">
 		<div class="cover">
-			<img src="/uploads/Screen%20Shot%202020-08-07%20at%2015.56.06.png">
+			<img src="/uploads/Minds%20Rising.jpeg">
 		</div>
 		<div class="description">
 			<h3>Minds Rising Journal</h3>
@@ -89,7 +89,7 @@ layout: editing
 		</div>
 		<div class="description">
 			<h3>Waiting for Omar Gatlato</h3>
-			<p class="publisher">Sternberg Press, 2019</p>
+			<p class="publisher">Sternberg Press / Wallach Art Gallery, 2019</p>
 			<p class="role">Copy-editor</p>
 		</div>
 	</a>
@@ -240,19 +240,6 @@ layout: editing
 </div>
 
 <div class="item">
-<a href="http://www.sternberg-press.com/?pageId=1655">
-	<div class="cover">
-		<img src="../assets/img/Transparenzen_Transparencies.jpg">
-	</div>
-	<div class="description">
-		<h3>Transparencies, The Ambivalence of a New Visibility</h3>
-		<p class="publisher">Sternberg Press / Bielefelder Kunstverein &amp; Kunstverein Nürnberg, 2016</p>
-		<p class="role">Copy-editing, proofreading</p>
-	</div>
-</a>
-</div>
-
-<div class="item">
 <a href="http://cargocollective.com/aorist/No-2">
 	<div class="cover">
 		<img src="../assets/img/aorist-2.jpg">
@@ -274,6 +261,19 @@ layout: editing
 		<h3>A-or-ist #1</h3>
 		<p class="publisher">Self-published, 2015</p>
 		<p class="role">Co-editor</p>
+	</div>
+</a>
+</div>
+
+<div class="item">
+<a href="http://www.sternberg-press.com/?pageId=1655">
+	<div class="cover">
+		<img src="../assets/img/Transparenzen_Transparencies.jpg">
+	</div>
+	<div class="description">
+		<h3>Transparencies, The Ambivalence of a New Visibility</h3>
+		<p class="publisher">Sternberg Press / Bielefelder Kunstverein &amp; Kunstverein Nürnberg, 2016</p>
+		<p class="role">Copy-editing, proofreading</p>
 	</div>
 </a>
 </div>
