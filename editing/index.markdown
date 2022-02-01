@@ -7,7 +7,7 @@ layout: editing
 <div class="item">
 	<a href="https://en.bergenassembly.no/Side-Magazine">
 		<div class="cover">
-			<img src="/uploads/Side-Professor-2.jpeg">
+			<img src="/uploads/Side%203.jpeg">
 		</div>
 		<div class="description">
 			<h3>Side Magazine, Issues 1–3</h3>
@@ -16,7 +16,6 @@ layout: editing
 		</div>
 	</a>
 </div>
-
 
 <div class="item">
 	<a href="https://www.bloomsbury.com/uk/strayed-homes-9781350213869/">
