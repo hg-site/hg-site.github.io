@@ -10,8 +10,8 @@ layout: editing
 			<img src="/uploads/L'Inter%20Arch%20Diss.jpeg">
 		</div>
 		<div class="description">
-			<h3>L'Internationale Online</h3>
-			<p class="publisher">L'Internationale, 2021–22</p>
+			<h3>L'internationale Online</h3>
+			<p class="publisher">L'internationale, 2021–22</p>
 			<p class="role">Editing, copy-editing</p>
 		</div>
 	</a>
