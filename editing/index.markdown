@@ -89,7 +89,7 @@ layout: editing
 		</div>
 		<div class="description">
 			<h3>Waiting for Omar Gatlato</h3>
-			<p class="publisher">Sternberg Press / Wallach Art Gallery, 2019</p>
+			<p class="publisher">Sternberg Press / Wallach Art Gallery, New York, 2019</p>
 			<p class="role">Copy-editor</p>
 		</div>
 	</a>
@@ -140,7 +140,7 @@ layout: editing
 			<img src="/uploads/Screen%20Shot%202019-01-11%20at%2013.52.09.png">
 		</div>
 		<div class="description">
-			<h3>NOME exhibition catalogues, 2015–2019</h3>
+			<h3>NOME exhibition catalogues, 2015–19</h3>
 			<p class="publisher">NOME Gallery, Berlin</p>
 			<p class="role">Editor</p>
 		</div>
