@@ -5,6 +5,19 @@ layout: editing
 ---
 
 <div class="item">
+	<a href="https://www.internationaleonline.org/">
+		<div class="cover">
+			<img src="WEB ADDRESS OF THE IMAGE">
+		</div>
+		<div class="description">
+			<h3>L'Internationale Online</h3>
+			<p class="publisher">L'Internationale, 2021–22</p>
+			<p class="role">Editing, copy-editing</p>
+		</div>
+	</a>
+</div>
+
+<div class="item">
 	<a href="https://en.bergenassembly.no/Side-Magazine">
 		<div class="cover">
 			<img src="/uploads/Side%203.jpeg">
