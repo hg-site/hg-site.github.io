@@ -297,7 +297,7 @@ layout: editing
 	</div>
 	<div class="description">
 		<h3>Olafur Eliasson, Baroque, Baroque</h3>
-		<p class="publisher">Sternberg Press / Thyssen Bornemisza Art Contemporary, Berlin &amp; Vienna, 2015</p>
+		<p class="publisher">Sternberg Press / Thyssen Bornemisza Art Contemporary, Berlin / Vienna, 2015</p>
 		<p class="role">Copy-editing</p>
 	</div>
 </a>
