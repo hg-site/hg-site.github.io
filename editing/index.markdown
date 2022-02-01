@@ -5,6 +5,19 @@ layout: editing
 ---
 
 <div class="item">
+	<a href="https://www.archivebooks.org/stronger-than-bone/#:~:text=Stronger%20than%20Bone%20reveals%20strands,how%20the%20trauma%20of%20state">
+		<div class="cover">
+			<img src="https://www.archivebooks.org/wp-content/uploads/2021/02/Stronger-than-bone_Page_001.jpg">
+		</div>
+		<div class="description">
+			<h3>Stronger Than Bone</h3>
+			<p class="publisher">Gwangju Biennale / Archive Books, South Korea / Berlin, 2021</p>
+			<p class="role">Copy-editing</p>
+		</div>
+	</a>
+</div>
+
+<div class="item">
 	<a href="https://en.bergenassembly.no/Side-Magazine">
 		<div class="cover">
 			<img src="/uploads/Side-Professor-2.jpeg">
