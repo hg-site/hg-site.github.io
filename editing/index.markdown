@@ -5,34 +5,6 @@ layout: editing
 ---
 
 <div class="item">
-<a href="http://cargocollective.com/aorist/No-2">
-	<div class="cover">
-		<img src="../assets/img/aorist-2.jpg">
-	</div>
-	<div class="description">
-		<h3>A-or-ist #2</h3>
-		<p class="publisher">Eros Press, London, 2016</p>
-		<p class="role">Co-editor</p>
-	</div>
-</a>
-</div>
-
-<div class="item">
-<a href="http://cargocollective.com/aorist/No-1">
-	<div class="cover">
-		<img src="../assets/img/aorist-1.jpg">
-	</div>
-	<div class="description">
-		<h3>A-or-ist #1</h3>
-		<p class="publisher">Self-published, 2015</p>
-		<p class="role">Co-editor</p>
-	</div>
-</a>
-</div>
-
-
-
-<div class="item">
 	<a href="https://www.johnhuntpublishing.com/zer0-books/our-books/ethical-portraits">
 		<div class="cover">
 			<img src="/uploads/ethical%20portraits.jpg">
@@ -254,17 +226,6 @@ layout: editing
 </div>
 
 <div class="item">
-	<div class="cover">
-		<img src="../assets/img/born-digital.jpg">
-	</div>
-	<div class="description">
-		<h3>The Born-Digital Institution</h3>
-		<p class="publisher">Sternberg Press / Rhizome, New York</p>
-		<p class="role">Copy-editing</p>
-	</div>
-</div>
-
-<div class="item">
 <a href="http://www.ibraaz.org/usr/admin/records/documents/161129_strn_futureimperfect_content_2.pdf">
 	<div class="cover">
 		<img src="../assets/img/Future-Imperfect.jpg">
@@ -292,14 +253,27 @@ layout: editing
 </div>
 
 <div class="item">
-<a href="http://www.sternberg-press.com/index.php?pageId=1637&bookId=530&l=en">
+<a href="http://cargocollective.com/aorist/No-2">
 	<div class="cover">
-		<img src="../assets/img/Eliasson_Baroque-Baroque.jpg">
+		<img src="../assets/img/aorist-2.jpg">
 	</div>
 	<div class="description">
-		<h3>Olafur Eliasson, Baroque, Baroque</h3>
-		<p class="publisher">Sternberg Press / Thyssen Bornemisza Art Contemporary, Berlin &amp; Vienna, 2015</p>
-		<p class="role">Copy-editing</p>
+		<h3>A-or-ist #2</h3>
+		<p class="publisher">Eros Press, London, 2016</p>
+		<p class="role">Co-editor</p>
+	</div>
+</a>
+</div>
+
+<div class="item">
+<a href="http://cargocollective.com/aorist/No-1">
+	<div class="cover">
+		<img src="../assets/img/aorist-1.jpg">
+	</div>
+	<div class="description">
+		<h3>A-or-ist #1</h3>
+		<p class="publisher">Self-published, 2015</p>
+		<p class="role">Co-editor</p>
 	</div>
 </a>
 </div>
@@ -313,6 +287,19 @@ layout: editing
 		<h3>Leiko Ikemura, All About Girls &amp; Tigers</h3>
 		<p class="publisher">Walter Koenig Verlag / Museum for East Asian Art Cologne, 2016</p>
 		<p class="role">Copy-editing, proofreading</p>
+	</div>
+</a>
+</div>
+
+<div class="item">
+<a href="http://www.sternberg-press.com/index.php?pageId=1637&bookId=530&l=en">
+	<div class="cover">
+		<img src="../assets/img/Eliasson_Baroque-Baroque.jpg">
+	</div>
+	<div class="description">
+		<h3>Olafur Eliasson, Baroque, Baroque</h3>
+		<p class="publisher">Sternberg Press / Thyssen Bornemisza Art Contemporary, Berlin &amp; Vienna, 2015</p>
+		<p class="role">Copy-editing</p>
 	</div>
 </a>
 </div>
@@ -375,7 +362,7 @@ layout: editing
 		<img src="../assets/img/man_ray.jpg">
 	</div>
 	<div class="description">
-		<h3>Quentin Bajac &amp; Clement Cheroux, Man Ray, Portraits, Paris – Hollywood – Paris</h3>
+		<h3>Man Ray, Portraits, Paris – Hollywood – Paris</h3>
 		<p class="publisher">Centre Pompidou, Paris, 2011</p>
 		<p class="role">Research, Translation </p>
 	</div>
