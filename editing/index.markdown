@@ -48,7 +48,7 @@ layout: editing
 			<img src="https://www.archivebooks.org/wp-content/uploads/2021/02/Stronger-than-bone_Page_001.jpg">
 		</div>
 		<div class="description">
-			<h3>Stronger Than Bone</h3>
+			<h3>Stronger than Bone</h3>
 			<p class="publisher">Gwangju Biennale / Archive Books, South Korea / Berlin, 2021</p>
 			<p class="role">Copy-editing</p>
 		</div>
