@@ -5,6 +5,18 @@ layout: editing
 ---
 
 <div class="item">
+	<a href="https://www.bloomsbury.com/uk/strayed-homes-9781350213869/">
+		<div class="cover">
+			<img src="WEB ADDRESS OF THE IMAGE">
+		</div>
+		<div class="description">
+			<h3>PUBLICATION TITLE</h3>
+			<p class="publisher">PUBLISHERS NAME</p>
+			<p class="role">YOUR ROLE</p>
+		</div>
+	</a>
+</div>
+<div class="item">
 	<a href="https://www.johnhuntpublishing.com/zer0-books/our-books/ethical-portraits">
 		<div class="cover">
 			<img src="/uploads/ethical%20portraits.jpg">
