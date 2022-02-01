@@ -7,12 +7,12 @@ layout: editing
 <div class="item">
 	<a href="https://www.bloomsbury.com/uk/strayed-homes-9781350213869/">
 		<div class="cover">
-			<img src="WEB ADDRESS OF THE IMAGE">
+			<img src="/uploads/strayedhomes.jpeg">
 		</div>
 		<div class="description">
-			<h3>PUBLICATION TITLE</h3>
-			<p class="publisher">PUBLISHERS NAME</p>
-			<p class="role">YOUR ROLE</p>
+			<h3>Strayed Homes, Edwina Attlee</h3>
+			<p class="publisher">Bloomsbury, London, 2021</p>
+			<p class="role">Editorial Feedback</p>
 		</div>
 	</a>
 </div>
