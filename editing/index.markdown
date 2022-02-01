@@ -18,6 +18,19 @@ layout: editing
 </div>
 
 <div class="item">
+	<a href="https://13thgwangjubiennale.org/minds-rising/">
+		<div class="cover">
+			<img src="/uploads/Minds%20Rising.jpeg">
+		</div>
+		<div class="description">
+			<h3>Minds Rising, Spirits Tuning</h3>
+			<p class="publisher">Gwangju Biennale, South Korea, 2020–21</p>
+			<p class="role">Copy-editing</p>
+		</div>
+	</a>
+</div>
+
+<div class="item">
 	<a href="https://www.hatjecantz.de/leonilson-7852-1.html">
 		<div class="cover">
 			<img src="/uploads/Leonilson.jpg">
@@ -65,19 +78,6 @@ layout: editing
 			<h3>Unknown Language, Hildegard von Bingen and Huw Lemmey</h3>
 			<p class="publisher">Ignota Books, London, 2020</p>
 			<p class="role">Developmental, stylistic, copy-editing</p>
-		</div>
-	</a>
-</div>
-
-<div class="item">
-	<a href="https://13thgwangjubiennale.org/minds-rising/">
-		<div class="cover">
-			<img src="/uploads/Minds%20Rising.jpeg">
-		</div>
-		<div class="description">
-			<h3>Minds Rising Journal</h3>
-			<p class="publisher">Gwangju Biennale, 2020</p>
-			<p class="role">Copy-editing</p>
 		</div>
 	</a>
 </div>
