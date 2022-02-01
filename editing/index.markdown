@@ -7,7 +7,7 @@ layout: editing
 <div class="item">
 	<a href="https://www.internationaleonline.org/">
 		<div class="cover">
-			<img src="/uploads/L'Inter%201.png">
+			<img src="/uploads/L'Inter%20Arch%20Diss.jpeg">
 		</div>
 		<div class="description">
 			<h3>L'Internationale Online</h3>
