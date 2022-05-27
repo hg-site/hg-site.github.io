@@ -414,7 +414,7 @@ layout: editing
 	<div class="description">
 		<h3>Man Ray, Portraits, Paris – Hollywood – Paris</h3>
 		<p class="publisher">Centre Pompidou, Paris, 2011</p>
-		<p class="role">Research, Translation </p>
+		<p class="role">Research, Translation.</p>
 	</div>
 </a>
 </div> 
