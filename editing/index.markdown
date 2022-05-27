@@ -417,4 +417,4 @@ layout: editing
 		<p class="role">Research, Translation </p>
 	</div>
 </a>
-</div>
+</div> 
