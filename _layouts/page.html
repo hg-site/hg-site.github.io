@@ -1,6 +1,4 @@
 
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -20,7 +18,7 @@
 
 </head>
 
-<body class="gradient">
+<body class="page">
 	<header>
 		<nav>
 			<div class="name"><a href="../">Hannah Gregory</a></div>
@@ -31,17 +29,20 @@
 			</ul>
 		</nav>
 	</header>
+
 	<main>
-		<div class="contact">
-			{{ content }}
-		</div>
+		<article>
+		<h3>{{ page.title }}</h3>
+		{{ content }}
+		</article>
 	</main>
-	<footer class="fixed">
+
+	<footer>
 		<ul>
-			<li>&copy; Hannah Gregory 2022</li>
-			<li><a href="https://twitter.com/hnnh_g">Twitter</a></li>
-			<li><a href="https://tinyletter.com/hannah_gregory">TinyLetter</a></li>
-		</ul>
+		<li>&copy; Hannah Gregory 2022</li>
+		<li><a href="https://twitter.com/hnnh_g">Twitter</a></li>
+		<li><a href="https://tinyletter.com/hannah_gregory">TinyLetter</a></li>
+	</ul>
 	</footer>
 </body>
 </html>
