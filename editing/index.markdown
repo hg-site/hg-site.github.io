@@ -11,7 +11,7 @@ layout: editing
 		</div>
 		<div class="description">
 			<h3>at dawn</h3>
-			<p class="publisher">JSC Berlin</p>
+			<p class="publisher">JSC Berlin, 2022</p>
 			<p class="role">Editing</p>
 		</div>
 	</a>
