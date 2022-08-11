@@ -5,6 +5,19 @@ layout: editing
 ---
 
 <div class="item">
+	<a href="https://www.jsc.art/wp-content/uploads/2022/04/JSC_ATDAWN_CATALOGUE_LOW_RES15647.pdf">
+		<div class="cover">
+			<img src="WEB ADDRESS OF THE IMAGE">
+		</div>
+		<div class="description">
+			<h3>At dawn</h3>
+			<p class="publisher">JSC Berlin</p>
+			<p class="role">Editing</p>
+		</div>
+	</a>
+</div>
+
+<div class="item">
 	<a href="https://en.bergenassembly.no/Side-Magazine">
 		<div class="cover">
 			<img src="/uploads/Side-Magazine-01-Professor-2021-07-19-Jacket-RZ.jpeg">
