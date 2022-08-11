@@ -230,8 +230,8 @@ layout: editing
 			<img src="/uploads/transm.jpeg">
 		</div>
 		<div class="description">
-			<h3>Transmediale Journal, Face Value</h3>
-			<p class="publisher">Transmediale, Berlin, 2018</p>
+			<h3>Transmediale Journals</h3>
+			<p class="publisher">Transmediale, Berlin, 2018–21</p>
 			<p class="role">Copy-editor</p>
 		</div>
 	</a>
