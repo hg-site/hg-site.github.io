@@ -16,6 +16,14 @@ layout: archive
 </thead>
 <tbody class="list">
 
+<tr data-href="https://www.hkw.de/en/programm/projekte/veranstaltung/p_212280.php">
+	<td class="title">You Are a Wave and I Am a Wave</td>
+	<td class="publisher">HKW Berlin</td>
+	<td class="type">Reading</td>
+	<td class="subject">Poetry</td>
+	<td class="year">2022</td>
+</tr>
+
 <tr data-href="https://ignota.org/products/altered-states">
 	<td class="title">After Bewilderment</td>
 	<td class="publisher">Altered States, Ignota</td>
