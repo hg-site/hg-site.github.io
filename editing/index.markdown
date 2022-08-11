@@ -10,7 +10,7 @@ layout: editing
 			<img src="/uploads/atdawnimageJSC.jpg">
 		</div>
 		<div class="description">
-			<h3>At dawn</h3>
+			<h3>at dawn</h3>
 			<p class="publisher">JSC Berlin</p>
 			<p class="role">Editing</p>
 		</div>
