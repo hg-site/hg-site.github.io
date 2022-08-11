@@ -7,7 +7,7 @@ layout: editing
 <div class="item">
 	<a href="https://www.jsc.art/wp-content/uploads/2022/04/JSC_ATDAWN_CATALOGUE_LOW_RES15647.pdf">
 		<div class="cover">
-			<img src="WEB ADDRESS OF THE IMAGE">
+			<img src="/uploads/atdawnimageJSC.jpg">
 		</div>
 		<div class="description">
 			<h3>At dawn</h3>
