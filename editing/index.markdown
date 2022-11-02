@@ -7,7 +7,7 @@ layout: editing
 <div class="item">
 	<a href="https://k-verlag.org/books/climate-our-right-to-breathe/">
 		<div class="cover">
-			<img src="WEB ADDRESS OF THE IMAGE">
+			<img src="/uploads/LIO_Library_publications_Climate.jpeg">
 		</div>
 		<div class="description">
 			<h3>Climate: Our Right to Breathe</h3>
