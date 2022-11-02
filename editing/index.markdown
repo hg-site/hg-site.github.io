@@ -12,7 +12,7 @@ layout: editing
 		<div class="description">
 			<h3>Climate: Our Right to Breathe</h3>
 			<p class="publisher">K. Verlag/L'internationale, 2022</p>
-			<p class="role">Development editing, copy-editing</p>
+			<p class="role">Developmental editing, copy-editing</p>
 		</div>
 	</a>
 </div>
