@@ -16,6 +16,14 @@ layout: archive
 </thead>
 <tbody class="list">
 
+<tr data-href="https://ignota.org/blogs/moon-journal-members/full-moon-feb-23">
+	<td class="title">Notebook Score #3: A love that ties your identity to the world</td>
+	<td class="publisher">Ignota</td>
+	<td class="type">Reading</td>
+	<td class="subject">Life</td>
+	<td class="year">2023</td>
+</tr>
+
 <tr data-href="https://www.hkw.de/en/programm/projekte/veranstaltung/p_212280.php">
 	<td class="title">You Are a Wave and I Am a Wave</td>
 	<td class="publisher">HKW Berlin</td>
