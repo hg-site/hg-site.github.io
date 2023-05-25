@@ -7,7 +7,7 @@ layout: editing
 <div class="item">
 	<a href="https://subtextrecordings.greedbag.com/buy/fifth-quarter-derek-jarman-keith/">
 		<div class="cover">
-			<img src="/uploads/jarman_6.jpeg">
+			<img src="/uploads/jarman2.jpeg">
 		</div>
 		<div class="description">
 			<h3>Fifth Quarter: Derek Jarman, Keith Collins & Dungeness</h3>
