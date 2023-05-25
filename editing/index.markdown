@@ -7,11 +7,11 @@ layout: editing
 <div class="item">
 	<a href="https://subtextrecordings.greedbag.com/buy/fifth-quarter-derek-jarman-keith/">
 		<div class="cover">
-			<img src="https://new.openimp.com/tid/b29a3fe20840e6445f9b6c938e1d559669aabb32/fvhpcpk/rpopmyldqc/jarman_6.jpg">
+			<img src="/uploads/jarman_6.jpeg">
 		</div>
 		<div class="description">
 			<h3>Fifth Quarter: Derek Jarman, Keith Collins & Dungeness</h3>
-			<p class="publisher">Subtext</p>
+			<p class="publisher">Subtext, 2023</p>
 			<p class="role">Copy-editing</p>
 		</div>
 	</a>
