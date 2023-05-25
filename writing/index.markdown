@@ -41,7 +41,7 @@ layout: writing
 </div> 
 
 <div class="sw-row">
-	<a href="https://www.afterall.org/journal/issue.46/time-torn">
+	<a href="https://www.afterall.org/article/time-torn">
 	<div class="sw-title">Time Torn</div>
 	<div class="sw-publication">Afterall</div>
 	<div class="sw-year">2018</div>
