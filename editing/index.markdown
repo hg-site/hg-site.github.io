@@ -5,6 +5,19 @@ layout: editing
 ---
 
 <div class="item">
+	<a href="https://subtextrecordings.greedbag.com/buy/fifth-quarter-derek-jarman-keith/">
+		<div class="cover">
+			<img src="https://new.openimp.com/tid/b29a3fe20840e6445f9b6c938e1d559669aabb32/fvhpcpk/rpopmyldqc/jarman_6.jpg">
+		</div>
+		<div class="description">
+			<h3>Fifth Quarter: Derek Jarman, Keith Collins & Dungeness</h3>
+			<p class="publisher">Subtext</p>
+			<p class="role">Copy-editing</p>
+		</div>
+	</a>
+</div>
+
+<div class="item">
 	<a href="https://k-verlag.org/books/climate-our-right-to-breathe/">
 		<div class="cover">
 			<img src="/uploads/K.2022_LIO_CLIMATEOurRightToBreathe3.gif">
