@@ -144,7 +144,7 @@ layout: archive
 	<td class="year">2018</td>
 </tr>
 
-<tr data-href="https://www.afterall.org/journal/issue.46/time-torn">
+<tr data-href="https://www.afterall.org/article/time-torn">
 	<td class="title">Time Torn, Kader Attia</td>
 	<td class="publisher">Afterall</td>
 	<td class="type">Essay</td>
