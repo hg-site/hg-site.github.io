@@ -17,7 +17,7 @@ layout: archive
 <tbody class="list">
 
 <tr data-href="http://hannah-gregory.net/uploads/thintransportation.pdf">
-	<td class="title">t</thin transportation>
+	<td class="title">thin transportation</td>
 	<td class="publisher">GUTS art space</td>
 	<td class="type">Art text</td>
 	<td class="subject">Poetry</td>
