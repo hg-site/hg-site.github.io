@@ -101,6 +101,15 @@ layout: writing
 <div class="sw-row">
 <div class="sw-heading">Art Texts</div>
 </div>
+
+<div class="sw-row">
+	<a href="/uploads/thintransportation.pdf">
+	<div class="sw-title">thin transportation</div>
+	<div class="sw-publication">GUTS art space</div>
+	<div class="sw-year">2023</div>
+	</a>
+</div> 
+
 <div class="sw-row">
 	<a href="https://tinyletter.com/hnnh_g/letters/the-fantasy-of-a-line">
 	<div class="sw-title">The fantasy of a line</div>
