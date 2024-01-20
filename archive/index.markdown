@@ -16,6 +16,22 @@ layout: archive
 </thead>
 <tbody class="list">
 
+<tr data-href="http://hannah-gregory.net/uploads/thintransportation.pdf">
+	<td class="title">t</thin transportation>
+	<td class="publisher">GUTS art space</td>
+	<td class="type">Art text</td>
+	<td class="subject">Poetry</td>
+	<td class="year">2023</td>
+</tr>
+
+<tr data-href="https://www.textezurkunst.de/de/articles/hannah-gregory-bassem-saad-fire-is-of-the-imagination/">
+	<td class="title">‘Fire Is of the Imagination’, on Bassem Saad at Triangle – Astérides</td>
+	<td class="publisher">Texte zur Kunst</td>
+	<td class="type">Review</td>
+	<td class="subject">Art</td>
+	<td class="year">2023</td>
+</tr>
+
 <tr data-href="https://ignota.org/blogs/moon-journal-members/full-moon-feb-23">
 	<td class="title">Notebook Score #3: A love that ties your identity to the world</td>
 	<td class="publisher">Ignota</td>
