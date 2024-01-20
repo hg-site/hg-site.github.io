@@ -5,4 +5,4 @@ layout: home
 ---
 
 Hannah Gregory is a writer and editor living in Berlin. Her writing on art, places, and relations has appeared in Afterall, Art Monthly, The New Inquiry, The White Review, The Wire, and more. She edits prose for various publishers. She has given readings at Bergen Kunsthall, Hayward Gallery, HKW Berlin, MUDAM, and others. She founded the Parens Editors group in 2020. 
-<a href="https://www.tinyletter.com/hannah_gregory">Receive her letters here</a>.
+<a href="https://hannahgregory.substack.com/about">Receive her letters here</a>.
