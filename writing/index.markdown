@@ -223,6 +223,14 @@ layout: writing
 </div> 
 
 <div class="sw-row">
+	<a href="https://www.textezurkunst.de/de/articles/hannah-gregory-bassem-saad-fire-is-of-the-imagination/">
+	<div class="sw-title">‘Fire Is of the Imagination’, on Bassem Saad at Triangle – Astérides, Marseille</div>
+	<div class="sw-publication">Texte zur Kunst</div>
+	<div class="sw-year">2023</div>
+	</a>
+</div> 
+
+<div class="sw-row">
 	<a href="/docs/Black-Mountainreview.pdf">
 	<div class="sw-title">‘Black Mountain College: An Interdisciplinary Experiment’ at Hamburger Bahnhof, Berlin</div>
 	<div class="sw-publication">ICON</div>
