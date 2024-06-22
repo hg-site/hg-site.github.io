@@ -6,9 +6,7 @@ layout: contact
 
 Write to me [here](mailto:hannah.gregory@gmail.com).
 
-<br/>I am open to writing commissions and publishing projects.
-
-With more than a decade of experience as an editor in the cultural sphere, I work with art institutions (documenta, Gwangju Biennale, KW Institute for Contemporary Art, Berlin), independent publishers (Book Works, Fitzcarraldo Editions, Ignota Books), and individual artists and writers (in recent years: Lawrence Abu Hamdan, Jesse Darling, Huw Lemmey). I am adept at guiding print and digital projects with rigour and care through all stages of the editorial process.
+I am open to writing commissions and publishing projects.
 
 <ul>
 	<li><a href="mailto:hannah.gregory@gmail.com" target="_blank">Email</a></li>
