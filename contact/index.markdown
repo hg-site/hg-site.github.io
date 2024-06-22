@@ -5,7 +5,6 @@ layout: contact
 ---
 
 Write to me [here](mailto:hannah.gregory@gmail.com).
-
 I am open to writing commissions and publishing projects.
 
 <ul>
