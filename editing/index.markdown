@@ -5,6 +5,20 @@ layout: editing
 ---
 
 <div class="item">
+	<a href="https://www.internationaleonline.org/">
+		<div class="cover">
+			<img src="/uploads/L'Inter%20Arch%20Diss.jpeg">
+		</div>
+		<div class="description">
+			<h3>L'internationale Online</h3>
+			<p class="publisher">L'internationale, 2021 – present</p>
+			<p class="role">Editing, copy-editing</p>
+		</div>
+	</a>
+</div>
+
+
+<div class="item">
 	<a href="https://subtextrecordings.greedbag.com/buy/fifth-quarter-derek-jarman-keith/">
 		<div class="cover">
 			<img src="/uploads/jarman2.jpeg">
@@ -52,19 +66,6 @@ layout: editing
 			<h3>Side Magazine, Issues 1–3</h3>
 			<p class="publisher">Bergen Assembly / Wirklichkeit Books, Berlin, 2021–22</p>
 			<p class="role">Proofreader</p>
-		</div>
-	</a>
-</div>
-
-<div class="item">
-	<a href="https://www.internationaleonline.org/">
-		<div class="cover">
-			<img src="/uploads/L'Inter%20Arch%20Diss.jpeg">
-		</div>
-		<div class="description">
-			<h3>L'internationale Online</h3>
-			<p class="publisher">L'internationale, 2021–22</p>
-			<p class="role">Editing, copy-editing</p>
 		</div>
 	</a>
 </div>
