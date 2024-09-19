@@ -18,7 +18,7 @@ layout: editing
 </div>
 
 <div class="item">
-	<a href="LINK ADDRESS TO WEBPAGE FOR PUBLICATION">
+	<a href="https://subtextbooks.net/Cybernetics-Or-Ghosts">
 		<div class="cover">
 			<img src="WEB ADDRESS OF THE IMAGE">
 		</div>
