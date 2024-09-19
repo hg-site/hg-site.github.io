@@ -17,6 +17,18 @@ layout: editing
 	</a>
 </div>
 
+<div class="item">
+	<a href="LINK ADDRESS TO WEBPAGE FOR PUBLICATION">
+		<div class="cover">
+			<img src="WEB ADDRESS OF THE IMAGE">
+		</div>
+		<div class="description">
+			<h3>PUBLICATION TITLE</h3>
+			<p class="publisher">PUBLISHERS NAME</p>
+			<p class="role">YOUR ROLE</p>
+		</div>
+	</a>
+</div>
 
 <div class="item">
 	<a href="https://subtextrecordings.greedbag.com/buy/fifth-quarter-derek-jarman-keith/">
@@ -38,7 +50,7 @@ layout: editing
 		</div>
 		<div class="description">
 			<h3>Climate: Our Right to Breathe</h3>
-			<p class="publisher">K. Verlag/L'internationale, 2022</p>
+			<p class="publisher">K. Verlag/L'Internationale, 2022</p>
 			<p class="role">Developmental editing, copy-editing</p>
 		</div>
 	</a>
