@@ -31,6 +31,19 @@ layout: editing
 </div>
 
 <div class="item">
+	<a href="https://store.jsc.gmbh/Digital-Diaries/KAT-0021">
+		<div class="cover">
+			<img src="/uploads/Screenshot%202024-09-19%20at%2016.06.47.png">
+		</div>
+		<div class="description">
+			<h3>Digital Diaries</h3>
+			<p class="publisher">JSF, 2024</p>
+			<p class="role">English editor</p>
+		</div>
+	</a>
+</div>
+
+<div class="item">
 	<a href="https://subtextrecordings.greedbag.com/buy/fifth-quarter-derek-jarman-keith/">
 		<div class="cover">
 			<img src="/uploads/jarman2.jpeg">
@@ -63,7 +76,7 @@ layout: editing
 		</div>
 		<div class="description">
 			<h3>at dawn</h3>
-			<p class="publisher">JSC Berlin, 2022</p>
+			<p class="publisher">JSF Berlin, 2022</p>
 			<p class="role">Editing</p>
 		</div>
 	</a>
