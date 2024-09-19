@@ -128,7 +128,7 @@ layout: editing
 		<div class="description">
 			<h3>Minds Rising, Spirits Tuning</h3>
 			<p class="publisher">Gwangju Biennale, South Korea, 2020–21</p>
-			<p class="role">Copy-editor</p>
+			<p class="role">Copy editor</p>
 		</div>
 	</a>
 </div>
@@ -141,7 +141,7 @@ layout: editing
 		<div class="description">
 			<h3>Leonilson Drawn (1975–1993)</h3>
 			<p class="publisher">Hatje Cantz / KW Institute for Contemporary Art, Berlin, 2020</p>
-			<p class="role">Copy-editor</p>
+			<p class="role">Copy editor</p>
 		</div>
 	</a>
 </div>
@@ -154,7 +154,7 @@ layout: editing
 		<div class="description">
 			<h3>Shame, Andrea Büttner</h3>
 			<p class="publisher">Koenig Books / KW Institute for Contemporary Art, Berlin, 2020</p>
-			<p class="role">Copy-editor</p>
+			<p class="role">Copy editor</p>
 		</div>
 	</a>
 </div>
@@ -180,7 +180,7 @@ layout: editing
 		<div class="description">
 			<h3>Unknown Language, Hildegard von Bingen and Huw Lemmey</h3>
 			<p class="publisher">Ignota Books, London, 2020</p>
-			<p class="role">Developmental, stylistic, copy-editing</p>
+			<p class="role">Developmental, stylistic, and copy-editing</p>
 		</div>
 	</a>
 </div>
@@ -193,7 +193,7 @@ layout: editing
 		<div class="description">
 			<h3>Waiting for Omar Gatlato</h3>
 			<p class="publisher">Sternberg Press / Wallach Art Gallery, New York, 2019</p>
-			<p class="role">Copy-editor</p>
+			<p class="role">Copy editor</p>
 		</div>
 	</a>
 </div>
@@ -206,7 +206,7 @@ layout: editing
 		<div class="description">
 			<h3>States of the Body Produced by Love, Nisha Ramayya</h3>
 			<p class="publisher">Ignota, London, 2019</p>
-			<p class="role">Copy-editor</p>
+			<p class="role">Copy editor</p>
 		</div>
 	</a>
 </div>
@@ -219,7 +219,7 @@ layout: editing
 		<div class="description">
 			<h3>Sad Sack, Sophia Al-Maria</h3>
 			<p class="publisher">Book Works, London, 2019</p>
-			<p class="role">Copy-editor</p>
+			<p class="role">Copy editor</p>
 		</div>
 	</a>
 </div>
@@ -271,7 +271,7 @@ layout: editing
 		<div class="description">
 			<h3>Transmediale Journals</h3>
 			<p class="publisher">Transmediale, Berlin, 2018–21</p>
-			<p class="role">Copy-editor</p>
+			<p class="role">Copy-editing</p>
 		</div>
 	</a>
 </div>
@@ -427,7 +427,7 @@ layout: editing
 	<div class="description">
 		<h3>Mo-Leeza Roberts, HEAD</h3>
 		<p class="publisher">Book Works, London, 2015</p>
-		<p class="role">Copy-editor</p>
+		<p class="role">Copy editor</p>
 	</div>
 </a>
 </div>
@@ -440,7 +440,7 @@ layout: editing
 	<div class="description">
 		<h3>A Primer for Cadavers<br />Notes on Suicide<br />Street of Thieves<br />Nicotine<br />It’s No Good<br />My Documents</h3>
 		<p class="publisher">Fitzcarraldo Editions, London</p>
-		<p class="role">Proofreador</p>
+		<p class="role">Proofreader</p>
 	</div>
 </a>
 </div>
