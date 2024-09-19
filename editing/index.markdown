@@ -59,7 +59,7 @@ layout: editing
 <div class="item">
 	<a href="https://www.internationaleonline.org/">
 		<div class="cover">
-			<img src="https://edit.internationaleonline.org/staged/assets/1j7tctme29z40coc?key=768">
+			<img src="/uploads/LIOIndeximforweb.png">
 		</div>
 		<div class="description">
 			<h3>L'internationale Online</h3>
