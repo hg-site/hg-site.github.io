@@ -20,12 +20,12 @@ layout: editing
 <div class="item">
 	<a href="https://subtextbooks.net/Cybernetics-Or-Ghosts">
 		<div class="cover">
-			<img src="WEB ADDRESS OF THE IMAGE">
+			<img src="/uploads/cyberneticsorghosts__final--cover--small-copy.jpg">
 		</div>
 		<div class="description">
-			<h3>PUBLICATION TITLE</h3>
-			<p class="publisher">PUBLISHERS NAME</p>
-			<p class="role">YOUR ROLE</p>
+			<h3>Cybernetics, or Ghosts?</h3>
+			<p class="publisher">Subtext, 2024</p>
+			<p class="role">Editing, editorial consultation</p>
 		</div>
 	</a>
 </div>
