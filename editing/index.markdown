@@ -18,7 +18,7 @@ layout: editing
 </div>
 
 <div class="item">
-	<a href="https://k-verlag.org/books/climate-our-right-to-breathe/">
+	<a href="https://kverlag.com/products/climate?_pos=1&_sid=57278b62a&_ss=r">
 		<div class="cover">
 			<img src="/uploads/K.2022_LIO_CLIMATEOurRightToBreathe3.gif">
 		</div>
