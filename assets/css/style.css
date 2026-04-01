@@ -224,6 +224,11 @@ tbody tr:hover {
 	align-content: flex-start;
 }
 
+.editing a:link, .editing a:visited {
+	color: rgba(31, 30, 36, 1);
+	text-decoration: none;
+}
+
 .item {
 	width: 50%;
 	min-height: 300px;
