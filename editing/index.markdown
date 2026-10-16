@@ -25,7 +25,7 @@ layout: editing
 		<div class="description">
 			<h3>Border of Time / Borde del tiempo, Ulf Rollof</h3>
 			<p class="publisher">RM Editorial, 2026</p>
-			<p class="role">Editor, Editorial Consultation</p>
+			<p class="role">Editor, editorial consultation</p>
 		</div>
 	</a>
 </div>
