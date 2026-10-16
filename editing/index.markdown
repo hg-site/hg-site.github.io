@@ -18,6 +18,19 @@ layout: editing
 </div>
 
 <div class="item">
+	<a href="https://editorialrm.com/en/producto/borde-del-tiempo/">
+		<div class="cover">
+			<img src="https://editorialrm.com/wp-content/uploads/2026/07/Bord-del-tiempo_render-768x947.jpg">
+		</div>
+		<div class="description">
+			<h3>Border of Time / Borde del tiempo, Ulf Rollof</h3>
+			<p class="publisher">RM Editorial, 2026</p>
+			<p class="role">Editor, Editorial Consultation</p>
+		</div>
+	</a>
+</div>
+
+<div class="item">
 	<a href="https://www.moussemagazine.it/shop/lynn-hershman-leeson-a-history-of-her-own/">
 		<div class="cover">
 			<img src="/uploads/Screenshot%202026-10-16%20at%2017.01.05.png">
