@@ -11,7 +11,7 @@ layout: editing
 		</div>
 		<div class="description">
 			<h3>Commentaries. Vai pure, Carla Lonzi, Karolin Meunier</h3>
-			<p class="publisher">b_books</p>
+			<p class="publisher">b_books, 2026</p>
 			<p class="role">Editorial advisor, copy-editing</p>
 		</div>
 	</a>
