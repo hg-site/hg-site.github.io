@@ -5,6 +5,45 @@ layout: editing
 ---
 
 <div class="item">
+	<a href="https://www.bbooks.de/verlag/commentaries-vai-pure-carla-lonzi">
+		<div class="cover">
+			<img src="https://karolinmeunier.org/wp-content/uploads/Meunier-Commentaries-Cover-Kopie-765x1280.jpg">
+		</div>
+		<div class="description">
+			<h3>Commentaries. Vai pure, Carla Lonzi, Karolin Meunier</h3>
+			<p class="publisher">b_books, 2026</p>
+			<p class="role">Editorial advisor, copy-editing</p>
+		</div>
+	</a>
+</div>
+
+<div class="item">
+	<a href="https://editorialrm.com/en/producto/borde-del-tiempo/">
+		<div class="cover">
+			<img src="https://www.librerias-picasso.com/imagenes/9788410/978841029077.GIF">
+		</div>
+		<div class="description">
+			<h3>Border of Time / Borde del tiempo, Ulf Rollof</h3>
+			<p class="publisher">RM Editorial, 2026</p>
+			<p class="role">Editor, editorial consultation</p>
+		</div>
+	</a>
+</div>
+
+<div class="item">
+	<a href="https://www.moussemagazine.it/shop/lynn-hershman-leeson-a-history-of-her-own/">
+		<div class="cover">
+			<img src="/uploads/Screenshot%202026-10-16%20at%2017.01.05.png">
+		</div>
+		<div class="description">
+			<h3>Lynn Hershman Leeson: A History of Her Own</h3>
+			<p class="publisher">Mousse Publishing / Julia Stoschek Foundation, 2026</p>
+			<p class="role">Editor of new texts</p>
+		</div>
+	</a>
+</div>
+
+<div class="item">
 	<a href="https://www.internationaleonline.org/">
 		<div class="cover">
 			<img src="/uploads/Screenshot%202024-12-24%20at%2015.53.55.png">
@@ -63,7 +102,7 @@ layout: editing
 		</div>
 		<div class="description">
 			<h3>Climate: Our Right to Breathe</h3>
-			<p class="publisher">K. Verlag/L'Internationale, 2022</p>
+			<p class="publisher">K. Verlag / L'Internationale, 2022</p>
 			<p class="role">Developmental editing, copy-editing</p>
 		</div>
 	</a>
