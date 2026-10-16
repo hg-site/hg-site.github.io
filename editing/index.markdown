@@ -5,6 +5,19 @@ layout: editing
 ---
 
 <div class="item">
+	<a href="https://www.moussemagazine.it/shop/lynn-hershman-leeson-a-history-of-her-own/">
+		<div class="cover">
+			<img src="https://www.moussemagazine.it/wp-content/uploads/2026/04/LH_1-2000x1414.jpg">
+		</div>
+		<div class="description">
+			<h3>Lynn Hershman Leeson: A History of Her Own</h3>
+			<p class="publisher">Mousse Publishing / Julia Stoschek Foundation, 2026</p>
+			<p class="role">Editor of new texts</p>
+		</div>
+	</a>
+</div>
+
+<div class="item">
 	<a href="https://www.internationaleonline.org/">
 		<div class="cover">
 			<img src="/uploads/Screenshot%202024-12-24%20at%2015.53.55.png">
@@ -63,7 +76,7 @@ layout: editing
 		</div>
 		<div class="description">
 			<h3>Climate: Our Right to Breathe</h3>
-			<p class="publisher">K. Verlag/L'Internationale, 2022</p>
+			<p class="publisher">K. Verlag / L'Internationale, 2022</p>
 			<p class="role">Developmental editing, copy-editing</p>
 		</div>
 	</a>
