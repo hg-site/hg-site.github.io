@@ -7,7 +7,7 @@ layout: editing
 <div class="item">
 	<a href="https://www.moussemagazine.it/shop/lynn-hershman-leeson-a-history-of-her-own/">
 		<div class="cover">
-			<img src="https://www.moussemagazine.it/wp-content/uploads/2026/04/LH_1-2000x1414.jpg">
+			<img src="/uploads/Screenshot%202026-10-16%20at%2017.01.05.png">
 		</div>
 		<div class="description">
 			<h3>Lynn Hershman Leeson: A History of Her Own</h3>
