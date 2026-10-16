@@ -20,7 +20,7 @@ layout: editing
 <div class="item">
 	<a href="https://editorialrm.com/en/producto/borde-del-tiempo/">
 		<div class="cover">
-			<img src="https://editorialrm.com/wp-content/uploads/2026/07/Bord-del-tiempo_render-768x947.jpg">
+			<img src="https://www.librerias-picasso.com/imagenes/9788410/978841029077.GIF">
 		</div>
 		<div class="description">
 			<h3>Border of Time / Borde del tiempo, Ulf Rollof</h3>
